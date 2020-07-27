@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Aaron Meese!](https://user-images.githubusercontent.com/17814535/88552040-33b43880-cfe9-11ea-9cc9-d0f032edfe1b.png)
 
 - 🔭 I’m currently working on [Coupon Booked](https://couponbooked.com), my first full-stack application.
 - 🌱 I’m currently learning Artificial Intelligence via UC Berkeley's [CS 188.1x](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/).
