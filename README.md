@@ -12,6 +12,7 @@
 - 📺 Monitors: My current setup has a [34 inch UltraWide](https://www.bhphotovideo.com/c/product/1224159-REG/lg_34um68_p_34_21_9_ultra_wide.html/SID/wtbs_5f13032e833f32ad3d28012f) as my main, a [27 inch G-SYNC](https://www.amazon.com/dp/B07GWD3ZQL?tag=georiot-us-default-20&th=1&psc=1&ascsubtag=pcg-us-1296332435090532000-20) for Discord, a [25 inch](https://www.amazon.com/Acer-G257HL-bmidx-25-Inch-Widescreen/dp/B00RN08I86/ref=sr_1_57?dchild=1&qid=1595081808&refinements=p_89%3AAcer%2Cp_n_size_browse-bin%3A3547806011&s=pc&sr=1-57) for [Spotify](https://open.spotify.com/user/ajmeese)/[Stack Overflow](https://stackoverflow.com/users/6456163/ajmeese7?tab=profile), and a 55 inch Smart TV for movie night.
 
 <p align="center">
+  <br>
   <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/ajmeese7/count.svg" alt="Visitor Count"/>
 </p>
