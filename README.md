@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Aaron Meese!](https://user-images.githubusercontent.com/17814535/88552040-33b43880-cfe9-11ea-9cc9-d0f032edfe1b.png)](https://github.com/ajmeese7/readme-ascii "README ASCII")
+[![Aaron Meese!](https://user-images.githubusercontent.com/17814535/88975338-a2aabf00-d27f-11ea-963f-8a19608716b4.png)](https://github.com/ajmeese7/readme-ascii "README ASCII")
 
 
 - 🔭 I’m currently working on [Coupon Booked](https://couponbooked.com), my first full-stack application.
