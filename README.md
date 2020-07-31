@@ -99,5 +99,6 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 ----------------------------------------------------------------------------------------------------------------------------
 *NOTE: Top languages does not indicate skill level, it's a GitHub metric of which languages I have the most code in on GitHub*
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmeese7&hide_langs_below=5&layout=compact" alt="Aaron's language stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ajmeese7&show_icons=true&line_height=27" alt="Aaron's GitHub stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajmeese7&show_icons=true&line_height=27" alt="Aaron's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmeese7&hide_langs_below=5&layout=compact" alt="Aaron's language stats"/>
+
