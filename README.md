@@ -38,17 +38,17 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 - 🎯 Portfolio site: [https://aaronmeese.com](https://aaronmeese.com/)
 -->
 
-<p align="center">
-  <br>
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/ajmeese7/count.svg" alt="Visitor Count"/>
-</p>
-
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **HTML, CSS, JavaScript, and PHP**
 - Libraries/Frameworks - **NodeJS, Cordova, jQuery, and Discord.js**
 - Software/Services - **Wallpaper Engine, phpMyAdmin, Cloudinary, Puppeteer, Heroku, Google Analytics, and Nexmo**
+
+<p align="center">
+  <br>
+  <b>Visitor Count</b><br>
+  <img src="https://profile-counter.glitch.me/ajmeese7/count.svg" alt="Visitor Count"/>
+</p>
 
 ### GitHub Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
