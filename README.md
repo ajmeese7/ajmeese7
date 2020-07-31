@@ -46,6 +46,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + JavaScript
 + HTML
 + CSS
+    + [README ASCII](https://github.com/ajmeese7/readme-ascii)
 + PHP
 + Java
     + [BRCC Java](https://github.com/ajmeese7/brcc-java)
@@ -56,6 +57,8 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 <summary>Libraries/Frameworks</summary>
 
 + NodeJS
+    + [Snapchat Share](https://github.com/ajmeese7/snapchat-share)
+    + [FRC Spreadsheets](https://github.com/ajmeese7/frc-spreadsheets)
 + Cordova
 + jQuery
 + Discord.js
@@ -73,6 +76,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + phpMyAdmin
 + Cloudinary
 + Puppeteer
+    + [README ASCII](https://github.com/ajmeese7/readme-ascii)
     + [Repbot](https://github.com/ajmeese7/repbot)
     + [Dynamic Page Retrieval](https://github.com/ajmeese7/dynamic-page-retrieval)
 + Nightmare.js
