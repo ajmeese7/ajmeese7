@@ -40,9 +40,50 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, CSS, JavaScript, and PHP**
-- Libraries/Frameworks - **NodeJS, Cordova, jQuery, and Discord.js**
-- Software/Services - **Wallpaper Engine, phpMyAdmin, Cloudinary, Puppeteer, Heroku, Google Analytics, and Nexmo**
+<details>
+<summary>Languages</summary>
+
++ JavaScript
++ HTML
++ CSS
++ PHP
++ Java
+    + [BRCC Java](https://github.com/ajmeese7/brcc-java)
+    + [Euler Problems](https://github.com/ajmeese7/euler-problems)
+
+</details>
+<details>
+<summary>Libraries/Frameworks</summary>
+
++ NodeJS
++ Cordova
++ jQuery
++ Discord.js
+    + [Spambot](https://github.com/ajmeese7/spambot)
+    + [Automatic Reactions](https://github.com/ajmeese7/automatic-reactions)
+    + [Multiple Reactions](https://github.com/ajmeese7/multiple-reactions)
+
+</details>
+<details>
+<summary>Software/Services</summary>
+
++ Wallpaper Engine
+    + [Random Wallpaper](https://github.com/ajmeese7/random-wallpaper)
+    + [Image of the Day](https://github.com/ajmeese7/image-of-the-day)
++ phpMyAdmin
++ Cloudinary
++ Puppeteer
+    + [Repbot](https://github.com/ajmeese7/repbot)
+    + [Dynamic Page Retrieval](https://github.com/ajmeese7/dynamic-page-retrieval)
++ Nightmare.js
+    + [Steam Queue Clicker](https://github.com/ajmeese7/steam-queue-clicker)
++ Firefox Extensions
+    + [Chess Next Move](https://github.com/ajmeese7/chess-next-move)
+    + [Gmail Label Organizer](https://github.com/ajmeese7/gmail-label-organizer)
++ Google Analytics
++ Heroku
++ Nexmo
+</details>
 
 <p align="center">
   <br>
