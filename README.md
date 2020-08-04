@@ -21,6 +21,11 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.codewars.com/users/ajmeese7">
+    <img src="https://www.codewars.com/users/ajmeese7/badges/large" />
+  </a>
+</p>
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
