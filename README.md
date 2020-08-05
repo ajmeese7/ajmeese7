@@ -114,6 +114,12 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#4](https://github.com//ajmeese7/repbot/issues/4) in [ajmeese7/repbot](https://github.com//ajmeese7/repbot)
+2. 💪 Opened PR [#1](https://github.com//DYstebo/StinkyBot/pull/1) in [DYstebo/StinkyBot](https://github.com//DYstebo/StinkyBot)
+3. 🎉 Merged PR [#2](https://github.com//ajmeese7/automatic-reactions/pull/2) in [ajmeese7/automatic-reactions](https://github.com//ajmeese7/automatic-reactions)
+4. 🎉 Merged PR [#31](https://github.com//ajmeese7/spambot/pull/31) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+5. 🎉 Merged PR [#2](https://github.com//ajmeese7/multiple-reactions/pull/2) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4.6%20million%20Lines%20of%20code-blue)
