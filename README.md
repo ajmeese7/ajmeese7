@@ -121,6 +121,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 5. 🎉 Merged PR [#2](https://github.com//ajmeese7/multiple-reactions/pull/2) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
 <!--END_SECTION:activity-->
 
+### 🧐 Waka Stats
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4.6%20million%20Lines%20of%20code-blue)
 
