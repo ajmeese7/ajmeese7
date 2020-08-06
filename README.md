@@ -115,10 +115,10 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
-2. ❗️ Closed issue [#4](https://github.com//ajmeese7/repbot/issues/4) in [ajmeese7/repbot](https://github.com//ajmeese7/repbot)
-3. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
-4. ❗️ Opened issue [#4](https://github.com//ajmeese7/repbot/issues/4) in [ajmeese7/repbot](https://github.com//ajmeese7/repbot)
-5. 💪 Opened PR [#1](https://github.com//DYstebo/StinkyBot/pull/1) in [DYstebo/StinkyBot](https://github.com//DYstebo/StinkyBot)
+2. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
+3. ❗️ Closed issue [#4](https://github.com//ajmeese7/repbot/issues/4) in [ajmeese7/repbot](https://github.com//ajmeese7/repbot)
+4. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
+5. ❗️ Opened issue [#4](https://github.com//ajmeese7/repbot/issues/4) in [ajmeese7/repbot](https://github.com//ajmeese7/repbot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
