@@ -35,7 +35,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 <img width="50%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently practicing MySQL
+- 🔭 I’m currently practicing PostgreSQL
 - 📫 How to reach me: **ajmeese7#4835** on [Discord](https://discord.com)
 - 👨🏼‍💻 Developing [Coupon Booked](https://couponbooked.com), my first app
 - 💬 Ask me about anything dealing with JavaScript!
