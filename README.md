@@ -114,11 +114,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com//anmol098/waka-readme-stats/pull/45) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
+1. ❗️ Opened issue [#46](https://github.com//anmol098/waka-readme-stats/issues/46) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. 💪 Opened PR [#45](https://github.com//anmol098/waka-readme-stats/pull/45) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 3. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
-4. ❗️ Closed issue [#4](https://github.com//ajmeese7/repbot/issues/4) in [ajmeese7/repbot](https://github.com//ajmeese7/repbot)
-5. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
+4. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
+5. ❗️ Closed issue [#4](https://github.com//ajmeese7/repbot/issues/4) in [ajmeese7/repbot](https://github.com//ajmeese7/repbot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
