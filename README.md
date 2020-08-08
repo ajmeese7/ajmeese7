@@ -114,11 +114,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#107](https://github.com//tipsy/profile-summary-for-github/issues/107) in [tipsy/profile-summary-for-github](https://github.com//tipsy/profile-summary-for-github)
-2. ❗️ Opened issue [#46](https://github.com//anmol098/waka-readme-stats/issues/46) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-3. 💪 Opened PR [#45](https://github.com//anmol098/waka-readme-stats/pull/45) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-4. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
-5. 🗣 Commented on [#3](https://github.com//ajmeese7/readme-ascii/issues/3) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
+1. ❌ Closed PR [#5](https://github.com//collectmeaustralia/cordova-cloudinary-upload/pull/5) in [collectmeaustralia/cordova-cloudinary-upload](https://github.com//collectmeaustralia/cordova-cloudinary-upload)
+2. 🗣 Commented on [#5](https://github.com//collectmeaustralia/cordova-cloudinary-upload/issues/5) in [collectmeaustralia/cordova-cloudinary-upload](https://github.com//collectmeaustralia/cordova-cloudinary-upload)
+3. ❌ Closed PR [#3](https://github.com//afragen/add-custom-header-images/pull/3) in [afragen/add-custom-header-images](https://github.com//afragen/add-custom-header-images)
+4. 🗣 Commented on [#3](https://github.com//afragen/add-custom-header-images/issues/3) in [afragen/add-custom-header-images](https://github.com//afragen/add-custom-header-images)
+5. ❗️ Opened issue [#13](https://github.com//Molunerfinn/node-github-profile-summary/issues/13) in [Molunerfinn/node-github-profile-summary](https://github.com//Molunerfinn/node-github-profile-summary)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
