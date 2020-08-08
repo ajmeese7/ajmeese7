@@ -25,6 +25,7 @@
   <a href="https://www.codewars.com/users/ajmeese7">
     <img src="https://www.codewars.com/users/ajmeese7/badges/large" />
   </a>
+  <!-- <img src="https://projecteuler.net/profile/ajmeese7.png" /> -->
 </p>
 
 ### About Me ###
@@ -70,6 +71,15 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
     + [Spambot](https://github.com/ajmeese7/spambot)
     + [Automatic Reactions](https://github.com/ajmeese7/automatic-reactions)
     + [Multiple Reactions](https://github.com/ajmeese7/multiple-reactions)
++ Puppeteer
+    + [README ASCII](https://github.com/ajmeese7/readme-ascii)
+    + [Dynamic Page Retrieval](https://github.com/ajmeese7/dynamic-page-retrieval)
++ Nightmare.js
+    + [Steam Queue Clicker](https://github.com/ajmeese7/steam-queue-clicker)
+    + [Repbot](https://github.com/ajmeese7/repbot)
++ json-fs-store
+    + [Multiple Reactions](https://github.com/ajmeese7/multiple-reactions)
++ pdf-lib
 
 </details>
 <details>
@@ -80,19 +90,22 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
     + [Image of the Day](https://github.com/ajmeese7/image-of-the-day)
 + phpMyAdmin
 + Cloudinary
-+ Puppeteer
-    + [README ASCII](https://github.com/ajmeese7/readme-ascii)
-    + [Dynamic Page Retrieval](https://github.com/ajmeese7/dynamic-page-retrieval)
-+ Nightmare.js
-    + [Steam Queue Clicker](https://github.com/ajmeese7/steam-queue-clicker)
-    + [Repbot](https://github.com/ajmeese7/repbot)
 + Firefox Extensions
     + [Chess Next Move](https://github.com/ajmeese7/chess-next-move)
     + [Gmail Label Organizer](https://github.com/ajmeese7/gmail-label-organizer)
 + Google Analytics
 + Heroku
 + Nexmo
+
 </details>
+<!--
+<details>
+<summary>Soft Skills</summary>
++ English/Grammar
++ SEO
+    <!-- + TODO: Add my site examples after I finish improving them --
+</details>
+-->
 
 <p align="center">
   <br>
