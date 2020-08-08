@@ -96,6 +96,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + Google Analytics
 + Heroku
 + Nexmo
++ Auth0
 
 </details>
 <!--
