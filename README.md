@@ -2,19 +2,19 @@
 [![Aaron Meese!](https://user-images.githubusercontent.com/17814535/88975338-a2aabf00-d27f-11ea-963f-8a19608716b4.png)](https://github.com/ajmeese7/readme-ascii "README ASCII")
 
 <p align="center">
-  <a href="https://github.com/ajmeese7">
+  <a href="https://link.aaronmeese.com/github">
     <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aaronmeese/">
+  <a href="https://link.aaronmeese.com/linkedin">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ajmeese7">
+  <a href="https://link.aaronmeese.com/instagram">
     <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ajmeese7">
+  <a href="https://link.aaronmeese.com/twitter">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ajmeese7" />
   </a>
-  <a href="https://medium.com/@ajmeese7">
+  <a href="https://link.aaronmeese.com/medium">
     <img src="https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ajmeese7/" />
   </a>
   <a href="mailto:ajmeese7@gmail.com">
@@ -22,7 +22,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.codewars.com/users/ajmeese7">
+  <a href="https://link.aaronmeese.com/codewars">
     <img src="https://www.codewars.com/users/ajmeese7/badges/large" />
   </a>
   <!-- <img src="https://projecteuler.net/profile/ajmeese7.png" /> -->
