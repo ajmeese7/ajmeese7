@@ -128,11 +128,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com//collectmeaustralia/cordova-cloudinary-upload/pull/5) in [collectmeaustralia/cordova-cloudinary-upload](https://github.com//collectmeaustralia/cordova-cloudinary-upload)
-2. 🗣 Commented on [#5](https://github.com//collectmeaustralia/cordova-cloudinary-upload/issues/5) in [collectmeaustralia/cordova-cloudinary-upload](https://github.com//collectmeaustralia/cordova-cloudinary-upload)
-3. ❌ Closed PR [#3](https://github.com//afragen/add-custom-header-images/pull/3) in [afragen/add-custom-header-images](https://github.com//afragen/add-custom-header-images)
-4. 🗣 Commented on [#3](https://github.com//afragen/add-custom-header-images/issues/3) in [afragen/add-custom-header-images](https://github.com//afragen/add-custom-header-images)
-5. ❗️ Opened issue [#13](https://github.com//Molunerfinn/node-github-profile-summary/issues/13) in [Molunerfinn/node-github-profile-summary](https://github.com//Molunerfinn/node-github-profile-summary)
+1. 🗣 Commented on [#49](https://github.com//anmol098/waka-readme-stats/issues/49) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. ❗️ Opened issue [#49](https://github.com//anmol098/waka-readme-stats/issues/49) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+3. ❌ Closed PR [#5](https://github.com//collectmeaustralia/cordova-cloudinary-upload/pull/5) in [collectmeaustralia/cordova-cloudinary-upload](https://github.com//collectmeaustralia/cordova-cloudinary-upload)
+4. 🗣 Commented on [#5](https://github.com//collectmeaustralia/cordova-cloudinary-upload/issues/5) in [collectmeaustralia/cordova-cloudinary-upload](https://github.com//collectmeaustralia/cordova-cloudinary-upload)
+5. ❌ Closed PR [#3](https://github.com//afragen/add-custom-header-images/pull/3) in [afragen/add-custom-header-images](https://github.com//afragen/add-custom-header-images)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
