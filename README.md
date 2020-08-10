@@ -20,10 +20,8 @@
   <a href="mailto:ajmeese7@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  <a href="https://link.aaronmeese.com/codewars">
-    <img src="https://www.codewars.com/users/ajmeese7/badges/large" />
+   <a href="https://link.aaronmeese.com/codewars">
+    <img src="https://www.codewars.com/users/ajmeese7/badges/micro" />
   </a>
   <!-- <img src="https://projecteuler.net/profile/ajmeese7.png" /> -->
 </p>
