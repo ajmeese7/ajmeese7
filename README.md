@@ -205,6 +205,10 @@ CSS                      1 repos             ░░░░░░░░░░░�
 ```
 
 
+**Timeline**
+
+![Chart not found](https://github.com/ajmeese7/ajmeese7/blob/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 </details>
