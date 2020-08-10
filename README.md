@@ -126,11 +126,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com//anmol098/waka-readme-stats/issues/53) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. 💪 Opened PR [#52](https://github.com//anmol098/waka-readme-stats/pull/52) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-3. 🎉 Merged PR [#1](https://github.com//ajmeese7/waka-readme-stats/pull/1) in [ajmeese7/waka-readme-stats](https://github.com//ajmeese7/waka-readme-stats)
-4. 💪 Opened PR [#1](https://github.com//ajmeese7/waka-readme-stats/pull/1) in [ajmeese7/waka-readme-stats](https://github.com//ajmeese7/waka-readme-stats)
-5. 💪 Opened PR [#51](https://github.com//anmol098/waka-readme-stats/pull/51) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+1. 🗣 Commented on [#1](https://github.com//ajmeese7/view-aquinas/issues/1) in [ajmeese7/view-aquinas](https://github.com//ajmeese7/view-aquinas)
+2. ❗️ Closed issue [#1](https://github.com//ajmeese7/view-aquinas/issues/1) in [ajmeese7/view-aquinas](https://github.com//ajmeese7/view-aquinas)
+3. ❗️ Opened issue [#1](https://github.com//ajmeese7/view-aquinas/issues/1) in [ajmeese7/view-aquinas](https://github.com//ajmeese7/view-aquinas)
+4. ❗️ Opened issue [#53](https://github.com//anmol098/waka-readme-stats/issues/53) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+5. 💪 Opened PR [#52](https://github.com//anmol098/waka-readme-stats/pull/52) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
