@@ -137,7 +137,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 513 Contributions in year 2020
+> 🏆 513 Contributions in 2020
  > 
 > 📦 Used 43.7 kB in GitHub's Storage 
  > 
@@ -147,7 +147,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
  > 
 > 🔑 15 Owned Private Repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    143 commits    ██████░░░░░░░░░░░░░░░░░░░   27.34% 
@@ -170,7 +170,7 @@ Sunday       72 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: America/Chicago
@@ -191,7 +191,7 @@ steam-rainbow-name       1 hr 12 mins        █░░░░░░░░░░�
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               21 repos            ██████████████░░░░░░░░░░░   56.76% 
