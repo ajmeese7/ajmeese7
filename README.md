@@ -137,13 +137,13 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 514 Contributions in the year 2020
+> 🏆 516 Contributions in the year 2020
  > 
 > 📦 43.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public repositories
+> 📜 43 Public repositories
  > 
 > 🔑 15 Private repositories 
 
