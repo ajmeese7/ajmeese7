@@ -137,7 +137,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 516 Contributions in the year 2020
+> 🏆 517 Contributions in the year 2020
  > 
 > 📦 43.8 kB Used in Github's Storage 
  > 
@@ -150,8 +150,8 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    143 commits    ██████░░░░░░░░░░░░░░░░░░░   27.34% 
-🌆 Daytime    245 commits    ███████████░░░░░░░░░░░░░░   46.85% 
+🌞 Morning    144 commits    ███████░░░░░░░░░░░░░░░░░░   27.53% 
+🌆 Daytime    244 commits    ███████████░░░░░░░░░░░░░░   46.65% 
 🌃 Evening    129 commits    ██████░░░░░░░░░░░░░░░░░░░   24.67% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
