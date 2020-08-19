@@ -78,6 +78,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + json-fs-store
     + [Multiple Reactions](https://github.com/ajmeese7/multiple-reactions)
 + pdf-lib
++ async
 
 </details>
 <details>
@@ -95,6 +96,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + Heroku
 + Nexmo
 + Auth0
++ OneSignal
 
 </details>
 <!--
