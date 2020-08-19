@@ -126,11 +126,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-2. 💪 Opened PR [#202](https://github.com//cryptag/leapchat/pull/202) in [cryptag/leapchat](https://github.com//cryptag/leapchat)
-3. 💪 Opened PR [#425](https://github.com//rauenzi/BetterDiscordApp/pull/425) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
-4. 🗣 Commented on [#1](https://github.com//ajmeese7/view-aquinas/issues/1) in [ajmeese7/view-aquinas](https://github.com//ajmeese7/view-aquinas)
-5. ❗️ Closed issue [#1](https://github.com//ajmeese7/view-aquinas/issues/1) in [ajmeese7/view-aquinas](https://github.com//ajmeese7/view-aquinas)
+1. 💪 Opened PR [#2](https://github.com//DYstebo/List-Bot/pull/2) in [DYstebo/List-Bot](https://github.com//DYstebo/List-Bot)
+2. 🗣 Commented on [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+3. 💪 Opened PR [#202](https://github.com//cryptag/leapchat/pull/202) in [cryptag/leapchat](https://github.com//cryptag/leapchat)
+4. 💪 Opened PR [#425](https://github.com//rauenzi/BetterDiscordApp/pull/425) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
+5. 🗣 Commented on [#1](https://github.com//ajmeese7/view-aquinas/issues/1) in [ajmeese7/view-aquinas](https://github.com//ajmeese7/view-aquinas)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
