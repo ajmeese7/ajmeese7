@@ -126,11 +126,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//DYstebo/List-Bot/pull/2) in [DYstebo/List-Bot](https://github.com//DYstebo/List-Bot)
+1. ❗️ Closed issue [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
 2. 🗣 Commented on [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-3. 💪 Opened PR [#202](https://github.com//cryptag/leapchat/pull/202) in [cryptag/leapchat](https://github.com//cryptag/leapchat)
-4. 💪 Opened PR [#425](https://github.com//rauenzi/BetterDiscordApp/pull/425) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
-5. 🗣 Commented on [#1](https://github.com//ajmeese7/view-aquinas/issues/1) in [ajmeese7/view-aquinas](https://github.com//ajmeese7/view-aquinas)
+3. ❗️ Closed issue [#30](https://github.com//ajmeese7/spambot/issues/30) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+4. 🗣 Commented on [#30](https://github.com//ajmeese7/spambot/issues/30) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+5. 💪 Opened PR [#2](https://github.com//DYstebo/List-Bot/pull/2) in [DYstebo/List-Bot](https://github.com//DYstebo/List-Bot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
