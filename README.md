@@ -128,11 +128,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
-2. ❗️ Closed issue [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-3. 🗣 Commented on [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-4. ❗️ Closed issue [#30](https://github.com//ajmeese7/spambot/issues/30) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-5. 🗣 Commented on [#30](https://github.com//ajmeese7/spambot/issues/30) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+1. 🗣 Commented on [#33](https://github.com//ajmeese7/spambot/issues/33) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+2. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+3. ❗️ Closed issue [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+4. 🗣 Commented on [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+5. ❗️ Closed issue [#30](https://github.com//ajmeese7/spambot/issues/30) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
