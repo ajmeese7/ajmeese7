@@ -145,7 +145,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories
+> 📜 43 Public Repositories
  > 
 > 🔑 15 Private Repositories 
 
