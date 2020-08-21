@@ -128,11 +128,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#425](https://github.com//rauenzi/BetterDiscordApp/pull/425) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
-2. 🗣 Commented on [#33](https://github.com//ajmeese7/spambot/issues/33) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+1. 💪 Opened PR [#1](https://github.com//gargakshit/gargakshit/pull/1) in [gargakshit/gargakshit](https://github.com//gargakshit/gargakshit)
+2. ❌ Closed PR [#425](https://github.com//rauenzi/BetterDiscordApp/pull/425) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
 3. 🗣 Commented on [#33](https://github.com//ajmeese7/spambot/issues/33) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-4. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
-5. ❗️ Closed issue [#32](https://github.com//ajmeese7/spambot/issues/32) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+4. 🗣 Commented on [#33](https://github.com//ajmeese7/spambot/issues/33) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+5. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
