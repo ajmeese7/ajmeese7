@@ -133,11 +133,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
-2. 🎉 Merged PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-3. 💪 Opened PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-4. 💪 Opened PR [#1](https://github.com//gargakshit/gargakshit/pull/1) in [gargakshit/gargakshit](https://github.com//gargakshit/gargakshit)
-5. ❌ Closed PR [#425](https://github.com//rauenzi/BetterDiscordApp/pull/425) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
+1. ❗️ Closed issue [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+2. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+3. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+4. 🎉 Merged PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+5. 💪 Opened PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
