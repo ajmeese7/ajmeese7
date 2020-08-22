@@ -27,7 +27,7 @@
 </p>
 
 ### About Me ###
-----------------------------------------------------------------------------------------------------------------------------
+----
 Currently, I am learning Artificial Intelligence via UC Berkeley's [CS 188.1x](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/) course.
 I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.com/ajmeese7) and developing several projects, including the 
 [readme-ascii](https://github.com/ajmeese7/readme-ascii) one featured above!
@@ -43,7 +43,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 -->
 
 ### Skills ###
-----------------------------------------------------------------------------------------------------------------------------
+----
 <details>
 <summary>Languages</summary>
 
@@ -69,12 +69,15 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
     + [Spambot](https://github.com/ajmeese7/spambot)
     + [Automatic Reactions](https://github.com/ajmeese7/automatic-reactions)
     + [Multiple Reactions](https://github.com/ajmeese7/multiple-reactions)
+    + [Galley Calls](https://github.com/ajmeese7/galley-calls)
 + Puppeteer
     + [README ASCII](https://github.com/ajmeese7/readme-ascii)
     + [Dynamic Page Retrieval](https://github.com/ajmeese7/dynamic-page-retrieval)
 + Nightmare.js
     + [Steam Queue Clicker](https://github.com/ajmeese7/steam-queue-clicker)
     + [Repbot](https://github.com/ajmeese7/repbot)
++ Express
+    + [Galley Calls](https://github.com/ajmeese7/galley-calls)
 + json-fs-store
     + [Multiple Reactions](https://github.com/ajmeese7/multiple-reactions)
 + pdf-lib
@@ -95,6 +98,8 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + Google Analytics
 + Heroku
 + Nexmo
++ Twilio
+    + [Galley Calls](https://github.com/ajmeese7/galley-calls)
 + Auth0
 + OneSignal
 
@@ -115,7 +120,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 </p>
 
 ### GitHub Stats ###
-----------------------------------------------------------------------------------------------------------------------------
+----
 *NOTE: Top languages does not indicate skill level, it's a GitHub metric of which languages I have the most code in on GitHub*
 
 <a href="https://profile-summary-for-github.com/user/ajmeese7">
