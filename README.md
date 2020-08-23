@@ -109,11 +109,11 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com//novatorem/novatorem/issues/3) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
-2. ❗️ Closed issue [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
-3. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+1. 🗣 Commented on [#1](https://github.com//ajmeese7/snapchat-share/issues/1) in [ajmeese7/snapchat-share](https://github.com//ajmeese7/snapchat-share)
+2. ❗️ Opened issue [#3](https://github.com//novatorem/novatorem/issues/3) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+3. ❗️ Closed issue [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
 4. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
-5. 🎉 Merged PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+5. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
