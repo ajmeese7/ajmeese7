@@ -1,46 +1,30 @@
 ### Hi there 👋🏻
 [![Aaron Meese!](https://user-images.githubusercontent.com/17814535/88975338-a2aabf00-d27f-11ea-963f-8a19608716b4.png)](https://github.com/ajmeese7/readme-ascii "README ASCII")
 
-<p align="center">
-  <a href="https://link.aaronmeese.com/github">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://link.aaronmeese.com/linkedin">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://link.aaronmeese.com/instagram">
-    <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://link.aaronmeese.com/twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ajmeese7" />
-  </a>
-  <a href="https://link.aaronmeese.com/medium">
-    <img src="https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ajmeese7/" />
-  </a>
-  <a href="mailto:ajmeese7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-   <a href="https://link.aaronmeese.com/codewars">
-    <img src="https://www.codewars.com/users/ajmeese7/badges/micro" />
-  </a>
-  <!-- <img src="https://projecteuler.net/profile/ajmeese7.png" /> -->
+<!-- Modified from project here: https://github.com/novatorem/novatorem -->
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://ajmeese7.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ajmeese)
+
+  </td>
+  <td width="50%">
+
+Software Developer taking an [AI class](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/) and working on fun 
+projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one featured above!
+<br><p align="center">
+  [![Website](https://img.shields.io/badge/website-dev-2a8?style=flat-square&logo=safari&logoColor=white)](https://aaronmeese.com)
+  [![E-Mail](https://img.shields.io/badge/email-ajmeese7-369?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:ajmeese7@gmail.com)<br>
+  [![Twitter](https://img.shields.io/badge/twitter-ajmeese7-369?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://link.aaronmeese.com/twitter)
+  [![Medium](https://img.shields.io/badge/medium-ajmeese7-1DB954?style=flat-square&logo=medium&logoColor=white)](https://link.aaronmeese.com/medium)<br>
+  [![Instagram](https://img.shields.io/badge/instagram-ajmeese7-1DB954?style=flat-square&logo=instagram&logoColor=white&color=c13584)](https://link.aaronmeese.com/instagram)
+  [![LinkedIn](https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://link.aaronmeese.com/linkedin)
 </p>
+  </td>
+  </table>
 
-### About Me ###
-----
-Currently, I am learning Artificial Intelligence via UC Berkeley's [CS 188.1x](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/) course.
-I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.com/ajmeese7) and developing several projects, including the 
-[readme-ascii](https://github.com/ajmeese7/readme-ascii) one featured above!
-
-<img width="50%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently practicing PostgreSQL
-- 📫 How to reach me: **ajmeese7#4835** on [Discord](https://discord.com)
-- 👨🏼‍💻 Developing [Coupon Booked](https://couponbooked.com), my first app
-- 💬 Ask me about anything dealing with JavaScript!
-<!-- TODO: make this pretty enough to promote!
-- 🎯 Portfolio site: [https://aaronmeese.com](https://aaronmeese.com/)
--->
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
 ### Skills ###
 ----
@@ -112,12 +96,6 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
     <!-- + TODO: Add my site examples after I finish improving them --
 </details>
 -->
-
-<p align="center">
-  <br>
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/ajmeese7/count.svg" alt="Visitor Count"/>
-</p>
 
 ### GitHub Stats ###
 ----
