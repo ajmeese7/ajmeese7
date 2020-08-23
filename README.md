@@ -133,20 +133,20 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-2. 💪 Opened PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-3. 💪 Opened PR [#1](https://github.com//gargakshit/gargakshit/pull/1) in [gargakshit/gargakshit](https://github.com//gargakshit/gargakshit)
-4. ❌ Closed PR [#425](https://github.com//rauenzi/BetterDiscordApp/pull/425) in [rauenzi/BetterDiscordApp](https://github.com//rauenzi/BetterDiscordApp)
-5. 🗣 Commented on [#33](https://github.com//ajmeese7/spambot/issues/33) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+1. ❗️ Closed issue [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+2. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+3. 🗣 Commented on [#3](https://github.com//ajmeese7/multiple-reactions/issues/3) in [ajmeese7/multiple-reactions](https://github.com//ajmeese7/multiple-reactions)
+4. 🎉 Merged PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+5. 💪 Opened PR [#1](https://github.com//ajmeese7/galley-calls/pull/1) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 547 Contributions in the Year 2020
+> 🏆 555 Contributions in the Year 2020
  > 
-> 📦 44.2 kB Used in Github's Storage 
+> 📦 44.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -157,22 +157,22 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    158 commits    ███████░░░░░░░░░░░░░░░░░░   28.78% 
-🌆 Daytime    246 commits    ███████████░░░░░░░░░░░░░░   44.81% 
-🌃 Evening    139 commits    ██████░░░░░░░░░░░░░░░░░░░   25.32% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+🌞 Morning    165 commits    ███████░░░░░░░░░░░░░░░░░░   29.62% 
+🌆 Daytime    247 commits    ███████████░░░░░░░░░░░░░░   44.34% 
+🌃 Evening    139 commits    ██████░░░░░░░░░░░░░░░░░░░   24.96% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
-Tuesday      61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-Thursday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
-Friday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.12% 
-Saturday     102 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Sunday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.3%
+Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+Tuesday      61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
+Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+Thursday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Friday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
+Saturday     110 commits    █████░░░░░░░░░░░░░░░░░░░░   19.75% 
+Sunday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11%
 
 ```
 
@@ -183,18 +183,18 @@ Sunday       73 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               13 hrs 15 mins      ██████████████████░░░░░░░   75.32% 
-PHP                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
-EJS                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+JavaScript               13 hrs 48 mins      ███████████████████░░░░░░   79.22% 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
+PHP                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
+EJS                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
 
 🐱‍💻 Projects: 
-galley-calls             10 hrs 8 mins       ██████████████░░░░░░░░░░░   57.56% 
-coupon-book              4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15% 
-multiple-reactions       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-spambot                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
-automatic-reactions      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.81%
+galley-calls             10 hrs 11 mins      ██████████████░░░░░░░░░░░   58.54% 
+coupon-book              2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+snapchat-share           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
+multiple-reactions       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33% 
+spambot                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
 
 ```
 
