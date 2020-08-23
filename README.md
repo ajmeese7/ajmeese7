@@ -14,9 +14,7 @@
 Software Developer taking an [AI class](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/) and working on fun 
 projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one featured above!
 <br><p align="center">
-  [![Website](https://img.shields.io/badge/website-dev-2a8?style=flat-square&logo=safari&logoColor=white)](https://aaronmeese.com)
-  [![E-Mail](https://img.shields.io/badge/email-ajmeese7-369?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:ajmeese7@gmail.com)<br>
-  [![Twitter](https://img.shields.io/badge/twitter-ajmeese7-369?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://link.aaronmeese.com/twitter)
+  [![Discord](https://img.shields.io/badge/discord-ajmeese7%234835-369?style=flat-square&logo=discord&logoColor=white&color=purple)](https://discord.gg/PxRTQg3)
   [![Medium](https://img.shields.io/badge/medium-ajmeese7-1DB954?style=flat-square&logo=medium&logoColor=white)](https://link.aaronmeese.com/medium)<br>
   [![Instagram](https://img.shields.io/badge/instagram-ajmeese7-1DB954?style=flat-square&logo=instagram&logoColor=white&color=c13584)](https://link.aaronmeese.com/instagram)
   [![LinkedIn](https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://link.aaronmeese.com/linkedin)
