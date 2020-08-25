@@ -109,11 +109,11 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com//ajmeese7/galley-calls/issues/2) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-2. ❗️ Opened issue [#2](https://github.com//ajmeese7/galley-calls/issues/2) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-3. ❗️ Closed issue [#3](https://github.com//ajmeese7/steam-summary/issues/3) in [ajmeese7/steam-summary](https://github.com//ajmeese7/steam-summary)
-4. ❗️ Opened issue [#3](https://github.com//ajmeese7/steam-summary/issues/3) in [ajmeese7/steam-summary](https://github.com//ajmeese7/steam-summary)
-5. 🗣 Commented on [#4](https://github.com//novatorem/novatorem/issues/4) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+1. 🗣 Commented on [#3](https://github.com//ajmeese7/steam-summary/issues/3) in [ajmeese7/steam-summary](https://github.com//ajmeese7/steam-summary)
+2. ❗️ Closed issue [#2](https://github.com//ajmeese7/galley-calls/issues/2) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+3. ❗️ Opened issue [#2](https://github.com//ajmeese7/galley-calls/issues/2) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+4. ❗️ Closed issue [#3](https://github.com//ajmeese7/steam-summary/issues/3) in [ajmeese7/steam-summary](https://github.com//ajmeese7/steam-summary)
+5. ❗️ Opened issue [#3](https://github.com//ajmeese7/steam-summary/issues/3) in [ajmeese7/steam-summary](https://github.com//ajmeese7/steam-summary)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
