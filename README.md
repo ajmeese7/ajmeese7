@@ -120,7 +120,7 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 587 Contributions in the Year 2020
+> 🏆 586 Contributions in the Year 2020
  > 
 > 📦 45.6 kB Used in Github's Storage 
  > 
