@@ -6,7 +6,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://ajmeese7.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ajmeese)
+&nbsp; <br> [![Spotify](https://ajmeese7.vercel.app/api/spotify)](https://open.spotify.com/user/ajmeese)
 
   </td>
   <td width="50%">
