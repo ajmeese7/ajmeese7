@@ -109,11 +109,11 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//ajmeese7/galley-calls/pull/3) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-2. 💪 Opened PR [#3](https://github.com//ajmeese7/galley-calls/pull/3) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-3. 🗣 Commented on [#2](https://github.com//ajmeese7/galley-calls/issues/2) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-4. ❗️ Closed issue [#3](https://github.com//ajmeese7/automatic-reactions/issues/3) in [ajmeese7/automatic-reactions](https://github.com//ajmeese7/automatic-reactions)
-5. 🗣 Commented on [#3](https://github.com//ajmeese7/automatic-reactions/issues/3) in [ajmeese7/automatic-reactions](https://github.com//ajmeese7/automatic-reactions)
+1. 🎉 Merged PR [#4](https://github.com//ajmeese7/readme-ascii/pull/4) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
+2. 🎉 Merged PR [#4](https://github.com//ajmeese7/dynamic-page-retrieval/pull/4) in [ajmeese7/dynamic-page-retrieval](https://github.com//ajmeese7/dynamic-page-retrieval)
+3. 🎉 Merged PR [#3](https://github.com//ajmeese7/galley-calls/pull/3) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+4. 💪 Opened PR [#3](https://github.com//ajmeese7/galley-calls/pull/3) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+5. 🗣 Commented on [#2](https://github.com//ajmeese7/galley-calls/issues/2) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
