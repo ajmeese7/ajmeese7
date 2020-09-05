@@ -122,7 +122,7 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 > 🏆 606 Contributions in the Year 2020
  > 
-> 📦 45.7 kB Used in Github's Storage 
+> 📦 45.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
