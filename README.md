@@ -109,11 +109,11 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//ajmeese7/hellochess-v2/pull/3) in [ajmeese7/hellochess-v2](https://github.com//ajmeese7/hellochess-v2)
-2. 🎉 Merged PR [#4](https://github.com//ajmeese7/galley-calls/pull/4) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-3. 💪 Opened PR [#4](https://github.com//ajmeese7/galley-calls/pull/4) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-4. 🎉 Merged PR [#4](https://github.com//ajmeese7/readme-ascii/pull/4) in [ajmeese7/readme-ascii](https://github.com//ajmeese7/readme-ascii)
-5. 🎉 Merged PR [#4](https://github.com//ajmeese7/dynamic-page-retrieval/pull/4) in [ajmeese7/dynamic-page-retrieval](https://github.com//ajmeese7/dynamic-page-retrieval)
+1. ❗️ Closed issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
+2. ❗️ Opened issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
+3. 🎉 Merged PR [#3](https://github.com//ajmeese7/hellochess-v2/pull/3) in [ajmeese7/hellochess-v2](https://github.com//ajmeese7/hellochess-v2)
+4. 🎉 Merged PR [#4](https://github.com//ajmeese7/galley-calls/pull/4) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+5. 💪 Opened PR [#4](https://github.com//ajmeese7/galley-calls/pull/4) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
