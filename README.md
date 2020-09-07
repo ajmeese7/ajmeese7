@@ -109,11 +109,11 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
-2. ❗️ Opened issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
-3. 🎉 Merged PR [#3](https://github.com//ajmeese7/hellochess-v2/pull/3) in [ajmeese7/hellochess-v2](https://github.com//ajmeese7/hellochess-v2)
-4. 🎉 Merged PR [#4](https://github.com//ajmeese7/galley-calls/pull/4) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-5. 💪 Opened PR [#4](https://github.com//ajmeese7/galley-calls/pull/4) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+1. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+2. ❗️ Closed issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
+3. ❗️ Opened issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
+4. 🎉 Merged PR [#3](https://github.com//ajmeese7/hellochess-v2/pull/3) in [ajmeese7/hellochess-v2](https://github.com//ajmeese7/hellochess-v2)
+5. 🎉 Merged PR [#4](https://github.com//ajmeese7/galley-calls/pull/4) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
