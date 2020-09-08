@@ -109,11 +109,11 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com//ajmeese7/spambot/issues/35) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-2. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-3. ❗️ Closed issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
-4. ❗️ Opened issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
-5. 🎉 Merged PR [#3](https://github.com//ajmeese7/hellochess-v2/pull/3) in [ajmeese7/hellochess-v2](https://github.com//ajmeese7/hellochess-v2)
+1. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+2. 🗣 Commented on [#35](https://github.com//ajmeese7/spambot/issues/35) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+3. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+4. ❗️ Closed issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
+5. ❗️ Opened issue [#1](https://github.com//ajmeese7/matrix-wallpaper/issues/1) in [ajmeese7/matrix-wallpaper](https://github.com//ajmeese7/matrix-wallpaper)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
