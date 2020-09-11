@@ -34,6 +34,8 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 + CSS
     + [README ASCII](https://github.com/ajmeese7/readme-ascii)
 + PHP
+    + [Coupon Booked](https://github.com/ajmeese7/coupon-booked)
+    + [Steam Summary](https://github.com/ajmeese7/steam-summary)
 + Java
     + [BRCC Java](https://github.com/ajmeese7/brcc-java)
     + [Euler Problems](https://github.com/ajmeese7/euler-problems)
@@ -46,12 +48,14 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
     + [Snapchat Share](https://github.com/ajmeese7/snapchat-share)
     + [FRC Spreadsheets](https://github.com/ajmeese7/frc-spreadsheets)
 + Cordova
+    + [Coupon Booked](https://github.com/ajmeese7/coupon-booked)
 + jQuery
 + Discord.js
     + [Spambot](https://github.com/ajmeese7/spambot)
     + [Automatic Reactions](https://github.com/ajmeese7/automatic-reactions)
     + [Multiple Reactions](https://github.com/ajmeese7/multiple-reactions)
     + [Galley Calls](https://github.com/ajmeese7/galley-calls)
+    + [Tatsu Toolbox](https://github.com/ajmeese7/tatsu-toolbox)
 + Puppeteer
     + [README ASCII](https://github.com/ajmeese7/readme-ascii)
     + [Dynamic Page Retrieval](https://github.com/ajmeese7/dynamic-page-retrieval)
@@ -73,6 +77,7 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
     + [Random Wallpaper](https://github.com/ajmeese7/random-wallpaper)
     + [Image of the Day](https://github.com/ajmeese7/image-of-the-day)
 + phpMyAdmin
++ cPanel
 + Cloudinary
 + Firefox Extensions
     + [Chess Next Move](https://github.com/ajmeese7/chess-next-move)
@@ -80,7 +85,10 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 + Google Analytics
 + Heroku
 + Nexmo
+    + [Coupon Booked](https://github.com/ajmeese7/coupon-booked)
 + Twilio
+    + [Galley Calls](https://github.com/ajmeese7/galley-calls)
++ Sonix
     + [Galley Calls](https://github.com/ajmeese7/galley-calls)
 + Auth0
 + OneSignal
