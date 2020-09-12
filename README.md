@@ -117,11 +117,11 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com//ajmeese7/spambot/pull/35) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-2. 🗣 Commented on [#35](https://github.com//ajmeese7/spambot/issues/35) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-3. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-4. 🗣 Commented on [#35](https://github.com//ajmeese7/spambot/issues/35) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-5. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+1. 🗣 Commented on [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
+2. ❗️ Closed issue [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
+3. ❗️ Opened issue [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
+4. ❌ Closed PR [#35](https://github.com//ajmeese7/spambot/pull/35) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+5. 🗣 Commented on [#35](https://github.com//ajmeese7/spambot/issues/35) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
