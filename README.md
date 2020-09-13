@@ -75,8 +75,6 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
     + [Repbot](https://github.com/ajmeese7/repbot)
 + Express
     + [Galley Calls](https://github.com/ajmeese7/galley-calls)
-+ json-fs-store
-    + [Multiple Reactions](https://github.com/ajmeese7/multiple-reactions)
 + pdf-lib
 + async
 
