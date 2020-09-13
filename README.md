@@ -117,11 +117,11 @@ projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one f
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//ajmeese7/galley-calls/pull/5) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-2. 🗣 Commented on [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
-3. ❗️ Closed issue [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
-4. ❗️ Opened issue [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
-5. ❌ Closed PR [#35](https://github.com//ajmeese7/spambot/pull/35) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+1. ❗️ Closed issue [#1](https://github.com//ajmeese7/image-to-8bit/issues/1) in [ajmeese7/image-to-8bit](https://github.com//ajmeese7/image-to-8bit)
+2. ❗️ Opened issue [#1](https://github.com//ajmeese7/image-to-8bit/issues/1) in [ajmeese7/image-to-8bit](https://github.com//ajmeese7/image-to-8bit)
+3. 🎉 Merged PR [#5](https://github.com//ajmeese7/galley-calls/pull/5) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
+4. 🗣 Commented on [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
+5. ❗️ Closed issue [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
