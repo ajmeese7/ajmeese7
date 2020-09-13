@@ -11,13 +11,24 @@
   </td>
   <td width="50%">
 
-Software Developer taking an [AI class](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/) and working on fun 
-projects like the [readme-ascii](https://github.com/ajmeese7/readme-ascii) one featured above!
-<br><p align="center">
-  [![Discord](https://img.shields.io/badge/discord-ajmeese7%234835-369?style=flat-square&logo=discord&logoColor=white&color=purple)](https://discord.gg/PxRTQg3)
-  [![Medium](https://img.shields.io/badge/medium-ajmeese7-1DB954?style=flat-square&logo=medium&logoColor=white)](https://link.aaronmeese.com/medium)<br>
-  [![Instagram](https://img.shields.io/badge/instagram-ajmeese7-1DB954?style=flat-square&logo=instagram&logoColor=white&color=c13584)](https://link.aaronmeese.com/instagram)
-  [![LinkedIn](https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://link.aaronmeese.com/linkedin)
+<p align="center">
+Software Developer studying at <a href="https://www.amu.apus.edu/">AMU</a> and working on fun 
+projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-ascii</a> one featured above!
+</p>
+<p align="center">
+  <a href="https://discord.gg/PxRTQg3">
+    <img src="https://img.shields.io/badge/discord-ajmeese7%234835-369?style=flat-square&logo=discord&logoColor=white&color=purple" alt="Discord" title="Discord">
+  </a>
+  <a href="https://link.aaronmeese.com/medium">
+    <img src="https://img.shields.io/badge/medium-ajmeese7-1DB954?style=flat-square&logo=medium&logoColor=white" alt="Medium" title="Medium">
+  </a>
+  <br />
+  <a href="https://link.aaronmeese.com/instagram">
+    <img src="https://img.shields.io/badge/instagram-ajmeese7-1DB954?style=flat-square&logo=instagram&logoColor=white&color=c13584" alt="Instagram" title="Instagram">
+  </a>
+  <a href="https://link.aaronmeese.com/linkedin">
+    <img src="https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
+  </a>
 </p>
   </td>
   </table>
