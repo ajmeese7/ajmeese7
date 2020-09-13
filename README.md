@@ -128,11 +128,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//ajmeese7/image-to-8bit/issues/1) in [ajmeese7/image-to-8bit](https://github.com//ajmeese7/image-to-8bit)
-2. ❗️ Opened issue [#1](https://github.com//ajmeese7/image-to-8bit/issues/1) in [ajmeese7/image-to-8bit](https://github.com//ajmeese7/image-to-8bit)
-3. 🎉 Merged PR [#5](https://github.com//ajmeese7/galley-calls/pull/5) in [ajmeese7/galley-calls](https://github.com//ajmeese7/galley-calls)
-4. 🗣 Commented on [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
-5. ❗️ Closed issue [#1](https://github.com//ajmeese7/text-to-emoji/issues/1) in [ajmeese7/text-to-emoji](https://github.com//ajmeese7/text-to-emoji)
+1. ❗️ Closed issue [#1](https://github.com//ajmeese7/name-list/issues/1) in [ajmeese7/name-list](https://github.com//ajmeese7/name-list)
+2. ❗️ Opened issue [#1](https://github.com//ajmeese7/name-list/issues/1) in [ajmeese7/name-list](https://github.com//ajmeese7/name-list)
+3. ❗️ Closed issue [#1](https://github.com//ajmeese7/tatsu-toolbox/issues/1) in [ajmeese7/tatsu-toolbox](https://github.com//ajmeese7/tatsu-toolbox)
+4. ❗️ Opened issue [#1](https://github.com//ajmeese7/tatsu-toolbox/issues/1) in [ajmeese7/tatsu-toolbox](https://github.com//ajmeese7/tatsu-toolbox)
+5. ❗️ Closed issue [#1](https://github.com//ajmeese7/image-to-8bit/issues/1) in [ajmeese7/image-to-8bit](https://github.com//ajmeese7/image-to-8bit)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
