@@ -128,11 +128,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//ajmeese7/name-list/issues/1) in [ajmeese7/name-list](https://github.com//ajmeese7/name-list)
-2. ❗️ Opened issue [#1](https://github.com//ajmeese7/name-list/issues/1) in [ajmeese7/name-list](https://github.com//ajmeese7/name-list)
-3. ❗️ Closed issue [#1](https://github.com//ajmeese7/tatsu-toolbox/issues/1) in [ajmeese7/tatsu-toolbox](https://github.com//ajmeese7/tatsu-toolbox)
-4. ❗️ Opened issue [#1](https://github.com//ajmeese7/tatsu-toolbox/issues/1) in [ajmeese7/tatsu-toolbox](https://github.com//ajmeese7/tatsu-toolbox)
-5. ❗️ Closed issue [#1](https://github.com//ajmeese7/image-to-8bit/issues/1) in [ajmeese7/image-to-8bit](https://github.com//ajmeese7/image-to-8bit)
+1. ❗️ Opened issue [#1](https://github.com//ajmeese7/chess-next-move/issues/1) in [ajmeese7/chess-next-move](https://github.com//ajmeese7/chess-next-move)
+2. ❗️ Opened issue [#1](https://github.com//ajmeese7/customizable-clock/issues/1) in [ajmeese7/customizable-clock](https://github.com//ajmeese7/customizable-clock)
+3. ❗️ Opened issue [#1](https://github.com//ajmeese7/photo-gallery/issues/1) in [ajmeese7/photo-gallery](https://github.com//ajmeese7/photo-gallery)
+4. ❗️ Closed issue [#1](https://github.com//ajmeese7/name-list/issues/1) in [ajmeese7/name-list](https://github.com//ajmeese7/name-list)
+5. ❗️ Opened issue [#1](https://github.com//ajmeese7/name-list/issues/1) in [ajmeese7/name-list](https://github.com//ajmeese7/name-list)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
