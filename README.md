@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//ajmeese7/snapchat-share/issues/1) in [ajmeese7/snapchat-share](https://github.com//ajmeese7/snapchat-share)
-2. ❗️ Opened issue [#1](https://github.com//AmruthPillai/AmruthPillai/issues/1) in [AmruthPillai/AmruthPillai](https://github.com//AmruthPillai/AmruthPillai)
-3. ❗️ Opened issue [#1](https://github.com//ajmeese7/chess-next-move/issues/1) in [ajmeese7/chess-next-move](https://github.com//ajmeese7/chess-next-move)
-4. ❗️ Opened issue [#1](https://github.com//ajmeese7/customizable-clock/issues/1) in [ajmeese7/customizable-clock](https://github.com//ajmeese7/customizable-clock)
-5. ❗️ Opened issue [#1](https://github.com//ajmeese7/photo-gallery/issues/1) in [ajmeese7/photo-gallery](https://github.com//ajmeese7/photo-gallery)
+1. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+2. 🗣 Commented on [#1](https://github.com//ajmeese7/snapchat-share/issues/1) in [ajmeese7/snapchat-share](https://github.com//ajmeese7/snapchat-share)
+3. ❗️ Opened issue [#1](https://github.com//AmruthPillai/AmruthPillai/issues/1) in [AmruthPillai/AmruthPillai](https://github.com//AmruthPillai/AmruthPillai)
+4. ❗️ Opened issue [#1](https://github.com//ajmeese7/chess-next-move/issues/1) in [ajmeese7/chess-next-move](https://github.com//ajmeese7/chess-next-move)
+5. ❗️ Opened issue [#1](https://github.com//ajmeese7/customizable-clock/issues/1) in [ajmeese7/customizable-clock](https://github.com//ajmeese7/customizable-clock)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
