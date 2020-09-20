@@ -128,9 +128,9 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
 2. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-3. 🗣 Commented on [#1](https://github.com//ajmeese7/snapchat-share/issues/1) in [ajmeese7/snapchat-share](https://github.com//ajmeese7/snapchat-share)
-4. ❗️ Opened issue [#1](https://github.com//AmruthPillai/AmruthPillai/issues/1) in [AmruthPillai/AmruthPillai](https://github.com//AmruthPillai/AmruthPillai)
-5. ❗️ Opened issue [#1](https://github.com//ajmeese7/chess-next-move/issues/1) in [ajmeese7/chess-next-move](https://github.com//ajmeese7/chess-next-move)
+3. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+4. 🗣 Commented on [#1](https://github.com//ajmeese7/snapchat-share/issues/1) in [ajmeese7/snapchat-share](https://github.com//ajmeese7/snapchat-share)
+5. ❗️ Opened issue [#1](https://github.com//AmruthPillai/AmruthPillai/issues/1) in [AmruthPillai/AmruthPillai](https://github.com//AmruthPillai/AmruthPillai)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
