@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//ajmeese7/aaronmeese.dev/issues/1) in [ajmeese7/aaronmeese.dev](https://github.com//ajmeese7/aaronmeese.dev)
-2. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+1. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
+2. ❗️ Opened issue [#1](https://github.com//ajmeese7/aaronmeese.dev/issues/1) in [ajmeese7/aaronmeese.dev](https://github.com//ajmeese7/aaronmeese.dev)
 3. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
 4. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
-5. 🗣 Commented on [#1](https://github.com//ajmeese7/snapchat-share/issues/1) in [ajmeese7/snapchat-share](https://github.com//ajmeese7/snapchat-share)
+5. 🗣 Commented on [#34](https://github.com//ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com//ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
