@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/alekrumkamp/medium-feed-json/issues/2) in [alekrumkamp/medium-feed-json](https://github.com/alekrumkamp/medium-feed-json)
-2. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#2](https://github.com/alekrumkamp/medium-feed-json/issues/2) in [alekrumkamp/medium-feed-json](https://github.com/alekrumkamp/medium-feed-json)
-4. ❗️ Opened issue [#1](https://github.com/Meebuhs/typey-boi/issues/1) in [Meebuhs/typey-boi](https://github.com/Meebuhs/typey-boi)
-5. ❗️ Closed issue [#34](https://github.com/ajmeese7/spambot/issues/34) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#2](https://github.com/alekrumkamp/medium-feed-json/issues/2) in [alekrumkamp/medium-feed-json](https://github.com/alekrumkamp/medium-feed-json)
+3. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#2](https://github.com/alekrumkamp/medium-feed-json/issues/2) in [alekrumkamp/medium-feed-json](https://github.com/alekrumkamp/medium-feed-json)
+5. ❗️ Opened issue [#1](https://github.com/Meebuhs/typey-boi/issues/1) in [Meebuhs/typey-boi](https://github.com/Meebuhs/typey-boi)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
