@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/akerl/githubchart/issues/47) in [akerl/githubchart](https://github.com/akerl/githubchart)
-2. 💪 Opened PR [#610](https://github.com/octalmage/robotjs/pull/610) in [octalmage/robotjs](https://github.com/octalmage/robotjs)
-3. ❗️ Opened issue [#609](https://github.com/octalmage/robotjs/issues/609) in [octalmage/robotjs](https://github.com/octalmage/robotjs)
-4. 💪 Opened PR [#56](https://github.com/hashirshoaeb/home/pull/56) in [hashirshoaeb/home](https://github.com/hashirshoaeb/home)
-5. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. ❗️ Opened issue [#11](https://github.com/sarthology/dragula/issues/11) in [sarthology/dragula](https://github.com/sarthology/dragula)
+2. ❗️ Opened issue [#47](https://github.com/akerl/githubchart/issues/47) in [akerl/githubchart](https://github.com/akerl/githubchart)
+3. 💪 Opened PR [#610](https://github.com/octalmage/robotjs/pull/610) in [octalmage/robotjs](https://github.com/octalmage/robotjs)
+4. ❗️ Opened issue [#609](https://github.com/octalmage/robotjs/issues/609) in [octalmage/robotjs](https://github.com/octalmage/robotjs)
+5. 💪 Opened PR [#56](https://github.com/hashirshoaeb/home/pull/56) in [hashirshoaeb/home](https://github.com/hashirshoaeb/home)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
