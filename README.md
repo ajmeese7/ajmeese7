@@ -126,10 +126,10 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#609](https://github.com/octalmage/robotjs/issues/609) in [octalmage/robotjs](https://github.com/octalmage/robotjs)
-2. 💪 Opened PR [#56](https://github.com/hashirshoaeb/home/pull/56) in [hashirshoaeb/home](https://github.com/hashirshoaeb/home)
-3. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#2](https://github.com/alekrumkamp/medium-feed-json/issues/2) in [alekrumkamp/medium-feed-json](https://github.com/alekrumkamp/medium-feed-json)
+1. ❗️ Opened issue [#47](https://github.com/akerl/githubchart/issues/47) in [akerl/githubchart](https://github.com/akerl/githubchart)
+2. 💪 Opened PR [#610](https://github.com/octalmage/robotjs/pull/610) in [octalmage/robotjs](https://github.com/octalmage/robotjs)
+3. ❗️ Opened issue [#609](https://github.com/octalmage/robotjs/issues/609) in [octalmage/robotjs](https://github.com/octalmage/robotjs)
+4. 💪 Opened PR [#56](https://github.com/hashirshoaeb/home/pull/56) in [hashirshoaeb/home](https://github.com/hashirshoaeb/home)
 5. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
