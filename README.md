@@ -137,13 +137,13 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 745 Contributions in the Year 2020
+> 🏆 749 Contributions in the Year 2020
  > 
 > 📦 54.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories
+> 📜 45 Public Repositories
  > 
 > 🔑 14 Private Repositories 
 
