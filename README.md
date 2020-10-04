@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/akerl/githubstats/issues/40) in [akerl/githubstats](https://github.com/akerl/githubstats)
-2. ❗️ Closed issue [#47](https://github.com/akerl/githubchart/issues/47) in [akerl/githubchart](https://github.com/akerl/githubchart)
-3. ❗️ Closed issue [#1](https://github.com/AmruthPillai/AmruthPillai/issues/1) in [AmruthPillai/AmruthPillai](https://github.com/AmruthPillai/AmruthPillai)
-4. 🗣 Commented on [#1](https://github.com/AmruthPillai/AmruthPillai/issues/1) in [AmruthPillai/AmruthPillai](https://github.com/AmruthPillai/AmruthPillai)
-5. ❗️ Opened issue [#40](https://github.com/akerl/githubstats/issues/40) in [akerl/githubstats](https://github.com/akerl/githubstats)
+1. 💪 Opened PR [#41](https://github.com/akerl/githubstats/pull/41) in [akerl/githubstats](https://github.com/akerl/githubstats)
+2. ❗️ Closed issue [#40](https://github.com/akerl/githubstats/issues/40) in [akerl/githubstats](https://github.com/akerl/githubstats)
+3. ❗️ Closed issue [#47](https://github.com/akerl/githubchart/issues/47) in [akerl/githubchart](https://github.com/akerl/githubchart)
+4. ❗️ Closed issue [#1](https://github.com/AmruthPillai/AmruthPillai/issues/1) in [AmruthPillai/AmruthPillai](https://github.com/AmruthPillai/AmruthPillai)
+5. 🗣 Commented on [#1](https://github.com/AmruthPillai/AmruthPillai/issues/1) in [AmruthPillai/AmruthPillai](https://github.com/AmruthPillai/AmruthPillai)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
