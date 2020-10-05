@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#542](https://github.com/anuraghazra/github-readme-stats/pull/542) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 💪 Opened PR [#1](https://github.com/nate-parrott/lettercrap/pull/1) in [nate-parrott/lettercrap](https://github.com/nate-parrott/lettercrap)
-3. 💪 Opened PR [#41](https://github.com/akerl/githubstats/pull/41) in [akerl/githubstats](https://github.com/akerl/githubstats)
-4. ❗️ Closed issue [#40](https://github.com/akerl/githubstats/issues/40) in [akerl/githubstats](https://github.com/akerl/githubstats)
-5. ❗️ Closed issue [#47](https://github.com/akerl/githubchart/issues/47) in [akerl/githubchart](https://github.com/akerl/githubchart)
+1. 🎉 Merged PR [#1](https://github.com/ajmeese7/Repository-Hunter/pull/1) in [ajmeese7/Repository-Hunter](https://github.com/ajmeese7/Repository-Hunter)
+2. 💪 Opened PR [#1](https://github.com/ajmeese7/Repository-Hunter/pull/1) in [ajmeese7/Repository-Hunter](https://github.com/ajmeese7/Repository-Hunter)
+3. 💪 Opened PR [#542](https://github.com/anuraghazra/github-readme-stats/pull/542) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. 💪 Opened PR [#1](https://github.com/nate-parrott/lettercrap/pull/1) in [nate-parrott/lettercrap](https://github.com/nate-parrott/lettercrap)
+5. 💪 Opened PR [#41](https://github.com/akerl/githubstats/pull/41) in [akerl/githubstats](https://github.com/akerl/githubstats)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
