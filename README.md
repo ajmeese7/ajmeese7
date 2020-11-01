@@ -176,10 +176,11 @@ Sunday       156 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pullup-screens           3 mins              ████████████████████░░░░░   80.08% 
+mobile                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.92%
 
 ```
 
