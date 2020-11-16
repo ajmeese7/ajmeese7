@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/alekrumkamp/medium-feed-json/issues/2) in [alekrumkamp/medium-feed-json](https://github.com/alekrumkamp/medium-feed-json)
-2. 🗣 Commented on [#41](https://github.com/akerl/githubstats/issues/41) in [akerl/githubstats](https://github.com/akerl/githubstats)
-3. 🎉 Merged PR [#1](https://github.com/ajmeese7/Repository-Hunter/pull/1) in [ajmeese7/Repository-Hunter](https://github.com/ajmeese7/Repository-Hunter)
-4. 💪 Opened PR [#1](https://github.com/ajmeese7/Repository-Hunter/pull/1) in [ajmeese7/Repository-Hunter](https://github.com/ajmeese7/Repository-Hunter)
-5. 💪 Opened PR [#542](https://github.com/anuraghazra/github-readme-stats/pull/542) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#37](https://github.com/ajmeese7/spambot/issues/37) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#2](https://github.com/alekrumkamp/medium-feed-json/issues/2) in [alekrumkamp/medium-feed-json](https://github.com/alekrumkamp/medium-feed-json)
+3. 🗣 Commented on [#41](https://github.com/akerl/githubstats/issues/41) in [akerl/githubstats](https://github.com/akerl/githubstats)
+4. 🎉 Merged PR [#1](https://github.com/ajmeese7/Repository-Hunter/pull/1) in [ajmeese7/Repository-Hunter](https://github.com/ajmeese7/Repository-Hunter)
+5. 💪 Opened PR [#1](https://github.com/ajmeese7/Repository-Hunter/pull/1) in [ajmeese7/Repository-Hunter](https://github.com/ajmeese7/Repository-Hunter)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
