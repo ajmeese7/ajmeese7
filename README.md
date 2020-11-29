@@ -137,7 +137,7 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 📦 55.3 kB Used in Github's Storage 
+> 📦 55.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
