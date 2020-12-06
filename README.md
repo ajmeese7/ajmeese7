@@ -143,9 +143,9 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories
+> 📜 46 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 16 Private Repositories  
 
 **I'm an Early 🐤** 
 
