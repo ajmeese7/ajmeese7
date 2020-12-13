@@ -139,7 +139,7 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 > 🏆 808 Contributions in the Year 2020
  > 
-> 📦 60.1 kB Used in Github's Storage 
+> 📦 60.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
