@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#37](https://github.com/ajmeese7/spambot/issues/37) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#39](https://github.com/ajmeese7/spambot/issues/39) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. ❗️ Closed issue [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 4. 🗣 Commented on [#37](https://github.com/ajmeese7/spambot/issues/37) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#2](https://github.com/alekrumkamp/medium-feed-json/issues/2) in [alekrumkamp/medium-feed-json](https://github.com/alekrumkamp/medium-feed-json)
+5. 🗣 Commented on [#37](https://github.com/ajmeese7/spambot/issues/37) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
