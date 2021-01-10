@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ajmeese7/where-temperature/pull/1) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
-2. 💪 Opened PR [#1](https://github.com/ajmeese7/where-temperature/pull/1) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
-3. 🗣 Commented on [#39](https://github.com/ajmeese7/spambot/issues/39) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. ❗️ Closed issue [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#36](https://github.com/ajmeese7/spambot/issues/36) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. ❗️ Closed issue [#2](https://github.com/ajmeese7/where-temperature/issues/2) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+2. ❗️ Opened issue [#2](https://github.com/ajmeese7/where-temperature/issues/2) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+3. 🎉 Merged PR [#1](https://github.com/ajmeese7/where-temperature/pull/1) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+4. 💪 Opened PR [#1](https://github.com/ajmeese7/where-temperature/pull/1) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+5. 🗣 Commented on [#39](https://github.com/ajmeese7/spambot/issues/39) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
