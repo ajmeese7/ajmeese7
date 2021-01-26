@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
-2. 🗣 Commented on [#4](https://github.com/ajmeese7/automatic-reactions/issues/4) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
+1. 🎉 Merged PR [#2](https://github.com/ajmeese7/steam-queue-clicker/pull/2) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
+2. 🎉 Merged PR [#1](https://github.com/ajmeese7/steam-queue-clicker/pull/1) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
 3. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
-4. 🎉 Merged PR [#5](https://github.com/ajmeese7/repbot/pull/5) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-5. 🎉 Merged PR [#12](https://github.com/ajmeese7/coupon-booked/pull/12) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
+4. 🗣 Commented on [#4](https://github.com/ajmeese7/automatic-reactions/issues/4) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
+5. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
