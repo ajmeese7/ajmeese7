@@ -126,11 +126,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ajmeese7/steam-queue-clicker/pull/2) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
-2. 🎉 Merged PR [#1](https://github.com/ajmeese7/steam-queue-clicker/pull/1) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
-3. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
-4. 🗣 Commented on [#4](https://github.com/ajmeese7/automatic-reactions/issues/4) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
-5. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
+1. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
+2. 🎉 Merged PR [#2](https://github.com/ajmeese7/steam-queue-clicker/pull/2) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
+3. 🎉 Merged PR [#1](https://github.com/ajmeese7/steam-queue-clicker/pull/1) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
+4. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
+5. 🗣 Commented on [#4](https://github.com/ajmeese7/automatic-reactions/issues/4) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
