@@ -59,7 +59,7 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
     + [Snapchat Share](https://github.com/ajmeese7/snapchat-share)
     + [FRC Spreadsheets](https://github.com/ajmeese7/frc-spreadsheets)
 + Cordova
-    + [Coupon Booked](https://github.com/ajmeese7/coupon-booked)
++ React Native
 + jQuery
 + Discord.js
     + [Spambot](https://github.com/ajmeese7/spambot)
@@ -88,13 +88,13 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 + phpMyAdmin
 + cPanel
 + Cloudinary
++ Cloudflare Workers
 + Firefox Extensions
     + [Chess Next Move](https://github.com/ajmeese7/chess-next-move)
     + [Gmail Label Organizer](https://github.com/ajmeese7/gmail-label-organizer)
 + Google Analytics
 + Heroku
 + Nexmo
-    + [Coupon Booked](https://github.com/ajmeese7/coupon-booked)
 + Twilio
     + [Galley Calls](https://github.com/ajmeese7/galley-calls)
 + Sonix
@@ -103,14 +103,6 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 + OneSignal
 
 </details>
-<!--
-<details>
-<summary>Soft Skills</summary>
-+ English/Grammar
-+ SEO
-    <!-- + TODO: Add my site examples after I finish improving them --
-</details>
--->
 
 ### GitHub Stats ###
 ----
