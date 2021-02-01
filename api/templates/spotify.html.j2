@@ -1,111 +1,111 @@
 <svg width="480" height="133" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <foreignObject width="480" height="133">
-        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
-            <style>
-                div {
-                    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-                }
+	<foreignObject width="480" height="133">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="container">
+			<style>
+				.main {
+					/*margin-top: 40px;*/
+					display: flex;
+				}
 
-                .main {
-                    /*margin-top: 40px;*/
-                    display: flex;
-                }
+				.currentStatus {
+					float: left;
+					font-size: 24px;
+					position: static;
+					margin-top: -5px;
+					margin-left: 10px;
+				}
+				
+				.container {
+					border-radius: 5px;
+					padding: 10px 10px 10px 0px;
+				}
 
-                .currentStatus {
-                    position: static;
-                    float: left;
-                    font-size: 24px;
-                    margin-top: -5px;
-                    margin-left: 10px;
-                }
-                
-                .container {
-                    border-radius: 5px;
-                    padding: 10px 10px 10px 0px;
-                }
+				.art {
+					width: 27%;
+					float: left;
+					margin-left: -5px;
+				}
 
-                .art {
-                    float: left;
-                    width: 27%;
-                    margin-left: -5px;
-                }
+				.content {
+					width: 71%;
+				}
 
-                .content {
-                    width: 71%;
-                }
+				.song {
+					color: #666;
+					overflow:hidden;
+					margin-top: 3px;
+					font-size: 24px;
+					text-align: center;
+					white-space:nowrap;
+					text-overflow:ellipsis;
+				}
 
-                .song {
-                    font-size: 24px;
-                    color: #666;
-                    text-align: center;
-                    margin-top: 3px;
-                    white-space:nowrap;
-                    overflow:hidden;
-                    text-overflow:ellipsis;
-                }
+				.artist {
+					color: #b3b3b3;
+					font-size: 20px;
+					margin-top: 4px;
+					text-align: center;
+					margin-bottom: 5px;
+				}
 
-                .artist {
-                    font-size: 20px;
-                    color: #b3b3b3;
-                    text-align: center;
-                    margin-bottom: 5px;
-                    margin-top: 4px;
-                }
+				.cover {
+					width: 100px;
+					height: 100px;
+					border-radius: 5px;
+				}
 
-                .cover {
-                    border-radius: 5px;
-                    height: 100px;
-                    width: 100px;
-                }
+				#bars {
+					width: 40px;
+					height: 30px;
+					bottom: 23px;
+					position: absolute;
+					margin: -20px 0 0 0px;
+				}
 
-                #bars {
-                    height: 30px;
-                    bottom: 23px;
-                    margin: -20px 0 0 0px;
-                    position: absolute;
-                    width: 40px;
-                }
+				.bar {
+					width: 3px;
+					bottom: 1px;
+					height: 3px;
+					position: absolute;
+					background: #1DB954cc;
+					animation: sound 0ms -800ms linear infinite alternate;
+				}
+				
+				div {
+					font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+				}
+				
+				@keyframes sound {
+					0% {
+						height: 3px;
+						opacity: .35;
+					}
 
-                .bar {
-                    background: #1DB954cc;
-                    bottom: 1px;
-                    height: 3px;
-                    position: absolute;
-                    width: 3px;
-                    animation: sound 0ms -800ms linear infinite alternate;
-                }
-                
-                @keyframes sound {
-                    0% {
-                        opacity: .35;
-                        height: 3px;
-                    }
+					100% {
+						height: 15px;
+						opacity: 0.95;
+					}
+				}
 
-                    100% {
-                        opacity: 1;
-                        height: 15px;
-                    }
-                }
+				{{barCSS|safe}}
+			</style>
 
-                {{barCSS|safe}}
-            </style>
+			<!-- <div class="currentStatus">{{status}}</div> -->
 
-            <!-- <div class="currentStatus">{{status}}</div> -->
+			<div class="main">
+				<a class="art" href="{}" target="_blank">
+					<center>
+						<img src="data:image/png;base64, {{image}}" class="cover" />
+					</center>
+				</a>
 
-            <div class="main">
-                <a class="art" href="{}" target="_BLANK">
-                    <center>
-                        <img src="data:image/png;base64, {{image}}" class="cover" />
-                    </center>
-                </a>
+				<div class="content">
+					<div class="song">{{songName}}</div>
+					<div class="artist">{{artistName}}</div>
+					<div id="bars">{{contentBar|safe}}</div>
+				</div>
+			</div>
 
-                <div class="content">
-                    <div class="song">{{songName}}</div>
-                    <div class="artist">{{artistName}}</div>
-                    <div id="bars">{{contentBar|safe}}</div>
-                </div>
-            </div>
-
-        </div>
-    </foreignObject>
+		</div>
+	</foreignObject>
 </svg>
