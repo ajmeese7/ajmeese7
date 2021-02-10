@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/ajmeese7/spambot/issues/40) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
-3. 🎉 Merged PR [#2](https://github.com/ajmeese7/steam-queue-clicker/pull/2) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
-4. 🎉 Merged PR [#1](https://github.com/ajmeese7/steam-queue-clicker/pull/1) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
-5. 🗣 Commented on [#6](https://github.com/ajmeese7/readme-ascii/issues/6) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
+1. 🎉 Merged PR [#6](https://github.com/ajmeese7/repbot/pull/6) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+2. ❌ Closed PR [#41](https://github.com/ajmeese7/spambot/pull/41) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🗣 Commented on [#41](https://github.com/ajmeese7/spambot/issues/41) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#38](https://github.com/ajmeese7/spambot/issues/38) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. ❗️ Closed issue [#37](https://github.com/ajmeese7/spambot/issues/37) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
