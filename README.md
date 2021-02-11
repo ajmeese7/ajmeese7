@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/chetanverma16/react-portfolio-template/pull/16) in [chetanverma16/react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template)
-2. 🎉 Merged PR [#6](https://github.com/ajmeese7/repbot/pull/6) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-3. ❌ Closed PR [#41](https://github.com/ajmeese7/spambot/pull/41) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#41](https://github.com/ajmeese7/spambot/issues/41) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#38](https://github.com/ajmeese7/spambot/issues/38) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#37](https://github.com/rnosov/react-reveal/issues/37) in [rnosov/react-reveal](https://github.com/rnosov/react-reveal)
+2. 💪 Opened PR [#16](https://github.com/chetanverma16/react-portfolio-template/pull/16) in [chetanverma16/react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template)
+3. 🎉 Merged PR [#6](https://github.com/ajmeese7/repbot/pull/6) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+4. ❌ Closed PR [#41](https://github.com/ajmeese7/spambot/pull/41) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 🗣 Commented on [#41](https://github.com/ajmeese7/spambot/issues/41) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
