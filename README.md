@@ -131,7 +131,7 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 > 🏆 89 Contributions in the Year 2021
  > 
-> 📦 64.2 kB Used in Github's Storage 
+> 📦 64.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
