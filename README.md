@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
-2. ❗️ Opened issue [#11](https://github.com/navjotdhanawat/dynamic-watermark/issues/11) in [navjotdhanawat/dynamic-watermark](https://github.com/navjotdhanawat/dynamic-watermark)
-3. 🗣 Commented on [#37](https://github.com/rnosov/react-reveal/issues/37) in [rnosov/react-reveal](https://github.com/rnosov/react-reveal)
-4. 💪 Opened PR [#16](https://github.com/chetanverma16/react-portfolio-template/pull/16) in [chetanverma16/react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template)
-5. 🎉 Merged PR [#6](https://github.com/ajmeese7/repbot/pull/6) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+1. ❗️ Closed issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
+2. 🗣 Commented on [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
+3. ❗️ Opened issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
+4. ❗️ Opened issue [#11](https://github.com/navjotdhanawat/dynamic-watermark/issues/11) in [navjotdhanawat/dynamic-watermark](https://github.com/navjotdhanawat/dynamic-watermark)
+5. 🗣 Commented on [#37](https://github.com/rnosov/react-reveal/issues/37) in [rnosov/react-reveal](https://github.com/rnosov/react-reveal)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
