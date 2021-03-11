@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
-2. 🗣 Commented on [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
-3. ❗️ Opened issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
-4. ❗️ Opened issue [#11](https://github.com/navjotdhanawat/dynamic-watermark/issues/11) in [navjotdhanawat/dynamic-watermark](https://github.com/navjotdhanawat/dynamic-watermark)
-5. 🗣 Commented on [#37](https://github.com/rnosov/react-reveal/issues/37) in [rnosov/react-reveal](https://github.com/rnosov/react-reveal)
+1. 🎉 Merged PR [#4](https://github.com/ajmeese7/snapchat-share/pull/4) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+2. ❗️ Closed issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
+3. 🗣 Commented on [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
+4. ❗️ Opened issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
+5. ❗️ Opened issue [#11](https://github.com/navjotdhanawat/dynamic-watermark/issues/11) in [navjotdhanawat/dynamic-watermark](https://github.com/navjotdhanawat/dynamic-watermark)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
