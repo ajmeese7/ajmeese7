@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1404](https://github.com/dilame/instagram-private-api/issues/1404) in [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api)
-2. 🗣 Commented on [#169](https://github.com/jlobos/instagram-web-api/issues/169) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
-3. 🎉 Merged PR [#4](https://github.com/ajmeese7/snapchat-share/pull/4) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-4. ❗️ Closed issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
-5. 🗣 Commented on [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
+1. ❗️ Opened issue [#4](https://github.com/ajmeese7/steam-summary/issues/4) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+2. ❗️ Opened issue [#1404](https://github.com/dilame/instagram-private-api/issues/1404) in [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api)
+3. 🗣 Commented on [#169](https://github.com/jlobos/instagram-web-api/issues/169) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
+4. 🎉 Merged PR [#4](https://github.com/ajmeese7/snapchat-share/pull/4) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+5. ❗️ Closed issue [#1](https://github.com/hellokellyworld/purejswatermark-js-example/issues/1) in [hellokellyworld/purejswatermark-js-example](https://github.com/hellokellyworld/purejswatermark-js-example)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
