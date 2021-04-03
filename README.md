@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/ajmeese7/steam-summary/issues/9) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
-2. ❗️ Opened issue [#8](https://github.com/ajmeese7/steam-summary/issues/8) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
-3. ❗️ Opened issue [#7](https://github.com/ajmeese7/steam-summary/issues/7) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
-4. ❗️ Opened issue [#6](https://github.com/ajmeese7/steam-summary/issues/6) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
-5. ❗️ Opened issue [#5](https://github.com/ajmeese7/steam-summary/issues/5) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+1. ❗️ Opened issue [#10](https://github.com/ajmeese7/steam-summary/issues/10) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+2. ❗️ Opened issue [#9](https://github.com/ajmeese7/steam-summary/issues/9) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+3. ❗️ Opened issue [#8](https://github.com/ajmeese7/steam-summary/issues/8) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+4. ❗️ Opened issue [#7](https://github.com/ajmeese7/steam-summary/issues/7) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+5. ❗️ Opened issue [#6](https://github.com/ajmeese7/steam-summary/issues/6) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
