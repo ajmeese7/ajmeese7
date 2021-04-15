@@ -119,10 +119,10 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42](https://github.com/ajmeese7/spambot/issues/42) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#1404](https://github.com/dilame/instagram-private-api/issues/1404) in [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api)
-3. ❗️ Opened issue [#10](https://github.com/ajmeese7/steam-summary/issues/10) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
-4. ❗️ Opened issue [#9](https://github.com/ajmeese7/steam-summary/issues/9) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
-5. ❗️ Opened issue [#8](https://github.com/ajmeese7/steam-summary/issues/8) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+2. 🗣 Commented on [#42](https://github.com/ajmeese7/spambot/issues/42) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🗣 Commented on [#1404](https://github.com/dilame/instagram-private-api/issues/1404) in [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api)
+4. ❗️ Opened issue [#10](https://github.com/ajmeese7/steam-summary/issues/10) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+5. ❗️ Opened issue [#9](https://github.com/ajmeese7/steam-summary/issues/9) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
