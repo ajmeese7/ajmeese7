@@ -119,9 +119,9 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5526](https://github.com/discordjs/discord.js/issues/5526) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. ❗️ Closed issue [#43](https://github.com/ajmeese7/spambot/issues/43) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#43](https://github.com/ajmeese7/spambot/issues/43) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#42](https://github.com/ajmeese7/spambot/issues/42) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#5526](https://github.com/discordjs/discord.js/issues/5526) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. ❗️ Closed issue [#43](https://github.com/ajmeese7/spambot/issues/43) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#43](https://github.com/ajmeese7/spambot/issues/43) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 5. 🗣 Commented on [#42](https://github.com/ajmeese7/spambot/issues/42) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
