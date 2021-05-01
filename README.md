@@ -119,10 +119,10 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/ajmeese7/spambot/issues/45) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. ❗️ Closed issue [#44](https://github.com/ajmeese7/spambot/issues/44) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#44](https://github.com/ajmeese7/spambot/issues/44) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#4](https://github.com/ajmeese7/steam-summary/issues/4) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
-5. ❗️ Closed issue [#33](https://github.com/ajmeese7/spambot/issues/33) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#45](https://github.com/ajmeese7/spambot/issues/45) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. ❗️ Closed issue [#44](https://github.com/ajmeese7/spambot/issues/44) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#44](https://github.com/ajmeese7/spambot/issues/44) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 🗣 Commented on [#4](https://github.com/ajmeese7/steam-summary/issues/4) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
