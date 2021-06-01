@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1935](https://github.com/nextauthjs/next-auth/issues/1935) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. ❗️ Closed issue [#45](https://github.com/ajmeese7/spambot/issues/45) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#45](https://github.com/ajmeese7/spambot/issues/45) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. ❗️ Closed issue [#46](https://github.com/ajmeese7/spambot/issues/46) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#46](https://github.com/ajmeese7/spambot/issues/46) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#48](https://github.com/ajmeese7/spambot/issues/48) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. ❗️ Opened issue [#1935](https://github.com/nextauthjs/next-auth/issues/1935) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. ❗️ Closed issue [#45](https://github.com/ajmeese7/spambot/issues/45) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#45](https://github.com/ajmeese7/spambot/issues/45) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. ❗️ Closed issue [#46](https://github.com/ajmeese7/spambot/issues/46) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
