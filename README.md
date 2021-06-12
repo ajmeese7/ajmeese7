@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/ajmeese7/repbot/pull/9) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-2. 🎉 Merged PR [#5](https://github.com/ajmeese7/snapchat-share/pull/5) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-3. 🎉 Merged PR [#5](https://github.com/ajmeese7/automatic-reactions/pull/5) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
-4. 🎉 Merged PR [#3](https://github.com/ajmeese7/steam-queue-clicker/pull/3) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
-5. 🎉 Merged PR [#4](https://github.com/ajmeese7/steam-queue-clicker/pull/4) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
+1. 🎉 Merged PR [#9](https://github.com/ajmeese7/readme-ascii/pull/9) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
+2. 🎉 Merged PR [#10](https://github.com/ajmeese7/galley-calls/pull/10) in [ajmeese7/galley-calls](https://github.com/ajmeese7/galley-calls)
+3. 🎉 Merged PR [#10](https://github.com/ajmeese7/readme-ascii/pull/10) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
+4. 🎉 Merged PR [#11](https://github.com/ajmeese7/galley-calls/pull/11) in [ajmeese7/galley-calls](https://github.com/ajmeese7/galley-calls)
+5. 🎉 Merged PR [#9](https://github.com/ajmeese7/repbot/pull/9) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
