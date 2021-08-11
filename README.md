@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ajmeese7/snapchat-share/pull/6) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-2. 🗣 Commented on [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
-3. ❗️ Closed issue [#48](https://github.com/ajmeese7/spambot/issues/48) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#53](https://github.com/ajmeese7/spambot/issues/53) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. ❌ Closed PR [#52](https://github.com/ajmeese7/spambot/pull/52) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🎉 Merged PR [#7](https://github.com/ajmeese7/snapchat-share/pull/7) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+2. 🎉 Merged PR [#10](https://github.com/ajmeese7/repbot/pull/10) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+3. 🎉 Merged PR [#6](https://github.com/ajmeese7/snapchat-share/pull/6) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+4. 🗣 Commented on [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
+5. ❗️ Closed issue [#48](https://github.com/ajmeese7/spambot/issues/48) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
