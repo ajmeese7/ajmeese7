@@ -118,10 +118,10 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
+1. ❗️ Closed issue [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
+2. 🗣 Commented on [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
+3. ❗️ Closed issue [#51](https://github.com/ajmeese7/spambot/issues/51) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#51](https://github.com/ajmeese7/spambot/issues/51) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 5. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
