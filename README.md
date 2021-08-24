@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
-2. 🗣 Commented on [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
-3. ❗️ Closed issue [#51](https://github.com/ajmeese7/spambot/issues/51) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#51](https://github.com/ajmeese7/spambot/issues/51) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 💪 Opened PR [#247](https://github.com/plaid/quickstart/pull/247) in [plaid/quickstart](https://github.com/plaid/quickstart)
+2. ❗️ Closed issue [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
+3. 🗣 Commented on [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
+4. ❗️ Closed issue [#51](https://github.com/ajmeese7/spambot/issues/51) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 🗣 Commented on [#51](https://github.com/ajmeese7/spambot/issues/51) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
