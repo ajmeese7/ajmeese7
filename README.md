@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
+1. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 2. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 💪 Opened PR [#135](https://github.com/plaid/pattern/pull/135) in [plaid/pattern](https://github.com/plaid/pattern)
+3. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 4. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
-5. 🎉 Merged PR [#7](https://github.com/ajmeese7/snapchat-share/pull/7) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+5. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
