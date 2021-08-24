@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#135](https://github.com/plaid/pattern/pull/135) in [plaid/pattern](https://github.com/plaid/pattern)
-2. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
-3. 🎉 Merged PR [#7](https://github.com/ajmeese7/snapchat-share/pull/7) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-4. 🎉 Merged PR [#10](https://github.com/ajmeese7/repbot/pull/10) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-5. 🎉 Merged PR [#6](https://github.com/ajmeese7/snapchat-share/pull/6) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+1. 🗣 Commented on [#54](https://github.com/ajmeese7/spambot/issues/54) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 💪 Opened PR [#135](https://github.com/plaid/pattern/pull/135) in [plaid/pattern](https://github.com/plaid/pattern)
+3. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
+4. 🎉 Merged PR [#7](https://github.com/ajmeese7/snapchat-share/pull/7) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+5. 🎉 Merged PR [#10](https://github.com/ajmeese7/repbot/pull/10) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
