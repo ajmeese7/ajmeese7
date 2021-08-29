@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#53](https://github.com/ajmeese7/spambot/issues/53) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#53](https://github.com/ajmeese7/spambot/issues/53) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
-4. 💪 Opened PR [#247](https://github.com/plaid/quickstart/pull/247) in [plaid/quickstart](https://github.com/plaid/quickstart)
-5. ❗️ Closed issue [#6](https://github.com/ajmeese7/automatic-reactions/issues/6) in [ajmeese7/automatic-reactions](https://github.com/ajmeese7/automatic-reactions)
+1. 🗣 Commented on [#353](https://github.com/foxlet/macOS-Simple-KVM/issues/353) in [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
+2. ❗️ Closed issue [#53](https://github.com/ajmeese7/spambot/issues/53) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🗣 Commented on [#53](https://github.com/ajmeese7/spambot/issues/53) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
+5. 💪 Opened PR [#247](https://github.com/plaid/quickstart/pull/247) in [plaid/quickstart](https://github.com/plaid/quickstart)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
