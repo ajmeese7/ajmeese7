@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/issues/16) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
-2. 💪 Opened PR [#15](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/pull/15) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
-3. 🗣 Commented on [#1220](https://github.com/perkeep/perkeep/issues/1220) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
-4. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
-5. 💪 Opened PR [#47](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/47) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+1. 💪 Opened PR [#53](https://github.com/dwyl/phoenix-chat-example/pull/53) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+2. ❗️ Opened issue [#16](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/issues/16) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
+3. 💪 Opened PR [#15](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/pull/15) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
+4. 🗣 Commented on [#1220](https://github.com/perkeep/perkeep/issues/1220) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+5. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
