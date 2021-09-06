@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1220](https://github.com/perkeep/perkeep/issues/1220) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
-2. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
-3. 💪 Opened PR [#47](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/47) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-4. 🗣 Commented on [#55](https://github.com/ajmeese7/spambot/issues/55) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#353](https://github.com/foxlet/macOS-Simple-KVM/issues/353) in [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
+1. 💪 Opened PR [#15](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/pull/15) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
+2. 🗣 Commented on [#1220](https://github.com/perkeep/perkeep/issues/1220) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+3. 🗣 Commented on [#506](https://github.com/morpheusthewhite/spicetify-themes/issues/506) in [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
+4. 💪 Opened PR [#47](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/47) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+5. 🗣 Commented on [#55](https://github.com/ajmeese7/spambot/issues/55) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
