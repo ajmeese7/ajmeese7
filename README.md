@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#56](https://github.com/ajmeese7/spambot/issues/56) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#56](https://github.com/ajmeese7/spambot/issues/56) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
+2. ❗️ Closed issue [#56](https://github.com/ajmeese7/spambot/issues/56) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 3. 🗣 Commented on [#56](https://github.com/ajmeese7/spambot/issues/56) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. ❗️ Opened issue [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
-5. 🎉 Merged PR [#8](https://github.com/ajmeese7/snapchat-share/pull/8) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+4. 🗣 Commented on [#56](https://github.com/ajmeese7/spambot/issues/56) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. ❗️ Opened issue [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
