@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ajmeese7/snapchat-share/pull/8) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-2. 💪 Opened PR [#53](https://github.com/dwyl/phoenix-chat-example/pull/53) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-3. ❗️ Opened issue [#16](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/issues/16) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
-4. 💪 Opened PR [#15](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/pull/15) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
-5. 🗣 Commented on [#1220](https://github.com/perkeep/perkeep/issues/1220) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+1. ❗️ Closed issue [#56](https://github.com/ajmeese7/spambot/issues/56) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#56](https://github.com/ajmeese7/spambot/issues/56) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🗣 Commented on [#56](https://github.com/ajmeese7/spambot/issues/56) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. ❗️ Opened issue [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
+5. 🎉 Merged PR [#8](https://github.com/ajmeese7/snapchat-share/pull/8) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
