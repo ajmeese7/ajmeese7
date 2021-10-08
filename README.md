@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
-2. 💪 Opened PR [#17](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/pull/17) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
-3. 🗣 Commented on [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
-4. ❗️ Closed issue [#55](https://github.com/ajmeese7/spambot/issues/55) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#55](https://github.com/ajmeese7/spambot/issues/55) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 💪 Opened PR [#20](https://github.com/nicbet/docker-phoenix/pull/20) in [nicbet/docker-phoenix](https://github.com/nicbet/docker-phoenix)
+2. 🗣 Commented on [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
+3. 💪 Opened PR [#17](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial/pull/17) in [dwyl/phoenix-liveview-todo-list-tutorial](https://github.com/dwyl/phoenix-liveview-todo-list-tutorial)
+4. 🗣 Commented on [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
+5. ❗️ Closed issue [#55](https://github.com/ajmeese7/spambot/issues/55) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
