@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/dwyl/elixir-auth-github/pull/55) in [dwyl/elixir-auth-github](https://github.com/dwyl/elixir-auth-github)
-2. 💪 Opened PR [#19](https://github.com/dwyl/elixir-auth-github-demo/pull/19) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
-3. ❗️ Closed issue [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
-4. 🗣 Commented on [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
-5. 🗣 Commented on [#1](https://github.com/MainShayne233/rename/issues/1) in [MainShayne233/rename](https://github.com/MainShayne233/rename)
+1. 🎉 Merged PR [#11](https://github.com/ajmeese7/repbot/pull/11) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+2. 💪 Opened PR [#55](https://github.com/dwyl/elixir-auth-github/pull/55) in [dwyl/elixir-auth-github](https://github.com/dwyl/elixir-auth-github)
+3. 💪 Opened PR [#19](https://github.com/dwyl/elixir-auth-github-demo/pull/19) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
+4. ❗️ Closed issue [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
+5. 🗣 Commented on [#16](https://github.com/dwyl/elixir-auth-github-demo/issues/16) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
