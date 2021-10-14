@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/dwyl/phoenix-chat-example/pull/61) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-2. 🗣 Commented on [#55](https://github.com/dwyl/phoenix-chat-example/issues/55) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-3. 🎉 Merged PR [#11](https://github.com/ajmeese7/repbot/pull/11) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-4. 💪 Opened PR [#55](https://github.com/dwyl/elixir-auth-github/pull/55) in [dwyl/elixir-auth-github](https://github.com/dwyl/elixir-auth-github)
-5. 💪 Opened PR [#19](https://github.com/dwyl/elixir-auth-github-demo/pull/19) in [dwyl/elixir-auth-github-demo](https://github.com/dwyl/elixir-auth-github-demo)
+1. ❗️ Closed issue [#55](https://github.com/dwyl/phoenix-chat-example/issues/55) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+2. 💪 Opened PR [#61](https://github.com/dwyl/phoenix-chat-example/pull/61) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+3. 🗣 Commented on [#55](https://github.com/dwyl/phoenix-chat-example/issues/55) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+4. 🎉 Merged PR [#11](https://github.com/ajmeese7/repbot/pull/11) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+5. 💪 Opened PR [#55](https://github.com/dwyl/elixir-auth-github/pull/55) in [dwyl/elixir-auth-github](https://github.com/dwyl/elixir-auth-github)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
