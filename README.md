@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/ajmeese7/spambot/issues/57) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. ❗️ Closed issue [#55](https://github.com/dwyl/phoenix-chat-example/issues/55) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-3. 💪 Opened PR [#61](https://github.com/dwyl/phoenix-chat-example/pull/61) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-4. 🗣 Commented on [#55](https://github.com/dwyl/phoenix-chat-example/issues/55) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-5. 🎉 Merged PR [#11](https://github.com/ajmeese7/repbot/pull/11) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+1. 🗣 Commented on [#62](https://github.com/dwyl/phoenix-chat-example/issues/62) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+2. 🎉 Merged PR [#64](https://github.com/dwyl/phoenix-chat-example/pull/64) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+3. 🗣 Commented on [#57](https://github.com/ajmeese7/spambot/issues/57) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. ❗️ Closed issue [#55](https://github.com/dwyl/phoenix-chat-example/issues/55) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+5. 💪 Opened PR [#61](https://github.com/dwyl/phoenix-chat-example/pull/61) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
