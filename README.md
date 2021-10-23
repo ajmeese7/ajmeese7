@@ -118,11 +118,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial/pull/1) in [ajmeese7/phoenix-liveview-counter-tutorial](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial)
-2. ❗️ Closed issue [#40](https://github.com/dwyl/learn-javascript/issues/40) in [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript)
-3. 🎉 Merged PR [#41](https://github.com/dwyl/learn-javascript/pull/41) in [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript)
-4. 🗣 Commented on [#65](https://github.com/dwyl/phoenix-chat-example/issues/65) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-5. 🗣 Commented on [#62](https://github.com/dwyl/phoenix-chat-example/issues/62) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+1. 🎉 Merged PR [#1](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial/pull/1) in [ajmeese7/phoenix-liveview-counter-tutorial](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial)
+2. 💪 Opened PR [#1](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial/pull/1) in [ajmeese7/phoenix-liveview-counter-tutorial](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial)
+3. ❗️ Closed issue [#40](https://github.com/dwyl/learn-javascript/issues/40) in [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript)
+4. 🎉 Merged PR [#41](https://github.com/dwyl/learn-javascript/pull/41) in [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript)
+5. 🗣 Commented on [#65](https://github.com/dwyl/phoenix-chat-example/issues/65) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
