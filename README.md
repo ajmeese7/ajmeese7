@@ -16,22 +16,23 @@ Software Developer studying at <a href="https://www.amu.apus.edu/">AMU</a> and w
 projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-ascii</a> one featured above!
 </p>
 <p align="center">
-  <a href="https://discord.gg/PxRTQg3">
+  <a href="https://wakatime.com/@f726891d-3b02-46cd-9b60-e8c59f9e2b14">
+    <img src="https://wakatime.com/badge/user/f726891d-3b02-46cd-9b60-e8c59f9e2b14.svg" alt="Total time coded since Aug 4 2020" />
+  </a>
+  <a href="http://link.aaronmeese.com/discord">
     <img src="https://img.shields.io/badge/discord-ajmeese7%234835-369?style=flat-square&logo=discord&logoColor=white&color=purple" alt="Discord" title="Discord">
   </a>
+  <br />
   <a href="https://link.aaronmeese.com/medium">
     <img src="https://img.shields.io/badge/medium-ajmeese7-1DB954?style=flat-square&logo=medium&logoColor=white" alt="Medium" title="Medium">
-  </a>
-  <br />
-  <a href="https://link.aaronmeese.com/instagram">
-    <img src="https://img.shields.io/badge/instagram-ajmeese7-1DB954?style=flat-square&logo=instagram&logoColor=white&color=c13584" alt="Instagram" title="Instagram">
   </a>
   <a href="https://link.aaronmeese.com/linkedin">
     <img src="https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
   </a>
 </p>
   </td>
-  </table>
+
+</table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
