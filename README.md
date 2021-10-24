@@ -119,46 +119,46 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/ajmeese7/spambot/issues/45) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#45](https://github.com/ajmeese7/spambot/issues/45) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. ❗️ Closed issue [#44](https://github.com/ajmeese7/spambot/issues/44) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#44](https://github.com/ajmeese7/spambot/issues/44) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#4](https://github.com/ajmeese7/steam-summary/issues/4) in [ajmeese7/steam-summary](https://github.com/ajmeese7/steam-summary)
+1. 💪 Opened PR [#50](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/50) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+2. 🎉 Merged PR [#1](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial/pull/1) in [ajmeese7/phoenix-liveview-counter-tutorial](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial)
+3. 💪 Opened PR [#1](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial/pull/1) in [ajmeese7/phoenix-liveview-counter-tutorial](https://github.com/ajmeese7/phoenix-liveview-counter-tutorial)
+4. ❗️ Closed issue [#40](https://github.com/dwyl/learn-javascript/issues/40) in [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript)
+5. 🎉 Merged PR [#41](https://github.com/dwyl/learn-javascript/pull/41) in [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 142 Contributions in the Year 2021
+> 🏆 155 Contributions in the Year 2021
  > 
-> 📦 65.5 kB Used in Github's Storage 
+> 📦 65.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 53 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 20 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    316 commits    ████████░░░░░░░░░░░░░░░░░   34.39% 
-🌆 Daytime    386 commits    ██████████░░░░░░░░░░░░░░░   42.0% 
-🌃 Evening    207 commits    █████░░░░░░░░░░░░░░░░░░░░   22.52% 
-🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+🌞 Morning    324 commits    ████████░░░░░░░░░░░░░░░░░   33.75% 
+🌆 Daytime    407 commits    ██████████░░░░░░░░░░░░░░░   42.4% 
+🌃 Evening    220 commits    █████░░░░░░░░░░░░░░░░░░░░   22.92% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-Tuesday      121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Wednesday    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Thursday     111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-Friday       136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
-Saturday     176 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.15% 
-Sunday       169 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.39%
+Monday       117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+Tuesday      125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+Wednesday    101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
+Thursday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
+Friday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Saturday     183 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
+Sunday       176 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33%
 
 ```
 
@@ -169,29 +169,23 @@ Sunday       169 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               9 hrs 12 mins       ████████████████░░░░░░░░░   67.41% 
-Python                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
-CSS                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99%
+JavaScript               4 hrs 4 mins        ████████████████████░░░░░   82.71% 
+SCSS                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
 🐱‍💻 Projects: 
-stocks-dashboard         10 hrs 12 mins      ██████████████████░░░░░░░   74.75% 
-message-scheduler        1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-social-dashboard         37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-discord.js               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
-karameese.com            22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
+stocks-dashboard         4 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               30 repos            ██████████████░░░░░░░░░░░   56.6% 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
+JavaScript               31 repos            ██████████████░░░░░░░░░░░   57.41% 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
