@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/bonfire-networks/bonfire-app/pull/101) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-2. ❗️ Closed issue [#49](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/49) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-3. 💪 Opened PR [#51](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/51) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-4. ❗️ Closed issue [#48](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/48) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-5. 🗣 Commented on [#48](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/48) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+1. ❗️ Opened issue [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+2. 💪 Opened PR [#101](https://github.com/bonfire-networks/bonfire-app/pull/101) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+3. ❗️ Closed issue [#49](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/49) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+4. 💪 Opened PR [#51](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/51) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+5. ❗️ Closed issue [#48](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/48) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
