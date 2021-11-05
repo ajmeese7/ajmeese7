@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/nicksergeant/leather/issues/6) in [nicksergeant/leather](https://github.com/nicksergeant/leather)
-2. ❗️ Closed issue [#57](https://github.com/ajmeese7/spambot/issues/57) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#57](https://github.com/ajmeese7/spambot/issues/57) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. ❗️ Opened issue [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
-5. 💪 Opened PR [#101](https://github.com/bonfire-networks/bonfire-app/pull/101) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+1. 🗣 Commented on [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+2. ❗️ Closed issue [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+3. ❗️ Opened issue [#6](https://github.com/nicksergeant/leather/issues/6) in [nicksergeant/leather](https://github.com/nicksergeant/leather)
+4. ❗️ Closed issue [#57](https://github.com/ajmeese7/spambot/issues/57) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 🗣 Commented on [#57](https://github.com/ajmeese7/spambot/issues/57) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
