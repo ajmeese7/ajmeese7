@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
-2. ❗️ Closed issue [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
-3. ❗️ Opened issue [#6](https://github.com/nicksergeant/leather/issues/6) in [nicksergeant/leather](https://github.com/nicksergeant/leather)
-4. ❗️ Closed issue [#57](https://github.com/ajmeese7/spambot/issues/57) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#57](https://github.com/ajmeese7/spambot/issues/57) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🎉 Merged PR [#41](https://github.com/dwyl/javascript-todo-list-tutorial/pull/41) in [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial)
+2. ❗️ Closed issue [#40](https://github.com/dwyl/javascript-todo-list-tutorial/issues/40) in [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial)
+3. 🗣 Commented on [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+4. ❗️ Closed issue [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+5. ❗️ Opened issue [#6](https://github.com/nicksergeant/leather/issues/6) in [nicksergeant/leather](https://github.com/nicksergeant/leather)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
