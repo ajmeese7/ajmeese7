@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/dwyl/javascript-todo-list-tutorial/pull/41) in [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial)
-2. ❗️ Closed issue [#40](https://github.com/dwyl/javascript-todo-list-tutorial/issues/40) in [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial)
-3. 🗣 Commented on [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
-4. ❗️ Closed issue [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
-5. ❗️ Opened issue [#6](https://github.com/nicksergeant/leather/issues/6) in [nicksergeant/leather](https://github.com/nicksergeant/leather)
+1. 💪 Opened PR [#273](https://github.com/dendronhq/dendron-site/pull/273) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
+2. 🎉 Merged PR [#41](https://github.com/dwyl/javascript-todo-list-tutorial/pull/41) in [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial)
+3. ❗️ Closed issue [#40](https://github.com/dwyl/javascript-todo-list-tutorial/issues/40) in [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial)
+4. 🗣 Commented on [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
+5. ❗️ Closed issue [#1570](https://github.com/perkeep/perkeep/issues/1570) in [perkeep/perkeep](https://github.com/perkeep/perkeep)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
