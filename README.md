@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/dwyl/learn-redux/pull/58) in [dwyl/learn-redux](https://github.com/dwyl/learn-redux)
-2. ❗️ Opened issue [#2](https://github.com/NightlyNexus/BatAway/issues/2) in [NightlyNexus/BatAway](https://github.com/NightlyNexus/BatAway)
-3. 💪 Opened PR [#273](https://github.com/dendronhq/dendron-site/pull/273) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
-4. 🎉 Merged PR [#41](https://github.com/dwyl/javascript-todo-list-tutorial/pull/41) in [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial)
-5. ❗️ Closed issue [#40](https://github.com/dwyl/javascript-todo-list-tutorial/issues/40) in [dwyl/javascript-todo-list-tutorial](https://github.com/dwyl/javascript-todo-list-tutorial)
+1. 🎉 Merged PR [#1](https://github.com/ajmeese7/raspberrypi/pull/1) in [ajmeese7/raspberrypi](https://github.com/ajmeese7/raspberrypi)
+2. 💪 Opened PR [#1](https://github.com/ajmeese7/raspberrypi/pull/1) in [ajmeese7/raspberrypi](https://github.com/ajmeese7/raspberrypi)
+3. 🎉 Merged PR [#58](https://github.com/dwyl/learn-redux/pull/58) in [dwyl/learn-redux](https://github.com/dwyl/learn-redux)
+4. ❗️ Opened issue [#2](https://github.com/NightlyNexus/BatAway/issues/2) in [NightlyNexus/BatAway](https://github.com/NightlyNexus/BatAway)
+5. 💪 Opened PR [#273](https://github.com/dendronhq/dendron-site/pull/273) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
