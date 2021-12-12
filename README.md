@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-2. 🎉 Merged PR [#1](https://github.com/ajmeese7/raspberrypi/pull/1) in [ajmeese7/raspberrypi](https://github.com/ajmeese7/raspberrypi)
-3. 💪 Opened PR [#1](https://github.com/ajmeese7/raspberrypi/pull/1) in [ajmeese7/raspberrypi](https://github.com/ajmeese7/raspberrypi)
-4. 🎉 Merged PR [#58](https://github.com/dwyl/learn-redux/pull/58) in [dwyl/learn-redux](https://github.com/dwyl/learn-redux)
-5. ❗️ Opened issue [#2](https://github.com/NightlyNexus/BatAway/issues/2) in [NightlyNexus/BatAway](https://github.com/NightlyNexus/BatAway)
+1. 🗣 Commented on [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+2. ❗️ Opened issue [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+3. 🎉 Merged PR [#1](https://github.com/ajmeese7/raspberrypi/pull/1) in [ajmeese7/raspberrypi](https://github.com/ajmeese7/raspberrypi)
+4. 💪 Opened PR [#1](https://github.com/ajmeese7/raspberrypi/pull/1) in [ajmeese7/raspberrypi](https://github.com/ajmeese7/raspberrypi)
+5. 🎉 Merged PR [#58](https://github.com/dwyl/learn-redux/pull/58) in [dwyl/learn-redux](https://github.com/dwyl/learn-redux)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
