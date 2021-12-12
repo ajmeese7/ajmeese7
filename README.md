@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/tipsy/profile-summary-for-github/issues/96) in [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
-2. 💪 Opened PR [#109](https://github.com/bonfire-networks/bonfire-app/pull/109) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-3. 💪 Opened PR [#7](https://github.com/bonfire-networks/bonfire_ui_social/pull/7) in [bonfire-networks/bonfire_ui_social](https://github.com/bonfire-networks/bonfire_ui_social)
-4. 🗣 Commented on [#35](https://github.com/ProjectOpenSea/opensea-whitelabel/issues/35) in [ProjectOpenSea/opensea-whitelabel](https://github.com/ProjectOpenSea/opensea-whitelabel)
-5. ❗️ Closed issue [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+1. 💪 Opened PR [#110](https://github.com/bonfire-networks/bonfire-app/pull/110) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+2. 🗣 Commented on [#109](https://github.com/bonfire-networks/bonfire-app/issues/109) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+3. ❌ Closed PR [#109](https://github.com/bonfire-networks/bonfire-app/pull/109) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+4. 🗣 Commented on [#96](https://github.com/tipsy/profile-summary-for-github/issues/96) in [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
+5. 💪 Opened PR [#109](https://github.com/bonfire-networks/bonfire-app/pull/109) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
