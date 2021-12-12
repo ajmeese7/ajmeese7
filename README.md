@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-2. 🗣 Commented on [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+1. 🗣 Commented on [#35](https://github.com/ProjectOpenSea/opensea-whitelabel/issues/35) in [ProjectOpenSea/opensea-whitelabel](https://github.com/ProjectOpenSea/opensea-whitelabel)
+2. ❗️ Closed issue [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
 3. 🗣 Commented on [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-4. ❗️ Opened issue [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-5. 🎉 Merged PR [#1](https://github.com/ajmeese7/raspberrypi/pull/1) in [ajmeese7/raspberrypi](https://github.com/ajmeese7/raspberrypi)
+4. 🗣 Commented on [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+5. ❗️ Opened issue [#108](https://github.com/bonfire-networks/bonfire-app/issues/108) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
