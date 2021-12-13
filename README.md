@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/bonfire-networks/bonfire_data_access_control/pull/2) in [bonfire-networks/bonfire_data_access_control](https://github.com/bonfire-networks/bonfire_data_access_control)
-2. 💪 Opened PR [#1](https://github.com/bonfire-networks/bonfire_data_social/pull/1) in [bonfire-networks/bonfire_data_social](https://github.com/bonfire-networks/bonfire_data_social)
-3. 💪 Opened PR [#8](https://github.com/bonfire-networks/pointers/pull/8) in [bonfire-networks/pointers](https://github.com/bonfire-networks/pointers)
-4. 💪 Opened PR [#110](https://github.com/bonfire-networks/bonfire-app/pull/110) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-5. 🗣 Commented on [#109](https://github.com/bonfire-networks/bonfire-app/issues/109) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+1. 🗣 Commented on [#109](https://github.com/bonfire-networks/bonfire-app/issues/109) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+2. 🗣 Commented on [#110](https://github.com/bonfire-networks/bonfire-app/issues/110) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+3. 💪 Opened PR [#2](https://github.com/bonfire-networks/bonfire_data_access_control/pull/2) in [bonfire-networks/bonfire_data_access_control](https://github.com/bonfire-networks/bonfire_data_access_control)
+4. 💪 Opened PR [#1](https://github.com/bonfire-networks/bonfire_data_social/pull/1) in [bonfire-networks/bonfire_data_social](https://github.com/bonfire-networks/bonfire_data_social)
+5. 💪 Opened PR [#8](https://github.com/bonfire-networks/pointers/pull/8) in [bonfire-networks/pointers](https://github.com/bonfire-networks/pointers)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
