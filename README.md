@@ -119,11 +119,11 @@ projects like the <a href="https://github.com/ajmeese7/readme-ascii">readme-asci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247](https://github.com/plaid/quickstart/issues/247) in [plaid/quickstart](https://github.com/plaid/quickstart)
-2. 🗣 Commented on [#531](https://github.com/surface-ui/surface/issues/531) in [surface-ui/surface](https://github.com/surface-ui/surface)
-3. 🗣 Commented on [#109](https://github.com/bonfire-networks/bonfire-app/issues/109) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-4. 🗣 Commented on [#110](https://github.com/bonfire-networks/bonfire-app/issues/110) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-5. 💪 Opened PR [#2](https://github.com/bonfire-networks/bonfire_data_access_control/pull/2) in [bonfire-networks/bonfire_data_access_control](https://github.com/bonfire-networks/bonfire_data_access_control)
+1. 🗣 Commented on [#1](https://github.com/bonfire-networks/bonfire_data_social/issues/1) in [bonfire-networks/bonfire_data_social](https://github.com/bonfire-networks/bonfire_data_social)
+2. 🗣 Commented on [#247](https://github.com/plaid/quickstart/issues/247) in [plaid/quickstart](https://github.com/plaid/quickstart)
+3. 🗣 Commented on [#531](https://github.com/surface-ui/surface/issues/531) in [surface-ui/surface](https://github.com/surface-ui/surface)
+4. 🗣 Commented on [#109](https://github.com/bonfire-networks/bonfire-app/issues/109) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+5. 🗣 Commented on [#110](https://github.com/bonfire-networks/bonfire-app/issues/110) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
