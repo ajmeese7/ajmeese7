@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1893](https://github.com/dendronhq/dendron/issues/1893) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-2. 💪 Opened PR [#1](https://github.com/kylemccurley/kylemccurley/pull/1) in [kylemccurley/kylemccurley](https://github.com/kylemccurley/kylemccurley)
-3. 🗣 Commented on [#104](https://github.com/bonfire-networks/bonfire-app/issues/104) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-4. 💪 Opened PR [#111](https://github.com/bonfire-networks/bonfire-app/pull/111) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-5. 🎉 Merged PR [#1](https://github.com/ajmeese7/bonfire-app/pull/1) in [ajmeese7/bonfire-app](https://github.com/ajmeese7/bonfire-app)
+1. 🗣 Commented on [#247](https://github.com/plaid/quickstart/issues/247) in [plaid/quickstart](https://github.com/plaid/quickstart)
+2. ❌ Closed PR [#2](https://github.com/bonfire-networks/bonfire_data_access_control/pull/2) in [bonfire-networks/bonfire_data_access_control](https://github.com/bonfire-networks/bonfire_data_access_control)
+3. 🗣 Commented on [#2](https://github.com/bonfire-networks/bonfire_data_access_control/issues/2) in [bonfire-networks/bonfire_data_access_control](https://github.com/bonfire-networks/bonfire_data_access_control)
+4. ❌ Closed PR [#1](https://github.com/bonfire-networks/bonfire_data_social/pull/1) in [bonfire-networks/bonfire_data_social](https://github.com/bonfire-networks/bonfire_data_social)
+5. 🗣 Commented on [#1](https://github.com/bonfire-networks/bonfire_data_social/issues/1) in [bonfire-networks/bonfire_data_social](https://github.com/bonfire-networks/bonfire_data_social)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
