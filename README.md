@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kylemccurley/kylemccurley/pull/1) in [kylemccurley/kylemccurley](https://github.com/kylemccurley/kylemccurley)
-2. 🗣 Commented on [#104](https://github.com/bonfire-networks/bonfire-app/issues/104) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-3. 💪 Opened PR [#111](https://github.com/bonfire-networks/bonfire-app/pull/111) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-4. 🎉 Merged PR [#1](https://github.com/ajmeese7/bonfire-app/pull/1) in [ajmeese7/bonfire-app](https://github.com/ajmeese7/bonfire-app)
-5. 💪 Opened PR [#1](https://github.com/ajmeese7/bonfire-app/pull/1) in [ajmeese7/bonfire-app](https://github.com/ajmeese7/bonfire-app)
+1. ❗️ Opened issue [#1893](https://github.com/dendronhq/dendron/issues/1893) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+2. 💪 Opened PR [#1](https://github.com/kylemccurley/kylemccurley/pull/1) in [kylemccurley/kylemccurley](https://github.com/kylemccurley/kylemccurley)
+3. 🗣 Commented on [#104](https://github.com/bonfire-networks/bonfire-app/issues/104) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+4. 💪 Opened PR [#111](https://github.com/bonfire-networks/bonfire-app/pull/111) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
+5. 🎉 Merged PR [#1](https://github.com/ajmeese7/bonfire-app/pull/1) in [ajmeese7/bonfire-app](https://github.com/ajmeese7/bonfire-app)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
