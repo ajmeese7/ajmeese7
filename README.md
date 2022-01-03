@@ -59,7 +59,7 @@
 
 ### 🧐 Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -128,6 +128,6 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
 </details>
