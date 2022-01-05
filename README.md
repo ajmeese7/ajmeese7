@@ -59,8 +59,6 @@
 
 ### 🧐 Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%207%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 10 Contributions in the Year 2022
