@@ -59,7 +59,7 @@
 
 ### 🧐 Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -69,9 +69,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 78 Public Repositories 
+> 📜 77 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -130,6 +130,6 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2022
+ Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
 </details>
