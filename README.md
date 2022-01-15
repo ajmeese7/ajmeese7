@@ -50,10 +50,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/imabp/WebTerminal/pull/29) in [imabp/WebTerminal](https://github.com/imabp/WebTerminal)
-2. ❗️ Opened issue [#274](https://github.com/1j01/jspaint/issues/274) in [1j01/jspaint](https://github.com/1j01/jspaint)
-3. ❗️ Opened issue [#5](https://github.com/rogeriopvl/8bit/issues/5) in [rogeriopvl/8bit](https://github.com/rogeriopvl/8bit)
-4. 🗣 Commented on [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#1641](https://github.com/Automattic/node-canvas/issues/1641) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+2. 💪 Opened PR [#29](https://github.com/imabp/WebTerminal/pull/29) in [imabp/WebTerminal](https://github.com/imabp/WebTerminal)
+3. ❗️ Opened issue [#274](https://github.com/1j01/jspaint/issues/274) in [1j01/jspaint](https://github.com/1j01/jspaint)
+4. ❗️ Opened issue [#5](https://github.com/rogeriopvl/8bit/issues/5) in [rogeriopvl/8bit](https://github.com/rogeriopvl/8bit)
 5. ❌ Closed PR [#2](https://github.com/bonfire-networks/bonfire_data_access_control/pull/2) in [bonfire-networks/bonfire_data_access_control](https://github.com/bonfire-networks/bonfire_data_access_control)
 <!--END_SECTION:activity-->
 
