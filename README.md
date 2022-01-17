@@ -59,13 +59,13 @@
 
 ### 🧐 Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 73 Contributions in the Year 2022
+> 🏆 80 Contributions in the Year 2022
  > 
-> 📦 330.5 kB Used in GitHub's Storage 
+> 📦 331.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,8 +76,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    229 commits    ███████░░░░░░░░░░░░░░░░░░   30.17% 
-🌆 Daytime    284 commits    █████████░░░░░░░░░░░░░░░░   37.42% 
+🌞 Morning    225 commits    ███████░░░░░░░░░░░░░░░░░░   29.64% 
+🌆 Daytime    288 commits    █████████░░░░░░░░░░░░░░░░   37.94% 
 🌃 Evening    231 commits    ███████░░░░░░░░░░░░░░░░░░   30.43% 
 🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
 
@@ -130,6 +130,6 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 </details>
