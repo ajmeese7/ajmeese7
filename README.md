@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/saisandeepvaddi/how-to-create-web-terminals/pull/22) in [saisandeepvaddi/how-to-create-web-terminals](https://github.com/saisandeepvaddi/how-to-create-web-terminals)
-2. 💪 Opened PR [#22](https://github.com/os-js/osjs-xterm-application/pull/22) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
-3. ❗️ Opened issue [#36](https://github.com/DustinBrett/daedalOS/issues/36) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-4. 🗣 Commented on [#74](https://github.com/os-js/osjs-client/issues/74) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-5. 🗣 Commented on [#1641](https://github.com/Automattic/node-canvas/issues/1641) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+1. 💪 Opened PR [#37](https://github.com/os-js/manual.os-js.org/pull/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
+2. 💪 Opened PR [#22](https://github.com/saisandeepvaddi/how-to-create-web-terminals/pull/22) in [saisandeepvaddi/how-to-create-web-terminals](https://github.com/saisandeepvaddi/how-to-create-web-terminals)
+3. 💪 Opened PR [#22](https://github.com/os-js/osjs-xterm-application/pull/22) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+4. ❗️ Opened issue [#36](https://github.com/DustinBrett/daedalOS/issues/36) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+5. 🗣 Commented on [#74](https://github.com/os-js/osjs-client/issues/74) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
