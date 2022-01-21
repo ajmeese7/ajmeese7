@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/os-js/manual.os-js.org/issues/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-2. 🗣 Commented on [#60](https://github.com/ajmeese7/spambot/issues/60) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 💪 Opened PR [#37](https://github.com/os-js/manual.os-js.org/pull/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-4. 💪 Opened PR [#22](https://github.com/saisandeepvaddi/how-to-create-web-terminals/pull/22) in [saisandeepvaddi/how-to-create-web-terminals](https://github.com/saisandeepvaddi/how-to-create-web-terminals)
-5. 💪 Opened PR [#22](https://github.com/os-js/osjs-xterm-application/pull/22) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+1. 🗣 Commented on [#274](https://github.com/1j01/jspaint/issues/274) in [1j01/jspaint](https://github.com/1j01/jspaint)
+2. 🗣 Commented on [#37](https://github.com/os-js/manual.os-js.org/issues/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
+3. 🗣 Commented on [#60](https://github.com/ajmeese7/spambot/issues/60) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 💪 Opened PR [#37](https://github.com/os-js/manual.os-js.org/pull/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
+5. 💪 Opened PR [#22](https://github.com/saisandeepvaddi/how-to-create-web-terminals/pull/22) in [saisandeepvaddi/how-to-create-web-terminals](https://github.com/saisandeepvaddi/how-to-create-web-terminals)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
