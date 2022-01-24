@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/DustinBrett/daedalOS/issues/36) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-2. 🗣 Commented on [#37](https://github.com/os-js/manual.os-js.org/issues/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-3. 🗣 Commented on [#274](https://github.com/1j01/jspaint/issues/274) in [1j01/jspaint](https://github.com/1j01/jspaint)
-4. 🗣 Commented on [#37](https://github.com/os-js/manual.os-js.org/issues/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-5. 🗣 Commented on [#60](https://github.com/ajmeese7/spambot/issues/60) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#16](https://github.com/MineAndCraft12/AaronOS/issues/16) in [MineAndCraft12/AaronOS](https://github.com/MineAndCraft12/AaronOS)
+2. 🗣 Commented on [#36](https://github.com/DustinBrett/daedalOS/issues/36) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+3. 🗣 Commented on [#37](https://github.com/os-js/manual.os-js.org/issues/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
+4. 🗣 Commented on [#274](https://github.com/1j01/jspaint/issues/274) in [1j01/jspaint](https://github.com/1j01/jspaint)
+5. 🗣 Commented on [#37](https://github.com/os-js/manual.os-js.org/issues/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
