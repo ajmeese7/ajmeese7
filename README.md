@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/pervcomp/Lively3D/pull/1) in [pervcomp/Lively3D](https://github.com/pervcomp/Lively3D)
-2. ❗️ Opened issue [#1](https://github.com/salojc2006/Webos/issues/1) in [salojc2006/Webos](https://github.com/salojc2006/Webos)
-3. 🗣 Commented on [#16](https://github.com/MineAndCraft12/AaronOS/issues/16) in [MineAndCraft12/AaronOS](https://github.com/MineAndCraft12/AaronOS)
-4. 🗣 Commented on [#36](https://github.com/DustinBrett/daedalOS/issues/36) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-5. 🗣 Commented on [#37](https://github.com/os-js/manual.os-js.org/issues/37) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
+1. 🗣 Commented on [#61](https://github.com/ajmeese7/spambot/issues/61) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 💪 Opened PR [#1](https://github.com/pervcomp/Lively3D/pull/1) in [pervcomp/Lively3D](https://github.com/pervcomp/Lively3D)
+3. ❗️ Opened issue [#1](https://github.com/salojc2006/Webos/issues/1) in [salojc2006/Webos](https://github.com/salojc2006/Webos)
+4. 🗣 Commented on [#16](https://github.com/MineAndCraft12/AaronOS/issues/16) in [MineAndCraft12/AaronOS](https://github.com/MineAndCraft12/AaronOS)
+5. 🗣 Commented on [#36](https://github.com/DustinBrett/daedalOS/issues/36) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
