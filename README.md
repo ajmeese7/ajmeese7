@@ -16,7 +16,7 @@
     </p>
     <p align="center">
       <a href="https://wakatime.com/@f726891d-3b02-46cd-9b60-e8c59f9e2b14">
-        <img src="https://wakatime.com/badge/user/f726891d-3b02-46cd-9b60-e8c59f9e2b14.svg" alt="Total time coded since Aug 4 2020" />
+        <img src="https://wakatime.com/badge/user/f726891d-3b02-46cd-9b60-e8c59f9e2b14.svg" alt="Total time coded since Aug 4 2020" title="WakaTime" />
       </a>
       <a href="http://link.aaronmeese.com/discord">
         <img src="https://img.shields.io/badge/discord-ajmeese7%234835-369?style=flat-square&logo=discord&logoColor=white&color=purple" alt="Discord" title="Discord">
