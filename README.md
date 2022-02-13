@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
-2. ❗️ Opened issue [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
-3. 🗣 Commented on [#3016](https://github.com/pnpm/pnpm/issues/3016) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-4. 🗣 Commented on [#956](https://github.com/microsoft/rushstack/issues/956) in [microsoft/rushstack](https://github.com/microsoft/rushstack)
-5. ❌ Closed PR [#22](https://github.com/os-js/osjs-xterm-application/pull/22) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+1. ❗️ Closed issue [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+2. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+3. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+4. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+5. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
