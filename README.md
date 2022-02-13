@@ -50,9 +50,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+1. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
 2. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
-3. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+3. ❗️ Closed issue [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
 4. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
 5. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
 <!--END_SECTION:activity-->
