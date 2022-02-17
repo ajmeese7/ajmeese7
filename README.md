@@ -51,10 +51,10 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
-3. 🗣 Commented on [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#24](https://github.com/Cosium/dry-dry/issues/24) in [Cosium/dry-dry](https://github.com/Cosium/dry-dry)
-5. ❗️ Opened issue [#10](https://github.com/microsoft/package-inherit/issues/10) in [microsoft/package-inherit](https://github.com/microsoft/package-inherit)
+2. 🗣 Commented on [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+4. 🗣 Commented on [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 🗣 Commented on [#24](https://github.com/Cosium/dry-dry/issues/24) in [Cosium/dry-dry](https://github.com/Cosium/dry-dry)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
