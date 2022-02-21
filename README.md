@@ -59,17 +59,15 @@
 
 ### 🧐 Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%205%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 149 Contributions in the Year 2022
+> 🏆 151 Contributions in the Year 2022
  > 
-> 📦 349.2 kB Used in GitHub's Storage 
+> 📦 349.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 72 Public Repositories 
+> 📜 73 Public Repositories 
  > 
 > 🔑 22 Private Repositories  
  > 
@@ -129,6 +127,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2022 16:03:17 UTC
+ Last Updated on 21/02/2022 08:03:26 UTC
 <!--END_SECTION:waka-->
 </details>
