@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/os-js/osjs-client/issues/173) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-2. 💪 Opened PR [#173](https://github.com/os-js/osjs-client/pull/173) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-3. 🗣 Commented on [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#23](https://github.com/os-js/osjs-xterm-application/issues/23) in [os-js/osjs-xterm-application](https://github.com/os-js/osjs-xterm-application)
+1. 🎉 Merged PR [#2](https://github.com/ajmeese7/smoke-pit-playlist/pull/2) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
+2. 🎉 Merged PR [#3](https://github.com/ajmeese7/smoke-pit-playlist/pull/3) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
+3. 🗣 Commented on [#173](https://github.com/os-js/osjs-client/issues/173) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+4. 💪 Opened PR [#173](https://github.com/os-js/osjs-client/pull/173) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+5. 🗣 Commented on [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
