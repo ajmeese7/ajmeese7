@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ajmeese7/ajmeese7/pull/3) in [ajmeese7/ajmeese7](https://github.com/ajmeese7/ajmeese7)
-2. 💪 Opened PR [#3](https://github.com/ajmeese7/ajmeese7/pull/3) in [ajmeese7/ajmeese7](https://github.com/ajmeese7/ajmeese7)
-3. ❗️ Opened issue [#2](https://github.com/ajmeese7/image-to-8bit/issues/2) in [ajmeese7/image-to-8bit](https://github.com/ajmeese7/image-to-8bit)
-4. 🎉 Merged PR [#2](https://github.com/ajmeese7/smoke-pit-playlist/pull/2) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
-5. 🎉 Merged PR [#3](https://github.com/ajmeese7/smoke-pit-playlist/pull/3) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
+1. ❗️ Closed issue [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. ❗️ Closed issue [#61](https://github.com/ajmeese7/spambot/issues/61) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#61](https://github.com/ajmeese7/spambot/issues/61) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 💪 Opened PR [#6](https://github.com/rogeriopvl/8bit/pull/6) in [rogeriopvl/8bit](https://github.com/rogeriopvl/8bit)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
