@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/ajmeese7/image-to-8bit/issues/2) in [ajmeese7/image-to-8bit](https://github.com/ajmeese7/image-to-8bit)
-2. 🎉 Merged PR [#2](https://github.com/ajmeese7/smoke-pit-playlist/pull/2) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
-3. 🎉 Merged PR [#3](https://github.com/ajmeese7/smoke-pit-playlist/pull/3) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
-4. 🗣 Commented on [#173](https://github.com/os-js/osjs-client/issues/173) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-5. 💪 Opened PR [#173](https://github.com/os-js/osjs-client/pull/173) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 🎉 Merged PR [#3](https://github.com/ajmeese7/ajmeese7/pull/3) in [ajmeese7/ajmeese7](https://github.com/ajmeese7/ajmeese7)
+2. 💪 Opened PR [#3](https://github.com/ajmeese7/ajmeese7/pull/3) in [ajmeese7/ajmeese7](https://github.com/ajmeese7/ajmeese7)
+3. ❗️ Opened issue [#2](https://github.com/ajmeese7/image-to-8bit/issues/2) in [ajmeese7/image-to-8bit](https://github.com/ajmeese7/image-to-8bit)
+4. 🎉 Merged PR [#2](https://github.com/ajmeese7/smoke-pit-playlist/pull/2) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
+5. 🎉 Merged PR [#3](https://github.com/ajmeese7/smoke-pit-playlist/pull/3) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
