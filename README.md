@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/elements-x/elements-x/pull/7) in [elements-x/elements-x](https://github.com/elements-x/elements-x)
-2. 🎉 Merged PR [#12](https://github.com/ajmeese7/repbot/pull/12) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-3. ❗️ Closed issue [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. ❗️ Closed issue [#61](https://github.com/ajmeese7/spambot/issues/61) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🎉 Merged PR [#5](https://github.com/ajmeese7/stocks-dashboard/pull/5) in [ajmeese7/stocks-dashboard](https://github.com/ajmeese7/stocks-dashboard)
+2. 🎉 Merged PR [#5](https://github.com/ajmeese7/steam-queue-clicker/pull/5) in [ajmeese7/steam-queue-clicker](https://github.com/ajmeese7/steam-queue-clicker)
+3. 🎉 Merged PR [#1](https://github.com/ajmeese7/stocks-dashboard/pull/1) in [ajmeese7/stocks-dashboard](https://github.com/ajmeese7/stocks-dashboard)
+4. 🎉 Merged PR [#2](https://github.com/ajmeese7/stocks-dashboard/pull/2) in [ajmeese7/stocks-dashboard](https://github.com/ajmeese7/stocks-dashboard)
+5. 🎉 Merged PR [#3](https://github.com/ajmeese7/where-temperature/pull/3) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
