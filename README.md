@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ajmeese7/repbot/pull/12) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-2. ❗️ Closed issue [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. ❗️ Closed issue [#61](https://github.com/ajmeese7/spambot/issues/61) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#61](https://github.com/ajmeese7/spambot/issues/61) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 💪 Opened PR [#7](https://github.com/elements-x/elements-x/pull/7) in [elements-x/elements-x](https://github.com/elements-x/elements-x)
+2. 🎉 Merged PR [#12](https://github.com/ajmeese7/repbot/pull/12) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+3. ❗️ Closed issue [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#59](https://github.com/ajmeese7/spambot/issues/59) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. ❗️ Closed issue [#61](https://github.com/ajmeese7/spambot/issues/61) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
