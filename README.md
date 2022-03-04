@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#50](https://github.com/ajmeese7/aaronmeese.com/pull/50) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. ❌ Closed PR [#52](https://github.com/ajmeese7/aaronmeese.com/pull/52) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. 🎉 Merged PR [#51](https://github.com/ajmeese7/aaronmeese.com/pull/51) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 💪 Opened PR [#51](https://github.com/ajmeese7/aaronmeese.com/pull/51) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. 🎉 Merged PR [#4](https://github.com/ajmeese7/where-temperature/pull/4) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+1. 🎉 Merged PR [#55](https://github.com/ajmeese7/aaronmeese.com/pull/55) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. 🎉 Merged PR [#54](https://github.com/ajmeese7/aaronmeese.com/pull/54) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. 🎉 Merged PR [#53](https://github.com/ajmeese7/aaronmeese.com/pull/53) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+4. ❌ Closed PR [#50](https://github.com/ajmeese7/aaronmeese.com/pull/50) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. ❌ Closed PR [#52](https://github.com/ajmeese7/aaronmeese.com/pull/52) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
