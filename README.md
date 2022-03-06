@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/ajmeese7/aaronmeese.com/pull/57) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. 🎉 Merged PR [#56](https://github.com/ajmeese7/aaronmeese.com/pull/56) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. ❗️ Opened issue [#53](https://github.com/hongru/canvas2image/issues/53) in [hongru/canvas2image](https://github.com/hongru/canvas2image)
-4. 🎉 Merged PR [#55](https://github.com/ajmeese7/aaronmeese.com/pull/55) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. 🎉 Merged PR [#54](https://github.com/ajmeese7/aaronmeese.com/pull/54) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 💪 Opened PR [#38](https://github.com/os-js/manual.os-js.org/pull/38) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
+2. 🎉 Merged PR [#57](https://github.com/ajmeese7/aaronmeese.com/pull/57) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. 🎉 Merged PR [#56](https://github.com/ajmeese7/aaronmeese.com/pull/56) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+4. ❗️ Opened issue [#53](https://github.com/hongru/canvas2image/issues/53) in [hongru/canvas2image](https://github.com/hongru/canvas2image)
+5. 🎉 Merged PR [#55](https://github.com/ajmeese7/aaronmeese.com/pull/55) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
