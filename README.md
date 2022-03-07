@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/os-js/manual.os-js.org/pull/38) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-2. 🎉 Merged PR [#57](https://github.com/ajmeese7/aaronmeese.com/pull/57) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. 🎉 Merged PR [#56](https://github.com/ajmeese7/aaronmeese.com/pull/56) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. ❗️ Opened issue [#53](https://github.com/hongru/canvas2image/issues/53) in [hongru/canvas2image](https://github.com/hongru/canvas2image)
-5. 🎉 Merged PR [#55](https://github.com/ajmeese7/aaronmeese.com/pull/55) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. ❗️ Closed issue [#60](https://github.com/ajmeese7/spambot/issues/60) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#60](https://github.com/ajmeese7/spambot/issues/60) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. ❗️ Closed issue [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 🗣 Commented on [#62](https://github.com/ajmeese7/spambot/issues/62) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 🗣 Commented on [#63](https://github.com/ajmeese7/spambot/issues/63) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
