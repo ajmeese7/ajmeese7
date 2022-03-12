@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1402](https://github.com/microsoft/rushstack/issues/1402) in [microsoft/rushstack](https://github.com/microsoft/rushstack)
-2. ❗️ Opened issue [#14](https://github.com/os-js/osjs-dialogs/issues/14) in [os-js/osjs-dialogs](https://github.com/os-js/osjs-dialogs)
-3. 🗣 Commented on [#63](https://github.com/ajmeese7/spambot/issues/63) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 💪 Opened PR [#13](https://github.com/os-js/osjs-dialogs/pull/13) in [os-js/osjs-dialogs](https://github.com/os-js/osjs-dialogs)
-5. ❗️ Opened issue [#58](https://github.com/ajmeese7/aaronmeese.com/issues/58) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 💪 Opened PR [#10](https://github.com/os-js/osjs-settings-application/pull/10) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
+2. 💪 Opened PR [#15](https://github.com/os-js/osjs-dialogs/pull/15) in [os-js/osjs-dialogs](https://github.com/os-js/osjs-dialogs)
+3. 🗣 Commented on [#1402](https://github.com/microsoft/rushstack/issues/1402) in [microsoft/rushstack](https://github.com/microsoft/rushstack)
+4. ❗️ Opened issue [#14](https://github.com/os-js/osjs-dialogs/issues/14) in [os-js/osjs-dialogs](https://github.com/os-js/osjs-dialogs)
+5. 🗣 Commented on [#63](https://github.com/ajmeese7/spambot/issues/63) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
