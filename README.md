@@ -51,10 +51,10 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/os-js/osjs-settings-application/issues/10) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
-2. 💪 Opened PR [#10](https://github.com/os-js/osjs-settings-application/pull/10) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
-3. 💪 Opened PR [#15](https://github.com/os-js/osjs-dialogs/pull/15) in [os-js/osjs-dialogs](https://github.com/os-js/osjs-dialogs)
-4. 🗣 Commented on [#1402](https://github.com/microsoft/rushstack/issues/1402) in [microsoft/rushstack](https://github.com/microsoft/rushstack)
-5. ❗️ Opened issue [#14](https://github.com/os-js/osjs-dialogs/issues/14) in [os-js/osjs-dialogs](https://github.com/os-js/osjs-dialogs)
+2. 🗣 Commented on [#709](https://github.com/coreybutler/nvm-windows/issues/709) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+3. 🗣 Commented on [#10](https://github.com/os-js/osjs-settings-application/issues/10) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
+4. 🗣 Commented on [#10](https://github.com/os-js/osjs-settings-application/issues/10) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
+5. 💪 Opened PR [#10](https://github.com/os-js/osjs-settings-application/pull/10) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
