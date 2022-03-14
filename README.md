@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#60](https://github.com/ajmeese7/aaronmeese.com/issues/60) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. ❗️ Opened issue [#59](https://github.com/ajmeese7/aaronmeese.com/issues/59) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. ❗️ Opened issue [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
-4. 🗣 Commented on [#10](https://github.com/os-js/osjs-settings-application/issues/10) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
-5. 🗣 Commented on [#709](https://github.com/coreybutler/nvm-windows/issues/709) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+1. 🗣 Commented on [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
+2. ❗️ Opened issue [#60](https://github.com/ajmeese7/aaronmeese.com/issues/60) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. ❗️ Opened issue [#59](https://github.com/ajmeese7/aaronmeese.com/issues/59) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+4. ❗️ Opened issue [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
+5. 🗣 Commented on [#10](https://github.com/os-js/osjs-settings-application/issues/10) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
