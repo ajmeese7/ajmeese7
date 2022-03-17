@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
-2. 🗣 Commented on [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
-3. 🗣 Commented on [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
-4. ❗️ Opened issue [#60](https://github.com/ajmeese7/aaronmeese.com/issues/60) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. ❗️ Opened issue [#59](https://github.com/ajmeese7/aaronmeese.com/issues/59) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 🗣 Commented on [#785](https://github.com/os-js/OS.js/issues/785) in [os-js/OS.js](https://github.com/os-js/OS.js)
+2. 🗣 Commented on [#771](https://github.com/os-js/OS.js/issues/771) in [os-js/OS.js](https://github.com/os-js/OS.js)
+3. ❗️ Closed issue [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
+4. 🗣 Commented on [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
+5. 🗣 Commented on [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
