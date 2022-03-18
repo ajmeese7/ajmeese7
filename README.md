@@ -51,10 +51,10 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#785](https://github.com/os-js/OS.js/issues/785) in [os-js/OS.js](https://github.com/os-js/OS.js)
-2. 🗣 Commented on [#771](https://github.com/os-js/OS.js/issues/771) in [os-js/OS.js](https://github.com/os-js/OS.js)
-3. 🗣 Commented on [#785](https://github.com/os-js/OS.js/issues/785) in [os-js/OS.js](https://github.com/os-js/OS.js)
-4. 🗣 Commented on [#771](https://github.com/os-js/OS.js/issues/771) in [os-js/OS.js](https://github.com/os-js/OS.js)
-5. ❗️ Closed issue [#11](https://github.com/os-js/osjs-settings-application/issues/11) in [os-js/osjs-settings-application](https://github.com/os-js/osjs-settings-application)
+2. 🗣 Commented on [#785](https://github.com/os-js/OS.js/issues/785) in [os-js/OS.js](https://github.com/os-js/OS.js)
+3. 🗣 Commented on [#771](https://github.com/os-js/OS.js/issues/771) in [os-js/OS.js](https://github.com/os-js/OS.js)
+4. 🗣 Commented on [#785](https://github.com/os-js/OS.js/issues/785) in [os-js/OS.js](https://github.com/os-js/OS.js)
+5. 🗣 Commented on [#771](https://github.com/os-js/OS.js/issues/771) in [os-js/OS.js](https://github.com/os-js/OS.js)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
