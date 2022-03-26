@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/meese-enterprises/website/pull/1) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-2. ❗️ Closed issue [#1](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/1) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
-3. ❗️ Opened issue [#1](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/1) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
-4. 🎉 Merged PR [#62](https://github.com/ajmeese7/aaronmeese.com/pull/62) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. 🎉 Merged PR [#61](https://github.com/ajmeese7/aaronmeese.com/pull/61) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 🎉 Merged PR [#2](https://github.com/meese-enterprises/website/pull/2) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+2. 🎉 Merged PR [#1](https://github.com/meese-enterprises/website/pull/1) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+3. ❗️ Closed issue [#1](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/1) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
+4. ❗️ Opened issue [#1](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/1) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
+5. 🎉 Merged PR [#62](https://github.com/ajmeese7/aaronmeese.com/pull/62) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
