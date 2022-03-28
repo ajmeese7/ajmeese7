@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#798](https://github.com/os-js/OS.js/issues/798) in [os-js/OS.js](https://github.com/os-js/OS.js)
-2. 💪 Opened PR [#12](https://github.com/os-js/osjs-draw-application/pull/12) in [os-js/osjs-draw-application](https://github.com/os-js/osjs-draw-application)
-3. 🗣 Commented on [#230](https://github.com/bonfire-networks/bonfire-app/issues/230) in [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app)
-4. 💪 Opened PR [#16](https://github.com/os-js/osjs-dialogs/pull/16) in [os-js/osjs-dialogs](https://github.com/os-js/osjs-dialogs)
-5. 🎉 Merged PR [#4](https://github.com/ajmeese7/stocks-dashboard/pull/4) in [ajmeese7/stocks-dashboard](https://github.com/ajmeese7/stocks-dashboard)
+1. 🎉 Merged PR [#4](https://github.com/meese-enterprises/website/pull/4) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+2. 🎉 Merged PR [#13](https://github.com/ajmeese7/repbot/pull/13) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+3. 🎉 Merged PR [#10](https://github.com/ajmeese7/snapchat-share/pull/10) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+4. ❗️ Opened issue [#65](https://github.com/ajmeese7/aaronmeese.com/issues/65) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. ❗️ Opened issue [#64](https://github.com/ajmeese7/aaronmeese.com/issues/64) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
