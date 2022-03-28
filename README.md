@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/meese-enterprises/website/pull/6) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-2. 🎉 Merged PR [#5](https://github.com/meese-enterprises/website/pull/5) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-3. 💪 Opened PR [#5](https://github.com/stefanjudis/contentful-graphql-playground-app/pull/5) in [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app)
-4. 🎉 Merged PR [#4](https://github.com/meese-enterprises/website/pull/4) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-5. 🎉 Merged PR [#13](https://github.com/ajmeese7/repbot/pull/13) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+1. ❗️ Opened issue [#14](https://github.com/os-js/osjs-cli/issues/14) in [os-js/osjs-cli](https://github.com/os-js/osjs-cli)
+2. 🎉 Merged PR [#6](https://github.com/meese-enterprises/website/pull/6) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+3. 🎉 Merged PR [#5](https://github.com/meese-enterprises/website/pull/5) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+4. 💪 Opened PR [#5](https://github.com/stefanjudis/contentful-graphql-playground-app/pull/5) in [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app)
+5. 🎉 Merged PR [#4](https://github.com/meese-enterprises/website/pull/4) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
