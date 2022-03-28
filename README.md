@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/meese-enterprises/website/pull/4) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-2. 🎉 Merged PR [#13](https://github.com/ajmeese7/repbot/pull/13) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-3. 🎉 Merged PR [#10](https://github.com/ajmeese7/snapchat-share/pull/10) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-4. ❗️ Opened issue [#65](https://github.com/ajmeese7/aaronmeese.com/issues/65) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. ❗️ Opened issue [#64](https://github.com/ajmeese7/aaronmeese.com/issues/64) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 💪 Opened PR [#5](https://github.com/stefanjudis/contentful-graphql-playground-app/pull/5) in [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app)
+2. 🎉 Merged PR [#4](https://github.com/meese-enterprises/website/pull/4) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+3. 🎉 Merged PR [#13](https://github.com/ajmeese7/repbot/pull/13) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+4. 🎉 Merged PR [#10](https://github.com/ajmeese7/snapchat-share/pull/10) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+5. ❗️ Opened issue [#65](https://github.com/ajmeese7/aaronmeese.com/issues/65) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
