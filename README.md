@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ajmeese7/readme-ascii/pull/12) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
-2. 🎉 Merged PR [#11](https://github.com/ajmeese7/readme-ascii/pull/11) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
-3. 🗣 Commented on [#798](https://github.com/os-js/OS.js/issues/798) in [os-js/OS.js](https://github.com/os-js/OS.js)
-4. ❗️ Opened issue [#63](https://github.com/ajmeese7/aaronmeese.com/issues/63) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. ❗️ Opened issue [#2](https://github.com/meese-enterprises/.github/issues/2) in [meese-enterprises/.github](https://github.com/meese-enterprises/.github)
+1. 🎉 Merged PR [#4](https://github.com/ajmeese7/stocks-dashboard/pull/4) in [ajmeese7/stocks-dashboard](https://github.com/ajmeese7/stocks-dashboard)
+2. 🎉 Merged PR [#12](https://github.com/ajmeese7/readme-ascii/pull/12) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
+3. 🎉 Merged PR [#11](https://github.com/ajmeese7/readme-ascii/pull/11) in [ajmeese7/readme-ascii](https://github.com/ajmeese7/readme-ascii)
+4. 🗣 Commented on [#798](https://github.com/os-js/OS.js/issues/798) in [os-js/OS.js](https://github.com/os-js/OS.js)
+5. ❗️ Opened issue [#63](https://github.com/ajmeese7/aaronmeese.com/issues/63) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
