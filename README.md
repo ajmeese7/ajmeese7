@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/os-js/osjs-client/issues/174) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-2. ❗️ Opened issue [#174](https://github.com/os-js/osjs-client/issues/174) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 🎉 Merged PR [#7](https://github.com/ajmeese7/where-temperature/pull/7) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+2. 🎉 Merged PR [#4](https://github.com/ajmeese7/smoke-pit-playlist/pull/4) in [ajmeese7/smoke-pit-playlist](https://github.com/ajmeese7/smoke-pit-playlist)
 3. 🗣 Commented on [#14](https://github.com/os-js/osjs-cli/issues/14) in [os-js/osjs-cli](https://github.com/os-js/osjs-cli)
-4. ❗️ Opened issue [#14](https://github.com/os-js/osjs-cli/issues/14) in [os-js/osjs-cli](https://github.com/os-js/osjs-cli)
-5. 🎉 Merged PR [#6](https://github.com/meese-enterprises/website/pull/6) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+4. 🗣 Commented on [#174](https://github.com/os-js/osjs-client/issues/174) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+5. ❗️ Opened issue [#174](https://github.com/os-js/osjs-client/issues/174) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
