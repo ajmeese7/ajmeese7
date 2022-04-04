@@ -51,9 +51,9 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5087](https://github.com/openemr/openemr/issues/5087) in [openemr/openemr](https://github.com/openemr/openemr)
-2. ❗️ Opened issue [#5087](https://github.com/openemr/openemr/issues/5087) in [openemr/openemr](https://github.com/openemr/openemr)
-3. ❗️ Closed issue [#5084](https://github.com/openemr/openemr/issues/5084) in [openemr/openemr](https://github.com/openemr/openemr)
-4. 🗣 Commented on [#5084](https://github.com/openemr/openemr/issues/5084) in [openemr/openemr](https://github.com/openemr/openemr)
+2. 🗣 Commented on [#5087](https://github.com/openemr/openemr/issues/5087) in [openemr/openemr](https://github.com/openemr/openemr)
+3. ❗️ Opened issue [#5087](https://github.com/openemr/openemr/issues/5087) in [openemr/openemr](https://github.com/openemr/openemr)
+4. ❗️ Closed issue [#5084](https://github.com/openemr/openemr/issues/5084) in [openemr/openemr](https://github.com/openemr/openemr)
 5. 🗣 Commented on [#5084](https://github.com/openemr/openemr/issues/5084) in [openemr/openemr](https://github.com/openemr/openemr)
 <!--END_SECTION:activity-->
 
