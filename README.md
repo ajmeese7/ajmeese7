@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#75](https://github.com/ttskch/select2-bootstrap4-theme/issues/75) in [ttskch/select2-bootstrap4-theme](https://github.com/ttskch/select2-bootstrap4-theme)
-2. 🗣 Commented on [#5087](https://github.com/openemr/openemr/issues/5087) in [openemr/openemr](https://github.com/openemr/openemr)
+1. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
+2. ❗️ Opened issue [#75](https://github.com/ttskch/select2-bootstrap4-theme/issues/75) in [ttskch/select2-bootstrap4-theme](https://github.com/ttskch/select2-bootstrap4-theme)
 3. 🗣 Commented on [#5087](https://github.com/openemr/openemr/issues/5087) in [openemr/openemr](https://github.com/openemr/openemr)
-4. 🗣 Commented on [#64](https://github.com/ajmeese7/spambot/issues/64) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#5087](https://github.com/openemr/openemr/issues/5087) in [openemr/openemr](https://github.com/openemr/openemr)
+4. 🗣 Commented on [#5087](https://github.com/openemr/openemr/issues/5087) in [openemr/openemr](https://github.com/openemr/openemr)
+5. 🗣 Commented on [#64](https://github.com/ajmeese7/spambot/issues/64) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
