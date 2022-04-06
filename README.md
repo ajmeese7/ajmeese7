@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ajmeese7/where-temperature/pull/8) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
-2. 🎉 Merged PR [#15](https://github.com/ajmeese7/coupon-booked/pull/15) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
-3. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
+1. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
+2. 🎉 Merged PR [#8](https://github.com/ajmeese7/where-temperature/pull/8) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+3. 🎉 Merged PR [#15](https://github.com/ajmeese7/coupon-booked/pull/15) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
 4. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
-5. ❗️ Opened issue [#75](https://github.com/ttskch/select2-bootstrap4-theme/issues/75) in [ttskch/select2-bootstrap4-theme](https://github.com/ttskch/select2-bootstrap4-theme)
+5. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
