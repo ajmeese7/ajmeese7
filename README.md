@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
-2. 🎉 Merged PR [#8](https://github.com/ajmeese7/where-temperature/pull/8) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
-3. 🎉 Merged PR [#15](https://github.com/ajmeese7/coupon-booked/pull/15) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
+1. 💪 Opened PR [#5101](https://github.com/openemr/openemr/pull/5101) in [openemr/openemr](https://github.com/openemr/openemr)
+2. ❌ Closed PR [#5091](https://github.com/openemr/openemr/pull/5091) in [openemr/openemr](https://github.com/openemr/openemr)
+3. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
 4. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
-5. 🗣 Commented on [#5091](https://github.com/openemr/openemr/issues/5091) in [openemr/openemr](https://github.com/openemr/openemr)
+5. 🎉 Merged PR [#8](https://github.com/ajmeese7/where-temperature/pull/8) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
