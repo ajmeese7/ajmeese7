@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/ajmeese7/aaronmeese.com/pull/67) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. ❗️ Opened issue [#2](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/2) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
-3. 🎉 Merged PR [#66](https://github.com/ajmeese7/aaronmeese.com/pull/66) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 🎉 Merged PR [#6](https://github.com/ajmeese7/dynamic-page-retrieval/pull/6) in [ajmeese7/dynamic-page-retrieval](https://github.com/ajmeese7/dynamic-page-retrieval)
-5. 🎉 Merged PR [#10](https://github.com/meese-enterprises/website/pull/10) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+1. 🗣 Commented on [#798](https://github.com/os-js/OS.js/issues/798) in [os-js/OS.js](https://github.com/os-js/OS.js)
+2. 🎉 Merged PR [#67](https://github.com/ajmeese7/aaronmeese.com/pull/67) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. ❗️ Opened issue [#2](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/2) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
+4. 🎉 Merged PR [#66](https://github.com/ajmeese7/aaronmeese.com/pull/66) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🎉 Merged PR [#6](https://github.com/ajmeese7/dynamic-page-retrieval/pull/6) in [ajmeese7/dynamic-page-retrieval](https://github.com/ajmeese7/dynamic-page-retrieval)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
