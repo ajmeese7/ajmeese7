@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#147418](https://github.com/microsoft/vscode/issues/147418) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#798](https://github.com/os-js/OS.js/issues/798) in [os-js/OS.js](https://github.com/os-js/OS.js)
-3. 🎉 Merged PR [#67](https://github.com/ajmeese7/aaronmeese.com/pull/67) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. ❗️ Opened issue [#2](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/2) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
-5. 🎉 Merged PR [#66](https://github.com/ajmeese7/aaronmeese.com/pull/66) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 🎉 Merged PR [#68](https://github.com/ajmeese7/aaronmeese.com/pull/68) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. 💪 Opened PR [#68](https://github.com/ajmeese7/aaronmeese.com/pull/68) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. ❗️ Opened issue [#147418](https://github.com/microsoft/vscode/issues/147418) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#798](https://github.com/os-js/OS.js/issues/798) in [os-js/OS.js](https://github.com/os-js/OS.js)
+5. 🎉 Merged PR [#67](https://github.com/ajmeese7/aaronmeese.com/pull/67) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
