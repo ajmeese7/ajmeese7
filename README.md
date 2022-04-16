@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#799](https://github.com/os-js/OS.js/issues/799) in [os-js/OS.js](https://github.com/os-js/OS.js)
+1. 🗣 Commented on [#63](https://github.com/spicetify/spicetify-cli/issues/63) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
 2. 🗣 Commented on [#799](https://github.com/os-js/OS.js/issues/799) in [os-js/OS.js](https://github.com/os-js/OS.js)
-3. 🎉 Merged PR [#68](https://github.com/ajmeese7/aaronmeese.com/pull/68) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 💪 Opened PR [#68](https://github.com/ajmeese7/aaronmeese.com/pull/68) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. ❗️ Opened issue [#147418](https://github.com/microsoft/vscode/issues/147418) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#799](https://github.com/os-js/OS.js/issues/799) in [os-js/OS.js](https://github.com/os-js/OS.js)
+4. 🎉 Merged PR [#68](https://github.com/ajmeese7/aaronmeese.com/pull/68) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 💪 Opened PR [#68](https://github.com/ajmeese7/aaronmeese.com/pull/68) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
