@@ -50,11 +50,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1577](https://github.com/spicetify/spicetify-cli/issues/1577) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
+1. 🎉 Merged PR [#70](https://github.com/ajmeese7/aaronmeese.com/pull/70) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 2. 🗣 Commented on [#1577](https://github.com/spicetify/spicetify-cli/issues/1577) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
 3. 🗣 Commented on [#1577](https://github.com/spicetify/spicetify-cli/issues/1577) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
-4. 🎉 Merged PR [#69](https://github.com/ajmeese7/aaronmeese.com/pull/69) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. 🗣 Commented on [#63](https://github.com/spicetify/spicetify-cli/issues/63) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
+4. 🗣 Commented on [#1577](https://github.com/spicetify/spicetify-cli/issues/1577) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
+5. 🎉 Merged PR [#69](https://github.com/ajmeese7/aaronmeese.com/pull/69) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
