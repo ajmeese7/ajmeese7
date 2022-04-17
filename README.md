@@ -50,10 +50,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#72](https://github.com/ajmeese7/aaronmeese.com/pull/72) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. ❌ Closed PR [#71](https://github.com/ajmeese7/aaronmeese.com/pull/71) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. 🎉 Merged PR [#70](https://github.com/ajmeese7/aaronmeese.com/pull/70) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 🗣 Commented on [#1577](https://github.com/spicetify/spicetify-cli/issues/1577) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
+1. 🎉 Merged PR [#73](https://github.com/ajmeese7/aaronmeese.com/pull/73) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. ❌ Closed PR [#72](https://github.com/ajmeese7/aaronmeese.com/pull/72) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. ❌ Closed PR [#71](https://github.com/ajmeese7/aaronmeese.com/pull/71) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+4. 🎉 Merged PR [#70](https://github.com/ajmeese7/aaronmeese.com/pull/70) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 5. 🗣 Commented on [#1577](https://github.com/spicetify/spicetify-cli/issues/1577) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
 <!--END_SECTION:activity-->
 
