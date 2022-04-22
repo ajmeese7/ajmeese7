@@ -49,11 +49,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1861](https://github.com/dylanaraps/neofetch/issues/1861) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-2. 🗣 Commented on [#2092](https://github.com/dylanaraps/neofetch/issues/2092) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-3. 🗣 Commented on [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-4. ❗️ Opened issue [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-5. 🗣 Commented on [#1577](https://github.com/spicetify/spicetify-cli/issues/1577) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
+1. 🗣 Commented on [#23](https://github.com/novatorem/novatorem/issues/23) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+2. 🗣 Commented on [#22](https://github.com/novatorem/novatorem/issues/22) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+3. 🗣 Commented on [#1861](https://github.com/dylanaraps/neofetch/issues/1861) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
+4. 🗣 Commented on [#2092](https://github.com/dylanaraps/neofetch/issues/2092) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
+5. 🗣 Commented on [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
