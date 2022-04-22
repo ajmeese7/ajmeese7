@@ -36,7 +36,6 @@
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
 ### GitHub Stats ###
-*NOTE: Top languages does not indicate skill level, it's a GitHub metric of which languages I have the most code in on GitHub*
 
 <a href="https://profile-summary-for-github.com/user/ajmeese7">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ajmeese7&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Aaron's GitHub stats"/>
