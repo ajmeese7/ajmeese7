@@ -38,7 +38,7 @@
 ### GitHub Stats ###
 
 <a href="https://profile-summary-for-github.com/user/ajmeese7">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ajmeese7&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Aaron's GitHub stats"/>
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ajmeese7&show_icons=true&line_height=27&count_private=true" alt="Aaron's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmeese7&hide_langs_below=5&layout=compact" alt="Aaron's language stats"/>
 </a>
 
