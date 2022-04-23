@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#75](https://github.com/ajmeese7/aaronmeese.com/pull/75) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. 🗣 Commented on [#75](https://github.com/ajmeese7/aaronmeese.com/issues/75) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. ❌ Closed PR [#74](https://github.com/ajmeese7/aaronmeese.com/pull/74) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 🗣 Commented on [#74](https://github.com/ajmeese7/aaronmeese.com/issues/74) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. 🗣 Commented on [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+1. ❗️ Closed issue [#64](https://github.com/ajmeese7/spambot/issues/64) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#64](https://github.com/ajmeese7/spambot/issues/64) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. ❌ Closed PR [#75](https://github.com/ajmeese7/aaronmeese.com/pull/75) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+4. 🗣 Commented on [#75](https://github.com/ajmeese7/aaronmeese.com/issues/75) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. ❌ Closed PR [#74](https://github.com/ajmeese7/aaronmeese.com/pull/74) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
