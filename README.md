@@ -1,4 +1,3 @@
-### Hi there 👋🏻
 [![Aaron Meese!](https://user-images.githubusercontent.com/17814535/88975338-a2aabf00-d27f-11ea-963f-8a19608716b4.png)](https://github.com/ajmeese7/readme-ascii "README ASCII")
 
 <!-- Modified from project here: https://github.com/novatorem/novatorem -->
