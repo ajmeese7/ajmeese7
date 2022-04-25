@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ajmeese7/coupon-booked/pull/13) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
-2. 🎉 Merged PR [#11](https://github.com/meese-enterprises/website/pull/11) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-3. ❌ Closed PR [#13](https://github.com/meese-enterprises/website/pull/13) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-4. 🗣 Commented on [#13](https://github.com/meese-enterprises/website/issues/13) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-5. ❌ Closed PR [#12](https://github.com/meese-enterprises/website/pull/12) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+1. 💪 Opened PR [#22](https://github.com/duckduckgo/duckduckgo-utils/pull/22) in [duckduckgo/duckduckgo-utils](https://github.com/duckduckgo/duckduckgo-utils)
+2. 🎉 Merged PR [#13](https://github.com/ajmeese7/coupon-booked/pull/13) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
+3. 🎉 Merged PR [#11](https://github.com/meese-enterprises/website/pull/11) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+4. ❌ Closed PR [#13](https://github.com/meese-enterprises/website/pull/13) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+5. 🗣 Commented on [#13](https://github.com/meese-enterprises/website/issues/13) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
