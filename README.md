@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nsgodshall/Hatch/issues/3) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
-2. 🗣 Commented on [#4](https://github.com/nsgodshall/Hatch/issues/4) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
-3. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. ❗️ Opened issue [#10](https://github.com/aress31/xmlrpc-bruteforcer/issues/10) in [aress31/xmlrpc-bruteforcer](https://github.com/aress31/xmlrpc-bruteforcer)
+2. 🗣 Commented on [#3](https://github.com/nsgodshall/Hatch/issues/3) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
+3. 🗣 Commented on [#4](https://github.com/nsgodshall/Hatch/issues/4) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
 4. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🎉 Merged PR [#16](https://github.com/ajmeese7/coupon-booked/pull/16) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
+5. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
