@@ -48,10 +48,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/aress31/xmlrpc-bruteforcer/issues/10) in [aress31/xmlrpc-bruteforcer](https://github.com/aress31/xmlrpc-bruteforcer)
-2. 🗣 Commented on [#3](https://github.com/nsgodshall/Hatch/issues/3) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
-3. 🗣 Commented on [#4](https://github.com/nsgodshall/Hatch/issues/4) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
-4. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 💪 Opened PR [#1](https://github.com/oxylabs/web-scraping-php/pull/1) in [oxylabs/web-scraping-php](https://github.com/oxylabs/web-scraping-php)
+2. ❗️ Opened issue [#10](https://github.com/aress31/xmlrpc-bruteforcer/issues/10) in [aress31/xmlrpc-bruteforcer](https://github.com/aress31/xmlrpc-bruteforcer)
+3. 🗣 Commented on [#3](https://github.com/nsgodshall/Hatch/issues/3) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
+4. 🗣 Commented on [#4](https://github.com/nsgodshall/Hatch/issues/4) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
 5. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
