@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#65](https://github.com/ajmeese7/aaronmeese.com/issues/65) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. 🎉 Merged PR [#86](https://github.com/dwyl/phoenix-chat-example/pull/86) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-3. 💪 Opened PR [#1](https://github.com/oxylabs/web-scraping-php/pull/1) in [oxylabs/web-scraping-php](https://github.com/oxylabs/web-scraping-php)
-4. ❗️ Opened issue [#10](https://github.com/aress31/xmlrpc-bruteforcer/issues/10) in [aress31/xmlrpc-bruteforcer](https://github.com/aress31/xmlrpc-bruteforcer)
-5. 🗣 Commented on [#3](https://github.com/nsgodshall/Hatch/issues/3) in [nsgodshall/Hatch](https://github.com/nsgodshall/Hatch)
+1. 🎉 Merged PR [#78](https://github.com/ajmeese7/aaronmeese.com/pull/78) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. 🗣 Commented on [#78](https://github.com/ajmeese7/aaronmeese.com/issues/78) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. ❌ Closed PR [#77](https://github.com/ajmeese7/aaronmeese.com/pull/77) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+4. 🗣 Commented on [#77](https://github.com/ajmeese7/aaronmeese.com/issues/77) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🗣 Commented on [#76](https://github.com/ajmeese7/aaronmeese.com/issues/76) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
