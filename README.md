@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/ajmeese7/spambot/issues/66) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#67](https://github.com/ajmeese7/spambot/issues/67) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 💪 Opened PR [#2471](https://github.com/education/GitHubGraduation-2022/pull/2471) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-4. 🗣 Commented on [#66](https://github.com/ajmeese7/spambot/issues/66) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#211](https://github.com/ghantoos/lshell/issues/211) in [ghantoos/lshell](https://github.com/ghantoos/lshell)
+1. 🗣 Commented on [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+2. 🗣 Commented on [#66](https://github.com/ajmeese7/spambot/issues/66) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🗣 Commented on [#67](https://github.com/ajmeese7/spambot/issues/67) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. 💪 Opened PR [#2471](https://github.com/education/GitHubGraduation-2022/pull/2471) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+5. 🗣 Commented on [#66](https://github.com/ajmeese7/spambot/issues/66) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
