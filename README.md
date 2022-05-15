@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-2. 🗣 Commented on [#66](https://github.com/ajmeese7/spambot/issues/66) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#67](https://github.com/ajmeese7/spambot/issues/67) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 💪 Opened PR [#2471](https://github.com/education/GitHubGraduation-2022/pull/2471) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-5. 🗣 Commented on [#66](https://github.com/ajmeese7/spambot/issues/66) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. ❗️ Closed issue [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. 🗣 Commented on [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. 🎉 Merged PR [#5](https://github.com/ajmeese7/where-temperature/pull/5) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+4. 🎉 Merged PR [#6](https://github.com/ajmeese7/where-temperature/pull/6) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+5. 🎉 Merged PR [#23](https://github.com/ajmeese7/coupon-booked/pull/23) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
