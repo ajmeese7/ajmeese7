@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. 🗣 Commented on [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. 🎉 Merged PR [#5](https://github.com/ajmeese7/where-temperature/pull/5) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
-4. 🎉 Merged PR [#6](https://github.com/ajmeese7/where-temperature/pull/6) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
-5. 🎉 Merged PR [#23](https://github.com/ajmeese7/coupon-booked/pull/23) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
+1. 🎉 Merged PR [#80](https://github.com/ajmeese7/aaronmeese.com/pull/80) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. ❌ Closed PR [#79](https://github.com/ajmeese7/aaronmeese.com/pull/79) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. ❗️ Closed issue [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. 🗣 Commented on [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. 🎉 Merged PR [#5](https://github.com/ajmeese7/where-temperature/pull/5) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
