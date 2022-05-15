@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#142](https://github.com/sass/embedded-host-node/issues/142) in [sass/embedded-host-node](https://github.com/sass/embedded-host-node)
-2. 🎉 Merged PR [#80](https://github.com/ajmeese7/aaronmeese.com/pull/80) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. ❌ Closed PR [#79](https://github.com/ajmeese7/aaronmeese.com/pull/79) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. ❗️ Closed issue [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. 🗣 Commented on [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❌ Closed PR [#81](https://github.com/ajmeese7/aaronmeese.com/pull/81) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. ❗️ Opened issue [#142](https://github.com/sass/embedded-host-node/issues/142) in [sass/embedded-host-node](https://github.com/sass/embedded-host-node)
+3. 🎉 Merged PR [#80](https://github.com/ajmeese7/aaronmeese.com/pull/80) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+4. ❌ Closed PR [#79](https://github.com/ajmeese7/aaronmeese.com/pull/79) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. ❗️ Closed issue [#1857](https://github.com/timburgan/timburgan/issues/1857) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
