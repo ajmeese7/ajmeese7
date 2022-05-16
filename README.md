@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#82](https://github.com/ajmeese7/aaronmeese.com/pull/82) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. 🗣 Commented on [#82](https://github.com/ajmeese7/aaronmeese.com/issues/82) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. ❌ Closed PR [#81](https://github.com/ajmeese7/aaronmeese.com/pull/81) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. ❗️ Opened issue [#142](https://github.com/sass/embedded-host-node/issues/142) in [sass/embedded-host-node](https://github.com/sass/embedded-host-node)
-5. 🎉 Merged PR [#80](https://github.com/ajmeese7/aaronmeese.com/pull/80) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. ❗️ Closed issue [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+2. 🗣 Commented on [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+3. 🗣 Commented on [#2118](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2118) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+4. ❌ Closed PR [#82](https://github.com/ajmeese7/aaronmeese.com/pull/82) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🗣 Commented on [#82](https://github.com/ajmeese7/aaronmeese.com/issues/82) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
