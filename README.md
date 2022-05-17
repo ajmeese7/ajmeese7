@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2281](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2281) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-2. 🎉 Merged PR [#84](https://github.com/ajmeese7/aaronmeese.com/pull/84) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. 🎉 Merged PR [#83](https://github.com/ajmeese7/aaronmeese.com/pull/83) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 🎉 Merged PR [#68](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/68) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-5. 🎉 Merged PR [#89](https://github.com/dwyl/phoenix-chat-example/pull/89) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+1. 🎉 Merged PR [#85](https://github.com/ajmeese7/aaronmeese.com/pull/85) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. 💪 Opened PR [#85](https://github.com/ajmeese7/aaronmeese.com/pull/85) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. ❗️ Opened issue [#2281](https://github.com/JanDeDobbeleer/oh-my-posh/issues/2281) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+4. 🎉 Merged PR [#84](https://github.com/ajmeese7/aaronmeese.com/pull/84) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🎉 Merged PR [#83](https://github.com/ajmeese7/aaronmeese.com/pull/83) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
