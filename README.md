@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/dwyl/phoenix-chat-example/pull/91) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-2. ❌ Closed PR [#86](https://github.com/ajmeese7/aaronmeese.com/pull/86) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. 🗣 Commented on [#86](https://github.com/ajmeese7/aaronmeese.com/issues/86) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 🎉 Merged PR [#85](https://github.com/ajmeese7/aaronmeese.com/pull/85) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. 💪 Opened PR [#85](https://github.com/ajmeese7/aaronmeese.com/pull/85) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 🗣 Commented on [#87](https://github.com/ajmeese7/aaronmeese.com/issues/87) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. ❌ Closed PR [#87](https://github.com/ajmeese7/aaronmeese.com/pull/87) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. 🎉 Merged PR [#91](https://github.com/dwyl/phoenix-chat-example/pull/91) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+4. ❌ Closed PR [#86](https://github.com/ajmeese7/aaronmeese.com/pull/86) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🗣 Commented on [#86](https://github.com/ajmeese7/aaronmeese.com/issues/86) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
