@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/ajmeese7/aaronmeese.com/pull/88) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. 🗣 Commented on [#87](https://github.com/ajmeese7/aaronmeese.com/issues/87) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. ❌ Closed PR [#87](https://github.com/ajmeese7/aaronmeese.com/pull/87) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 🎉 Merged PR [#91](https://github.com/dwyl/phoenix-chat-example/pull/91) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-5. ❌ Closed PR [#86](https://github.com/ajmeese7/aaronmeese.com/pull/86) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 🎉 Merged PR [#89](https://github.com/ajmeese7/aaronmeese.com/pull/89) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. ❗️ Closed issue [#15](https://github.com/ajmeese7/aaronmeese.com/issues/15) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. 🗣 Commented on [#15](https://github.com/ajmeese7/aaronmeese.com/issues/15) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+4. 🎉 Merged PR [#88](https://github.com/ajmeese7/aaronmeese.com/pull/88) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🗣 Commented on [#87](https://github.com/ajmeese7/aaronmeese.com/issues/87) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
