@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/ajmeese7/aaronmeese.com/pull/90) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. 🗣 Commented on [#90](https://github.com/ajmeese7/aaronmeese.com/issues/90) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-3. 🎉 Merged PR [#89](https://github.com/ajmeese7/aaronmeese.com/pull/89) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. ❗️ Closed issue [#15](https://github.com/ajmeese7/aaronmeese.com/issues/15) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. 🗣 Commented on [#15](https://github.com/ajmeese7/aaronmeese.com/issues/15) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+1. 🎉 Merged PR [#7](https://github.com/ajmeese7/finance-dashboard/pull/7) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
+2. 🗣 Commented on [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🎉 Merged PR [#9](https://github.com/ajmeese7/where-temperature/pull/9) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+4. 🎉 Merged PR [#90](https://github.com/ajmeese7/aaronmeese.com/pull/90) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🗣 Commented on [#90](https://github.com/ajmeese7/aaronmeese.com/issues/90) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
