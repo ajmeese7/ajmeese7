@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#67](https://github.com/ajmeese7/spambot/issues/67) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#67](https://github.com/ajmeese7/spambot/issues/67) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🎉 Merged PR [#7](https://github.com/ajmeese7/finance-dashboard/pull/7) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
+1. ❗️ Closed issue [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. ❗️ Closed issue [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 4. 🗣 Commented on [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🎉 Merged PR [#9](https://github.com/ajmeese7/where-temperature/pull/9) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+5. ❗️ Closed issue [#67](https://github.com/ajmeese7/spambot/issues/67) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
