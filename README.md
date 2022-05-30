@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-2. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. ❗️ Closed issue [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. 🗣 Commented on [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. ❗️ Closed issue [#67](https://github.com/ajmeese7/spambot/issues/67) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 💪 Opened PR [#5665](https://github.com/refined-github/refined-github/pull/5665) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. ❗️ Closed issue [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+4. ❗️ Closed issue [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 🗣 Commented on [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
