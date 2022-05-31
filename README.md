@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5665](https://github.com/refined-github/refined-github/pull/5665) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. ❗️ Closed issue [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-4. ❗️ Closed issue [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#68](https://github.com/ajmeese7/spambot/issues/68) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. ❗️ Closed issue [#52](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/52) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+2. 🎉 Merged PR [#70](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/70) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+3. 💪 Opened PR [#5665](https://github.com/refined-github/refined-github/pull/5665) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+4. ❗️ Closed issue [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+5. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
