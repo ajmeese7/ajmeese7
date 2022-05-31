@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#52](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/52) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-2. 🎉 Merged PR [#70](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/70) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-3. 💪 Opened PR [#5665](https://github.com/refined-github/refined-github/pull/5665) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-4. ❗️ Closed issue [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-5. 🗣 Commented on [#65](https://github.com/ajmeese7/spambot/issues/65) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. ❗️ Opened issue [#294](https://github.com/1j01/jspaint/issues/294) in [1j01/jspaint](https://github.com/1j01/jspaint)
+2. 🗣 Commented on [#283](https://github.com/1j01/jspaint/issues/283) in [1j01/jspaint](https://github.com/1j01/jspaint)
+3. ❗️ Closed issue [#52](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/52) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+4. 🎉 Merged PR [#70](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/70) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+5. 💪 Opened PR [#5665](https://github.com/refined-github/refined-github/pull/5665) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
