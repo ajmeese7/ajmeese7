@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#294](https://github.com/1j01/jspaint/issues/294) in [1j01/jspaint](https://github.com/1j01/jspaint)
-2. 🗣 Commented on [#283](https://github.com/1j01/jspaint/issues/283) in [1j01/jspaint](https://github.com/1j01/jspaint)
-3. ❗️ Closed issue [#52](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/52) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-4. 🎉 Merged PR [#70](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/70) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
-5. 💪 Opened PR [#5665](https://github.com/refined-github/refined-github/pull/5665) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. 🗣 Commented on [#142](https://github.com/sass/embedded-host-node/issues/142) in [sass/embedded-host-node](https://github.com/sass/embedded-host-node)
+2. ❗️ Opened issue [#294](https://github.com/1j01/jspaint/issues/294) in [1j01/jspaint](https://github.com/1j01/jspaint)
+3. 🗣 Commented on [#283](https://github.com/1j01/jspaint/issues/283) in [1j01/jspaint](https://github.com/1j01/jspaint)
+4. ❗️ Closed issue [#52](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/52) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+5. 🎉 Merged PR [#70](https://github.com/dwyl/phoenix-liveview-counter-tutorial/pull/70) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
