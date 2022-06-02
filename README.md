@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#91](https://github.com/ajmeese7/aaronmeese.com/pull/91) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. ❗️ Opened issue [#1](https://github.com/meese-enterprises/uptime-monitor/issues/1) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-3. 🗣 Commented on [#65](https://github.com/ajmeese7/aaronmeese.com/issues/65) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 🗣 Commented on [#142](https://github.com/sass/embedded-host-node/issues/142) in [sass/embedded-host-node](https://github.com/sass/embedded-host-node)
-5. ❗️ Opened issue [#294](https://github.com/1j01/jspaint/issues/294) in [1j01/jspaint](https://github.com/1j01/jspaint)
+1. ❗️ Opened issue [#221](https://github.com/caiiiycuk/js-dos/issues/221) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+2. ❌ Closed PR [#91](https://github.com/ajmeese7/aaronmeese.com/pull/91) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. ❗️ Opened issue [#1](https://github.com/meese-enterprises/uptime-monitor/issues/1) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+4. 🗣 Commented on [#65](https://github.com/ajmeese7/aaronmeese.com/issues/65) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🗣 Commented on [#142](https://github.com/sass/embedded-host-node/issues/142) in [sass/embedded-host-node](https://github.com/sass/embedded-host-node)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
