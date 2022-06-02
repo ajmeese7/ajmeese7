@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/ajmeese7/aaronmeese.com/issues/65) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. 🗣 Commented on [#142](https://github.com/sass/embedded-host-node/issues/142) in [sass/embedded-host-node](https://github.com/sass/embedded-host-node)
-3. ❗️ Opened issue [#294](https://github.com/1j01/jspaint/issues/294) in [1j01/jspaint](https://github.com/1j01/jspaint)
-4. 🗣 Commented on [#283](https://github.com/1j01/jspaint/issues/283) in [1j01/jspaint](https://github.com/1j01/jspaint)
-5. ❗️ Closed issue [#52](https://github.com/dwyl/phoenix-liveview-counter-tutorial/issues/52) in [dwyl/phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
+1. ❗️ Opened issue [#1](https://github.com/meese-enterprises/uptime-monitor/issues/1) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+2. 🗣 Commented on [#65](https://github.com/ajmeese7/aaronmeese.com/issues/65) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. 🗣 Commented on [#142](https://github.com/sass/embedded-host-node/issues/142) in [sass/embedded-host-node](https://github.com/sass/embedded-host-node)
+4. ❗️ Opened issue [#294](https://github.com/1j01/jspaint/issues/294) in [1j01/jspaint](https://github.com/1j01/jspaint)
+5. 🗣 Commented on [#283](https://github.com/1j01/jspaint/issues/283) in [1j01/jspaint](https://github.com/1j01/jspaint)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
