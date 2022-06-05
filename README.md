@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
-2. ❗️ Opened issue [#1](https://github.com/NiklasKnaack/jquery-wobblewindow-plugin/issues/1) in [NiklasKnaack/jquery-wobblewindow-plugin](https://github.com/NiklasKnaack/jquery-wobblewindow-plugin)
-3. 🎉 Merged PR [#68](https://github.com/ajmeese7/karameese.com/pull/68) in [ajmeese7/karameese.com](https://github.com/ajmeese7/karameese.com)
-4. 💪 Opened PR [#26](https://github.com/heasm66/mdlzork/pull/26) in [heasm66/mdlzork](https://github.com/heasm66/mdlzork)
-5. ❗️ Opened issue [#221](https://github.com/caiiiycuk/js-dos/issues/221) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+1. 🎉 Merged PR [#19](https://github.com/ajmeese7/coupon-booked/pull/19) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
+2. ❗️ Opened issue [#10](https://github.com/ajmeese7/finance-dashboard/issues/10) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
+3. ❗️ Opened issue [#9](https://github.com/ajmeese7/finance-dashboard/issues/9) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
+4. ❗️ Opened issue [#8](https://github.com/ajmeese7/finance-dashboard/issues/8) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
+5. ❗️ Opened issue [#11](https://github.com/ajmeese7/where-temperature/issues/11) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
