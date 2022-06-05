@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/ajmeese7/karameese.com/pull/68) in [ajmeese7/karameese.com](https://github.com/ajmeese7/karameese.com)
-2. 💪 Opened PR [#26](https://github.com/heasm66/mdlzork/pull/26) in [heasm66/mdlzork](https://github.com/heasm66/mdlzork)
-3. ❗️ Opened issue [#221](https://github.com/caiiiycuk/js-dos/issues/221) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
-4. ❌ Closed PR [#91](https://github.com/ajmeese7/aaronmeese.com/pull/91) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-5. ❗️ Opened issue [#1](https://github.com/meese-enterprises/uptime-monitor/issues/1) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+1. ❗️ Opened issue [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
+2. ❗️ Opened issue [#1](https://github.com/NiklasKnaack/jquery-wobblewindow-plugin/issues/1) in [NiklasKnaack/jquery-wobblewindow-plugin](https://github.com/NiklasKnaack/jquery-wobblewindow-plugin)
+3. 🎉 Merged PR [#68](https://github.com/ajmeese7/karameese.com/pull/68) in [ajmeese7/karameese.com](https://github.com/ajmeese7/karameese.com)
+4. 💪 Opened PR [#26](https://github.com/heasm66/mdlzork/pull/26) in [heasm66/mdlzork](https://github.com/heasm66/mdlzork)
+5. ❗️ Opened issue [#221](https://github.com/caiiiycuk/js-dos/issues/221) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
