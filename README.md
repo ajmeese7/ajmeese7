@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/ajmeese7/coupon-booked/pull/19) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
-2. ❗️ Opened issue [#10](https://github.com/ajmeese7/finance-dashboard/issues/10) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
-3. ❗️ Opened issue [#9](https://github.com/ajmeese7/finance-dashboard/issues/9) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
-4. ❗️ Opened issue [#8](https://github.com/ajmeese7/finance-dashboard/issues/8) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
-5. ❗️ Opened issue [#11](https://github.com/ajmeese7/where-temperature/issues/11) in [ajmeese7/where-temperature](https://github.com/ajmeese7/where-temperature)
+1. 🎉 Merged PR [#92](https://github.com/ajmeese7/aaronmeese.com/pull/92) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. ❗️ Closed issue [#6](https://github.com/ajmeese7/aaronmeese.com/issues/6) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+3. 💪 Opened PR [#1](https://github.com/RossComputerGuy/OS.js-hardware-serviceprovider/pull/1) in [RossComputerGuy/OS.js-hardware-serviceprovider](https://github.com/RossComputerGuy/OS.js-hardware-serviceprovider)
+4. 🎉 Merged PR [#19](https://github.com/ajmeese7/coupon-booked/pull/19) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
+5. ❗️ Opened issue [#10](https://github.com/ajmeese7/finance-dashboard/issues/10) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
