@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#140](https://github.com/neurobin/shc/issues/140) in [neurobin/shc](https://github.com/neurobin/shc)
-2. 🗣 Commented on [#140](https://github.com/neurobin/shc/issues/140) in [neurobin/shc](https://github.com/neurobin/shc)
-3. ❗️ Opened issue [#140](https://github.com/neurobin/shc/issues/140) in [neurobin/shc](https://github.com/neurobin/shc)
-4. 🗣 Commented on [#108](https://github.com/neurobin/shc/issues/108) in [neurobin/shc](https://github.com/neurobin/shc)
-5. 🗣 Commented on [#72](https://github.com/enriikke/gatsby-gh-pages-action/issues/72) in [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action)
+1. ❗️ Opened issue [#6](https://github.com/dendronhq/template.publish.github-action/issues/6) in [dendronhq/template.publish.github-action](https://github.com/dendronhq/template.publish.github-action)
+2. ❗️ Closed issue [#140](https://github.com/neurobin/shc/issues/140) in [neurobin/shc](https://github.com/neurobin/shc)
+3. 🗣 Commented on [#140](https://github.com/neurobin/shc/issues/140) in [neurobin/shc](https://github.com/neurobin/shc)
+4. ❗️ Opened issue [#140](https://github.com/neurobin/shc/issues/140) in [neurobin/shc](https://github.com/neurobin/shc)
+5. 🗣 Commented on [#108](https://github.com/neurobin/shc/issues/108) in [neurobin/shc](https://github.com/neurobin/shc)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
