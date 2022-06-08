@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/enriikke/gatsby-gh-pages-action/issues/72) in [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action)
-2. ❗️ Closed issue [#72](https://github.com/enriikke/gatsby-gh-pages-action/issues/72) in [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action)
-3. ❗️ Opened issue [#72](https://github.com/enriikke/gatsby-gh-pages-action/issues/72) in [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action)
-4. 🎉 Merged PR [#14](https://github.com/meese-enterprises/website/pull/14) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-5. 💪 Opened PR [#14](https://github.com/meese-enterprises/website/pull/14) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+1. ❗️ Opened issue [#140](https://github.com/neurobin/shc/issues/140) in [neurobin/shc](https://github.com/neurobin/shc)
+2. 🗣 Commented on [#108](https://github.com/neurobin/shc/issues/108) in [neurobin/shc](https://github.com/neurobin/shc)
+3. 🗣 Commented on [#72](https://github.com/enriikke/gatsby-gh-pages-action/issues/72) in [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action)
+4. ❗️ Closed issue [#72](https://github.com/enriikke/gatsby-gh-pages-action/issues/72) in [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action)
+5. ❗️ Opened issue [#72](https://github.com/enriikke/gatsby-gh-pages-action/issues/72) in [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
