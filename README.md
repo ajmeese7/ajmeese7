@@ -59,18 +59,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%2032%20mins-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 839 contributions in 2022
-
-📦 342.0 kB used in GitHub's storage 
-
-📜 77 Public Repositories 
-
-🔑 30 Private Repositories  
+> 🏆 839 Contributions in the Year 2022
  > 
-**I'm an early 🐤** 
+> 📦 342.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 77 Public Repositories 
+ > 
+> 🔑 30 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    251 commits    ██████░░░░░░░░░░░░░░░░░░░   23.86% 
@@ -79,7 +80,7 @@
 🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%
 
 ```
-📅 **I'm most productive on Sunday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
@@ -93,7 +94,7 @@ Sunday       200 commits    ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/New_York
@@ -114,7 +115,7 @@ vault                    1 hr 34 mins        ██░░░░░░░░░�
 
 ```
 
-**💻 I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               32 repos            ████████████░░░░░░░░░░░░░   50.0% 
@@ -127,6 +128,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 08:03:25 UTC
+ Last Updated on 12/06/2022 16:03:52 UTC
 <!--END_SECTION:waka-->
 </details>
