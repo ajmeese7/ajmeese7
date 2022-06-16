@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#66](https://github.com/deshaw/jupyterlab-execute-time/issues/66) in [deshaw/jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time)
-2. 🗣 Commented on [#10767](https://github.com/jupyterlab/jupyterlab/issues/10767) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-3. ❗️ Opened issue [#141](https://github.com/neurobin/shc/issues/141) in [neurobin/shc](https://github.com/neurobin/shc)
-4. ❗️ Opened issue [#6](https://github.com/dendronhq/template.publish.github-action/issues/6) in [dendronhq/template.publish.github-action](https://github.com/dendronhq/template.publish.github-action)
-5. ❗️ Closed issue [#140](https://github.com/neurobin/shc/issues/140) in [neurobin/shc](https://github.com/neurobin/shc)
+1. 🗣 Commented on [#41](https://github.com/BachiLi/diffvg/issues/41) in [BachiLi/diffvg](https://github.com/BachiLi/diffvg)
+2. 🗣 Commented on [#35](https://github.com/BachiLi/diffvg/issues/35) in [BachiLi/diffvg](https://github.com/BachiLi/diffvg)
+3. ❗️ Opened issue [#66](https://github.com/deshaw/jupyterlab-execute-time/issues/66) in [deshaw/jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time)
+4. 🗣 Commented on [#10767](https://github.com/jupyterlab/jupyterlab/issues/10767) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
+5. ❗️ Opened issue [#141](https://github.com/neurobin/shc/issues/141) in [neurobin/shc](https://github.com/neurobin/shc)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
