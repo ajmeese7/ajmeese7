@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/issues/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
+1. 💪 Opened PR [#3108](https://github.com/dendronhq/dendron/pull/3108) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 2. 🗣 Commented on [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/issues/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
-3. 💪 Opened PR [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/pull/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
-4. 🎉 Merged PR [#12](https://github.com/ajmeese7/snapchat-share/pull/12) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-5. 🎉 Merged PR [#15](https://github.com/ajmeese7/repbot/pull/15) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+3. 🗣 Commented on [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/issues/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
+4. 🗣 Commented on [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/issues/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
+5. 💪 Opened PR [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/pull/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
