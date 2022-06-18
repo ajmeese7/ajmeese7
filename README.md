@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3108](https://github.com/dendronhq/dendron/pull/3108) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-2. 🗣 Commented on [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/issues/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
+1. 🗣 Commented on [#1877](https://github.com/microsoft/rushstack/issues/1877) in [microsoft/rushstack](https://github.com/microsoft/rushstack)
+2. 💪 Opened PR [#3108](https://github.com/dendronhq/dendron/pull/3108) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 3. 🗣 Commented on [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/issues/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
 4. 🗣 Commented on [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/issues/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
-5. 💪 Opened PR [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/pull/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
+5. 🗣 Commented on [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/issues/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
