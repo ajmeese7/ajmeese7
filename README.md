@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ajmeese7/snapchat-share/pull/12) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-2. 🎉 Merged PR [#15](https://github.com/ajmeese7/repbot/pull/15) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
-3. 🗣 Commented on [#572](https://github.com/replicate/cog/issues/572) in [replicate/cog](https://github.com/replicate/cog)
-4. 🗣 Commented on [#41](https://github.com/BachiLi/diffvg/issues/41) in [BachiLi/diffvg](https://github.com/BachiLi/diffvg)
-5. 🗣 Commented on [#35](https://github.com/BachiLi/diffvg/issues/35) in [BachiLi/diffvg](https://github.com/BachiLi/diffvg)
+1. 💪 Opened PR [#6](https://github.com/Mist3r-Robot/classic-discord-webhook/pull/6) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
+2. 🎉 Merged PR [#12](https://github.com/ajmeese7/snapchat-share/pull/12) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+3. 🎉 Merged PR [#15](https://github.com/ajmeese7/repbot/pull/15) in [ajmeese7/repbot](https://github.com/ajmeese7/repbot)
+4. 🗣 Commented on [#572](https://github.com/replicate/cog/issues/572) in [replicate/cog](https://github.com/replicate/cog)
+5. 🗣 Commented on [#41](https://github.com/BachiLi/diffvg/issues/41) in [BachiLi/diffvg](https://github.com/BachiLi/diffvg)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
