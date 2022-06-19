@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#553](https://github.com/dendronhq/dendron-site/pull/553) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
-2. 💪 Opened PR [#552](https://github.com/dendronhq/dendron-site/pull/552) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
-3. ❗️ Opened issue [#8100](https://github.com/newrelic/docs-website/issues/8100) in [newrelic/docs-website](https://github.com/newrelic/docs-website)
-4. 🗣 Commented on [#1877](https://github.com/microsoft/rushstack/issues/1877) in [microsoft/rushstack](https://github.com/microsoft/rushstack)
-5. 💪 Opened PR [#3108](https://github.com/dendronhq/dendron/pull/3108) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+1. 💪 Opened PR [#554](https://github.com/dendronhq/dendron-site/pull/554) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
+2. 💪 Opened PR [#553](https://github.com/dendronhq/dendron-site/pull/553) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
+3. 💪 Opened PR [#552](https://github.com/dendronhq/dendron-site/pull/552) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
+4. ❗️ Opened issue [#8100](https://github.com/newrelic/docs-website/issues/8100) in [newrelic/docs-website](https://github.com/newrelic/docs-website)
+5. 🗣 Commented on [#1877](https://github.com/microsoft/rushstack/issues/1877) in [microsoft/rushstack](https://github.com/microsoft/rushstack)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
