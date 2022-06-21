@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Oseid/TWTBOOM/issues/2) in [Oseid/TWTBOOM](https://github.com/Oseid/TWTBOOM)
-2. 🗣 Commented on [#1](https://github.com/Oseid/TWTBOOM/issues/1) in [Oseid/TWTBOOM](https://github.com/Oseid/TWTBOOM)
-3. 💪 Opened PR [#3](https://github.com/Oseid/TWTBOOM/pull/3) in [Oseid/TWTBOOM](https://github.com/Oseid/TWTBOOM)
-4. 💪 Opened PR [#554](https://github.com/dendronhq/dendron-site/pull/554) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
-5. 💪 Opened PR [#553](https://github.com/dendronhq/dendron-site/pull/553) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
+1. ❗️ Opened issue [#15](https://github.com/meese-enterprises/website/issues/15) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+2. 🗣 Commented on [#2](https://github.com/Oseid/TWTBOOM/issues/2) in [Oseid/TWTBOOM](https://github.com/Oseid/TWTBOOM)
+3. 🗣 Commented on [#1](https://github.com/Oseid/TWTBOOM/issues/1) in [Oseid/TWTBOOM](https://github.com/Oseid/TWTBOOM)
+4. 💪 Opened PR [#3](https://github.com/Oseid/TWTBOOM/pull/3) in [Oseid/TWTBOOM](https://github.com/Oseid/TWTBOOM)
+5. 💪 Opened PR [#554](https://github.com/dendronhq/dendron-site/pull/554) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
