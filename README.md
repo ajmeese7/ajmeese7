@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#93](https://github.com/ajmeese7/aaronmeese.com/issues/93) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-2. ❗️ Closed issue [#661](https://github.com/motdotla/dotenv/issues/661) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-3. 🗣 Commented on [#661](https://github.com/motdotla/dotenv/issues/661) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-4. ❗️ Opened issue [#661](https://github.com/motdotla/dotenv/issues/661) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-5. ❗️ Opened issue [#15](https://github.com/meese-enterprises/website/issues/15) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+1. 🗣 Commented on [#17556](https://github.com/keybase/client/issues/17556) in [keybase/client](https://github.com/keybase/client)
+2. 🎉 Merged PR [#11](https://github.com/ajmeese7/finance-dashboard/pull/11) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
+3. 🎉 Merged PR [#13](https://github.com/ajmeese7/snapchat-share/pull/13) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+4. ❌ Closed PR [#3108](https://github.com/dendronhq/dendron/pull/3108) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+5. 🗣 Commented on [#3108](https://github.com/dendronhq/dendron/issues/3108) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
