@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2233](https://github.com/coder/coder/issues/2233) in [coder/coder](https://github.com/coder/coder)
-2. 🗣 Commented on [#17556](https://github.com/keybase/client/issues/17556) in [keybase/client](https://github.com/keybase/client)
-3. 🎉 Merged PR [#11](https://github.com/ajmeese7/finance-dashboard/pull/11) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
-4. 🎉 Merged PR [#13](https://github.com/ajmeese7/snapchat-share/pull/13) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-5. ❌ Closed PR [#3108](https://github.com/dendronhq/dendron/pull/3108) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+1. 🗣 Commented on [#56](https://github.com/os-js/osjs-server/issues/56) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+2. 💪 Opened PR [#58](https://github.com/os-js/osjs-server/pull/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+3. 🗣 Commented on [#2233](https://github.com/coder/coder/issues/2233) in [coder/coder](https://github.com/coder/coder)
+4. 🗣 Commented on [#17556](https://github.com/keybase/client/issues/17556) in [keybase/client](https://github.com/keybase/client)
+5. 🎉 Merged PR [#11](https://github.com/ajmeese7/finance-dashboard/pull/11) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
