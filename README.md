@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/os-js/osjs-server/issues/56) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-2. 💪 Opened PR [#58](https://github.com/os-js/osjs-server/pull/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-3. 🗣 Commented on [#2233](https://github.com/coder/coder/issues/2233) in [coder/coder](https://github.com/coder/coder)
-4. 🗣 Commented on [#17556](https://github.com/keybase/client/issues/17556) in [keybase/client](https://github.com/keybase/client)
-5. 🎉 Merged PR [#11](https://github.com/ajmeese7/finance-dashboard/pull/11) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
+1. ❗️ Opened issue [#5729](https://github.com/refined-github/refined-github/issues/5729) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+3. 🗣 Commented on [#56](https://github.com/os-js/osjs-server/issues/56) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+4. 💪 Opened PR [#58](https://github.com/os-js/osjs-server/pull/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+5. 🗣 Commented on [#2233](https://github.com/coder/coder/issues/2233) in [coder/coder](https://github.com/coder/coder)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
