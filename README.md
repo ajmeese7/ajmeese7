@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Mist3r-Robot/classic-discord-webhook/pull/7) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
-2. ❗️ Closed issue [#7](https://github.com/meese-enterprises/uptime-monitor/issues/7) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-3. 🗣 Commented on [#7](https://github.com/meese-enterprises/uptime-monitor/issues/7) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-4. ❗️ Closed issue [#6](https://github.com/meese-enterprises/uptime-monitor/issues/6) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-5. 🗣 Commented on [#6](https://github.com/meese-enterprises/uptime-monitor/issues/6) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+1. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+2. 💪 Opened PR [#7](https://github.com/Mist3r-Robot/classic-discord-webhook/pull/7) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
+3. ❗️ Closed issue [#7](https://github.com/meese-enterprises/uptime-monitor/issues/7) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+4. 🗣 Commented on [#7](https://github.com/meese-enterprises/uptime-monitor/issues/7) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+5. ❗️ Closed issue [#6](https://github.com/meese-enterprises/uptime-monitor/issues/6) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
