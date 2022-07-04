@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/os-js/manual.os-js.org/pull/40) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-2. 💪 Opened PR [#39](https://github.com/os-js/manual.os-js.org/pull/39) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-3. ❗️ Closed issue [#27](https://github.com/ajmeese7/aaronmeese.com/issues/27) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
-4. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-5. 💪 Opened PR [#7](https://github.com/Mist3r-Robot/classic-discord-webhook/pull/7) in [Mist3r-Robot/classic-discord-webhook](https://github.com/Mist3r-Robot/classic-discord-webhook)
+1. ❗️ Opened issue [#10](https://github.com/ZanderZhao/gitbook-action/issues/10) in [ZanderZhao/gitbook-action](https://github.com/ZanderZhao/gitbook-action)
+2. 💪 Opened PR [#40](https://github.com/os-js/manual.os-js.org/pull/40) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
+3. 💪 Opened PR [#39](https://github.com/os-js/manual.os-js.org/pull/39) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
+4. ❗️ Closed issue [#27](https://github.com/ajmeese7/aaronmeese.com/issues/27) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+5. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
