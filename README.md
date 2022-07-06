@@ -49,10 +49,10 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-2. ❗️ Opened issue [#10](https://github.com/ZanderZhao/gitbook-action/issues/10) in [ZanderZhao/gitbook-action](https://github.com/ZanderZhao/gitbook-action)
-3. 💪 Opened PR [#40](https://github.com/os-js/manual.os-js.org/pull/40) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-4. 💪 Opened PR [#39](https://github.com/os-js/manual.os-js.org/pull/39) in [os-js/manual.os-js.org](https://github.com/os-js/manual.os-js.org)
-5. ❗️ Closed issue [#27](https://github.com/ajmeese7/aaronmeese.com/issues/27) in [ajmeese7/aaronmeese.com](https://github.com/ajmeese7/aaronmeese.com)
+2. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+3. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+4. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+5. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
