@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/esdoc/esdoc-plugins/issues/17) in [esdoc/esdoc-plugins](https://github.com/esdoc/esdoc-plugins)
-2. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-3. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-4. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-5. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+1. 🗣 Commented on [#10](https://github.com/esdoc2/esdoc2-plugins/issues/10) in [esdoc2/esdoc2-plugins](https://github.com/esdoc2/esdoc2-plugins)
+2. 🗣 Commented on [#21](https://github.com/esdoc2/esdoc2-plugins/issues/21) in [esdoc2/esdoc2-plugins](https://github.com/esdoc2/esdoc2-plugins)
+3. 🗣 Commented on [#56](https://github.com/os-js/osjs-server/issues/56) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+4. 💪 Opened PR [#61](https://github.com/os-js/osjs-server/pull/61) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+5. 🗣 Commented on [#17](https://github.com/esdoc/esdoc-plugins/issues/17) in [esdoc/esdoc-plugins](https://github.com/esdoc/esdoc-plugins)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
