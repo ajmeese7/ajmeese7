@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/1) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
-2. 💪 Opened PR [#1](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/1) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
-3. 🗣 Commented on [#61](https://github.com/os-js/osjs-server/issues/61) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-4. 🎉 Merged PR [#2](https://github.com/ajmeese7/esdoc2-plugins/pull/2) in [ajmeese7/esdoc2-plugins](https://github.com/ajmeese7/esdoc2-plugins)
-5. 💪 Opened PR [#2](https://github.com/ajmeese7/esdoc2-plugins/pull/2) in [ajmeese7/esdoc2-plugins](https://github.com/ajmeese7/esdoc2-plugins)
+1. 🎉 Merged PR [#94](https://github.com/meese-enterprises/meeseOS/pull/94) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+2. 💪 Opened PR [#94](https://github.com/meese-enterprises/meeseOS/pull/94) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+3. 🎉 Merged PR [#2](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/2) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
+4. 💪 Opened PR [#2](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/2) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
+5. 🎉 Merged PR [#1](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/1) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
