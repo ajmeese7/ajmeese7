@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/meese-enterprises/meeseOS/pull/94) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. 💪 Opened PR [#94](https://github.com/meese-enterprises/meeseOS/pull/94) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-3. 🎉 Merged PR [#2](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/2) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
-4. 💪 Opened PR [#2](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/2) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
-5. 🎉 Merged PR [#1](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/1) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
+1. ❗️ Opened issue [#95](https://github.com/meese-enterprises/meeseOS/issues/95) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+2. ❗️ Opened issue [#16](https://github.com/meese-enterprises/website/issues/16) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
+3. 🎉 Merged PR [#94](https://github.com/meese-enterprises/meeseOS/pull/94) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+4. 💪 Opened PR [#94](https://github.com/meese-enterprises/meeseOS/pull/94) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. 🎉 Merged PR [#2](https://github.com/meese-enterprises/github-action-push-to-another-repository/pull/2) in [meese-enterprises/github-action-push-to-another-repository](https://github.com/meese-enterprises/github-action-push-to-another-repository)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
