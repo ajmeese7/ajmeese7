@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ajmeese7/cursor-effects/pull/1) in [ajmeese7/cursor-effects](https://github.com/ajmeese7/cursor-effects)
-2. ❗️ Opened issue [#96](https://github.com/meese-enterprises/meeseOS/issues/96) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-3. ❗️ Opened issue [#95](https://github.com/meese-enterprises/meeseOS/issues/95) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-4. ❗️ Opened issue [#16](https://github.com/meese-enterprises/website/issues/16) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
-5. 🎉 Merged PR [#94](https://github.com/meese-enterprises/meeseOS/pull/94) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+1. ❗️ Opened issue [#23](https://github.com/tholman/cursor-effects/issues/23) in [tholman/cursor-effects](https://github.com/tholman/cursor-effects)
+2. 💪 Opened PR [#1](https://github.com/ajmeese7/cursor-effects/pull/1) in [ajmeese7/cursor-effects](https://github.com/ajmeese7/cursor-effects)
+3. ❗️ Opened issue [#96](https://github.com/meese-enterprises/meeseOS/issues/96) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+4. ❗️ Opened issue [#95](https://github.com/meese-enterprises/meeseOS/issues/95) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. ❗️ Opened issue [#16](https://github.com/meese-enterprises/website/issues/16) in [meese-enterprises/website](https://github.com/meese-enterprises/website)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
