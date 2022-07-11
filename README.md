@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/tholman/cursor-effects/pull/24) in [tholman/cursor-effects](https://github.com/tholman/cursor-effects)
-2. ❗️ Opened issue [#23](https://github.com/tholman/cursor-effects/issues/23) in [tholman/cursor-effects](https://github.com/tholman/cursor-effects)
-3. 💪 Opened PR [#1](https://github.com/ajmeese7/cursor-effects/pull/1) in [ajmeese7/cursor-effects](https://github.com/ajmeese7/cursor-effects)
-4. ❗️ Opened issue [#96](https://github.com/meese-enterprises/meeseOS/issues/96) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-5. ❗️ Opened issue [#95](https://github.com/meese-enterprises/meeseOS/issues/95) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+1. ❗️ Opened issue [#3](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/3) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
+2. 🗣 Commented on [#436](https://github.com/upptime/status-page/issues/436) in [upptime/status-page](https://github.com/upptime/status-page)
+3. 💪 Opened PR [#436](https://github.com/upptime/status-page/pull/436) in [upptime/status-page](https://github.com/upptime/status-page)
+4. 💪 Opened PR [#24](https://github.com/tholman/cursor-effects/pull/24) in [tholman/cursor-effects](https://github.com/tholman/cursor-effects)
+5. ❗️ Opened issue [#23](https://github.com/tholman/cursor-effects/issues/23) in [tholman/cursor-effects](https://github.com/tholman/cursor-effects)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
