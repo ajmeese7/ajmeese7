@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#86](https://github.com/vivek9patel/vivek9patel.github.io/issues/86) in [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
-2. ❗️ Opened issue [#3](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/3) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
-3. 🗣 Commented on [#436](https://github.com/upptime/status-page/issues/436) in [upptime/status-page](https://github.com/upptime/status-page)
-4. 💪 Opened PR [#436](https://github.com/upptime/status-page/pull/436) in [upptime/status-page](https://github.com/upptime/status-page)
-5. 💪 Opened PR [#24](https://github.com/tholman/cursor-effects/pull/24) in [tholman/cursor-effects](https://github.com/tholman/cursor-effects)
+1. 🎉 Merged PR [#10](https://github.com/dwyl/learn-tailwind/pull/10) in [dwyl/learn-tailwind](https://github.com/dwyl/learn-tailwind)
+2. 🗣 Commented on [#96](https://github.com/dwyl/phoenix-chat-example/issues/96) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
+3. ❗️ Opened issue [#86](https://github.com/vivek9patel/vivek9patel.github.io/issues/86) in [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
+4. ❗️ Opened issue [#3](https://github.com/meese-enterprises/cyberpunk-logo-generator/issues/3) in [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator)
+5. 🗣 Commented on [#436](https://github.com/upptime/status-page/issues/436) in [upptime/status-page](https://github.com/upptime/status-page)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
