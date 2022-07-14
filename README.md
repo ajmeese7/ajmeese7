@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
-2. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-3. 🎉 Merged PR [#10](https://github.com/dwyl/learn-tailwind/pull/10) in [dwyl/learn-tailwind](https://github.com/dwyl/learn-tailwind)
-4. 🗣 Commented on [#96](https://github.com/dwyl/phoenix-chat-example/issues/96) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-5. ❗️ Opened issue [#86](https://github.com/vivek9patel/vivek9patel.github.io/issues/86) in [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
+1. ❗️ Closed issue [#24](https://github.com/meese-enterprises/meeseOS/issues/24) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+2. ❗️ Opened issue [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
+3. 🗣 Commented on [#58](https://github.com/os-js/osjs-server/issues/58) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+4. 🎉 Merged PR [#10](https://github.com/dwyl/learn-tailwind/pull/10) in [dwyl/learn-tailwind](https://github.com/dwyl/learn-tailwind)
+5. 🗣 Commented on [#96](https://github.com/dwyl/phoenix-chat-example/issues/96) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
