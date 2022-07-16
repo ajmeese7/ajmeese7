@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/os-js/osjs-client/issues/160) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-2. 💪 Opened PR [#181](https://github.com/os-js/osjs-client/pull/181) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-3. ❗️ Opened issue [#231](https://github.com/caiiiycuk/js-dos/issues/231) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
-4. ❗️ Opened issue [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
-5. ❗️ Opened issue [#176](https://github.com/DustinBrett/daedalOS/issues/176) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+1. 💪 Opened PR [#38](https://github.com/os-js/osjs-filemanager-application/pull/38) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+2. 🗣 Commented on [#160](https://github.com/os-js/osjs-client/issues/160) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+3. 💪 Opened PR [#181](https://github.com/os-js/osjs-client/pull/181) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+4. ❗️ Opened issue [#231](https://github.com/caiiiycuk/js-dos/issues/231) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+5. ❗️ Opened issue [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
