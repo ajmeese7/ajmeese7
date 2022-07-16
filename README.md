@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#231](https://github.com/caiiiycuk/js-dos/issues/231) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
-2. ❗️ Opened issue [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
-3. ❗️ Opened issue [#176](https://github.com/DustinBrett/daedalOS/issues/176) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-4. ❗️ Closed issue [#24](https://github.com/meese-enterprises/meeseOS/issues/24) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-5. ❗️ Opened issue [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
+1. 🗣 Commented on [#160](https://github.com/os-js/osjs-client/issues/160) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+2. 💪 Opened PR [#181](https://github.com/os-js/osjs-client/pull/181) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+3. ❗️ Opened issue [#231](https://github.com/caiiiycuk/js-dos/issues/231) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+4. ❗️ Opened issue [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+5. ❗️ Opened issue [#176](https://github.com/DustinBrett/daedalOS/issues/176) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
