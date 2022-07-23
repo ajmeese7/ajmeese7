@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
-2. 🗣 Commented on [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
-3. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-4. ❗️ Closed issue [#95](https://github.com/meese-enterprises/meeseOS/issues/95) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-5. 🗣 Commented on [#69](https://github.com/ajmeese7/spambot/issues/69) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#69](https://github.com/ajmeese7/spambot/issues/69) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+2. 🗣 Commented on [#160](https://github.com/os-js/osjs-client/issues/160) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+3. ❗️ Closed issue [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+4. 🗣 Commented on [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+5. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
