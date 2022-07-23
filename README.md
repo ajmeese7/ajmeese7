@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#95](https://github.com/meese-enterprises/meeseOS/issues/95) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. 🗣 Commented on [#69](https://github.com/ajmeese7/spambot/issues/69) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
-3. 🎉 Merged PR [#71](https://github.com/meese-enterprises/karameese.com/pull/71) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
-4. 🎉 Merged PR [#26](https://github.com/ajmeese7/coupon-booked/pull/26) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
-5. 🎉 Merged PR [#70](https://github.com/meese-enterprises/karameese.com/pull/70) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
+1. ❗️ Closed issue [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+2. 🗣 Commented on [#230](https://github.com/caiiiycuk/js-dos/issues/230) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
+3. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+4. ❗️ Closed issue [#95](https://github.com/meese-enterprises/meeseOS/issues/95) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. 🗣 Commented on [#69](https://github.com/ajmeese7/spambot/issues/69) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
