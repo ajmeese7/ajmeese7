@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/ICCards/faefolk/issues/26) in [ICCards/faefolk](https://github.com/ICCards/faefolk)
-2. 🗣 Commented on [#86](https://github.com/vivek9patel/vivek9patel.github.io/issues/86) in [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
-3. ❗️ Opened issue [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-4. 💪 Opened PR [#38](https://github.com/os-js/osjs-filemanager-application/pull/38) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-5. 🗣 Commented on [#160](https://github.com/os-js/osjs-client/issues/160) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. ❗️ Closed issue [#95](https://github.com/meese-enterprises/meeseOS/issues/95) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+2. 🗣 Commented on [#69](https://github.com/ajmeese7/spambot/issues/69) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+3. 🎉 Merged PR [#71](https://github.com/meese-enterprises/karameese.com/pull/71) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
+4. 🎉 Merged PR [#26](https://github.com/ajmeese7/coupon-booked/pull/26) in [ajmeese7/coupon-booked](https://github.com/ajmeese7/coupon-booked)
+5. 🎉 Merged PR [#70](https://github.com/meese-enterprises/karameese.com/pull/70) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
