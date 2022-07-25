@@ -48,11 +48,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/meese-enterprises/meeseOS/issues/96) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-3. 🗣 Commented on [#160](https://github.com/os-js/osjs-client/issues/160) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-4. 🗣 Commented on [#22](https://github.com/os-js/osjs-filemanager-application/issues/22) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-5. 🗣 Commented on [#69](https://github.com/ajmeese7/spambot/issues/69) in [ajmeese7/spambot](https://github.com/ajmeese7/spambot)
+1. 🗣 Commented on [#33](https://github.com/os-js/osjs-gui/issues/33) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+2. 🗣 Commented on [#96](https://github.com/meese-enterprises/meeseOS/issues/96) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+3. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+4. 🗣 Commented on [#160](https://github.com/os-js/osjs-client/issues/160) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+5. 🗣 Commented on [#22](https://github.com/os-js/osjs-filemanager-application/issues/22) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
