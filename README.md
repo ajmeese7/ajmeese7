@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/namanrai/namanrai.github.io/pull/1) in [namanrai/namanrai.github.io](https://github.com/namanrai/namanrai.github.io)
-2. 🗣 Commented on [#33](https://github.com/os-js/osjs-gui/issues/33) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
-3. 🗣 Commented on [#96](https://github.com/meese-enterprises/meeseOS/issues/96) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-4. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-5. 🗣 Commented on [#160](https://github.com/os-js/osjs-client/issues/160) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 💪 Opened PR [#183](https://github.com/os-js/osjs-client/pull/183) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+2. 💪 Opened PR [#1](https://github.com/namanrai/namanrai.github.io/pull/1) in [namanrai/namanrai.github.io](https://github.com/namanrai/namanrai.github.io)
+3. 🗣 Commented on [#33](https://github.com/os-js/osjs-gui/issues/33) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+4. 🗣 Commented on [#96](https://github.com/meese-enterprises/meeseOS/issues/96) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
