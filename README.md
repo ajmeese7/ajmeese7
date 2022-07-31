@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com/os-js/osjs-client/issues/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 💪 Opened PR [#187](https://github.com/os-js/osjs-client/pull/187) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 2. 🗣 Commented on [#185](https://github.com/os-js/osjs-client/issues/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 3. 🗣 Commented on [#185](https://github.com/os-js/osjs-client/issues/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 4. 🗣 Commented on [#185](https://github.com/os-js/osjs-client/issues/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-5. 💪 Opened PR [#185](https://github.com/os-js/osjs-client/pull/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+5. 🗣 Commented on [#185](https://github.com/os-js/osjs-client/issues/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
