@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1682](https://github.com/mermaid-js/mermaid/issues/1682) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-2. 🗣 Commented on [#39](https://github.com/os-js/osjs-filemanager-application/issues/39) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-3. 🗣 Commented on [#39](https://github.com/os-js/osjs-filemanager-application/issues/39) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-4. ❗️ Opened issue [#240](https://github.com/caiiiycuk/js-dos/issues/240) in [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos)
-5. 💪 Opened PR [#183](https://github.com/os-js/osjs-client/pull/183) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 🗣 Commented on [#185](https://github.com/os-js/osjs-client/issues/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+2. 🗣 Commented on [#185](https://github.com/os-js/osjs-client/issues/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+3. 💪 Opened PR [#185](https://github.com/os-js/osjs-client/pull/185) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+4. 🗣 Commented on [#1682](https://github.com/mermaid-js/mermaid/issues/1682) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+5. 🗣 Commented on [#39](https://github.com/os-js/osjs-filemanager-application/issues/39) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
