@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/os-js/osjs-filemanager-application/issues/20) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-2. 🗣 Commented on [#20](https://github.com/os-js/osjs-filemanager-application/issues/20) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-3. 🗣 Commented on [#9](https://github.com/os-js/osjs-filemanager-application/issues/9) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-4. ❗️ Opened issue [#40](https://github.com/os-js/osjs-filemanager-application/issues/40) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-5. 💪 Opened PR [#187](https://github.com/os-js/osjs-client/pull/187) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 🗣 Commented on [#495](https://github.com/node-formidable/formidable/issues/495) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+2. ❗️ Closed issue [#20](https://github.com/os-js/osjs-filemanager-application/issues/20) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+3. 🗣 Commented on [#20](https://github.com/os-js/osjs-filemanager-application/issues/20) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+4. 🗣 Commented on [#9](https://github.com/os-js/osjs-filemanager-application/issues/9) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+5. ❗️ Opened issue [#40](https://github.com/os-js/osjs-filemanager-application/issues/40) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
