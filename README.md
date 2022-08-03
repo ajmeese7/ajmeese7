@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/ajmeese7/aaronmeese.dev/issues/2) in [ajmeese7/aaronmeese.dev](https://github.com/ajmeese7/aaronmeese.dev)
-2. 🗣 Commented on [#875](https://github.com/node-formidable/formidable/issues/875) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-3. ❗️ Opened issue [#877](https://github.com/node-formidable/formidable/issues/877) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-4. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-5. ❗️ Closed issue [#59](https://github.com/meese-enterprises/meeseOS/issues/59) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+1. ❗️ Opened issue [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+2. ❗️ Opened issue [#2](https://github.com/ajmeese7/aaronmeese.dev/issues/2) in [ajmeese7/aaronmeese.dev](https://github.com/ajmeese7/aaronmeese.dev)
+3. 🗣 Commented on [#875](https://github.com/node-formidable/formidable/issues/875) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+4. ❗️ Opened issue [#877](https://github.com/node-formidable/formidable/issues/877) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+5. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
