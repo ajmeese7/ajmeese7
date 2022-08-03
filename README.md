@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-2. ❗️ Closed issue [#59](https://github.com/meese-enterprises/meeseOS/issues/59) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-3. 🎉 Merged PR [#13](https://github.com/ajmeese7/finance-dashboard/pull/13) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
-4. 🗣 Commented on [#495](https://github.com/node-formidable/formidable/issues/495) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-5. ❗️ Closed issue [#20](https://github.com/os-js/osjs-filemanager-application/issues/20) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+1. 🗣 Commented on [#875](https://github.com/node-formidable/formidable/issues/875) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+2. ❗️ Opened issue [#877](https://github.com/node-formidable/formidable/issues/877) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+3. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+4. ❗️ Closed issue [#59](https://github.com/meese-enterprises/meeseOS/issues/59) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. 🎉 Merged PR [#13](https://github.com/ajmeese7/finance-dashboard/pull/13) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
