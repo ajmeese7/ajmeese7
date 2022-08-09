@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/os-js/osjs-gui/pull/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
-2. ❗️ Opened issue [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-3. ❗️ Opened issue [#2](https://github.com/ajmeese7/aaronmeese.dev/issues/2) in [ajmeese7/aaronmeese.dev](https://github.com/ajmeese7/aaronmeese.dev)
-4. 🗣 Commented on [#875](https://github.com/node-formidable/formidable/issues/875) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-5. ❗️ Opened issue [#877](https://github.com/node-formidable/formidable/issues/877) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+1. 🗣 Commented on [#877](https://github.com/node-formidable/formidable/issues/877) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+2. 💪 Opened PR [#40](https://github.com/os-js/osjs-gui/pull/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+3. ❗️ Opened issue [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+4. ❗️ Opened issue [#2](https://github.com/ajmeese7/aaronmeese.dev/issues/2) in [ajmeese7/aaronmeese.dev](https://github.com/ajmeese7/aaronmeese.dev)
+5. 🗣 Commented on [#875](https://github.com/node-formidable/formidable/issues/875) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
