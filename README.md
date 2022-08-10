@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/meese-enterprises/uptime-monitor/issues/8) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-2. 💪 Opened PR [#41](https://github.com/os-js/osjs-filemanager-application/pull/41) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-3. 🗣 Commented on [#15](https://github.com/os-js/osjs-cli/issues/15) in [os-js/osjs-cli](https://github.com/os-js/osjs-cli)
-4. 🗣 Commented on [#877](https://github.com/node-formidable/formidable/issues/877) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-5. 💪 Opened PR [#40](https://github.com/os-js/osjs-gui/pull/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+1. ❗️ Closed issue [#8](https://github.com/meese-enterprises/uptime-monitor/issues/8) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+2. 🗣 Commented on [#8](https://github.com/meese-enterprises/uptime-monitor/issues/8) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+3. ❗️ Opened issue [#8](https://github.com/meese-enterprises/uptime-monitor/issues/8) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+4. 💪 Opened PR [#41](https://github.com/os-js/osjs-filemanager-application/pull/41) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+5. 🗣 Commented on [#15](https://github.com/os-js/osjs-cli/issues/15) in [os-js/osjs-cli](https://github.com/os-js/osjs-cli)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
