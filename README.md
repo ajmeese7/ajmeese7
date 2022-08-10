@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/os-js/osjs-cli/issues/15) in [os-js/osjs-cli](https://github.com/os-js/osjs-cli)
-2. 🗣 Commented on [#877](https://github.com/node-formidable/formidable/issues/877) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
-3. 💪 Opened PR [#40](https://github.com/os-js/osjs-gui/pull/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
-4. ❗️ Opened issue [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-5. ❗️ Opened issue [#2](https://github.com/ajmeese7/aaronmeese.dev/issues/2) in [ajmeese7/aaronmeese.dev](https://github.com/ajmeese7/aaronmeese.dev)
+1. 💪 Opened PR [#41](https://github.com/os-js/osjs-filemanager-application/pull/41) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+2. 🗣 Commented on [#15](https://github.com/os-js/osjs-cli/issues/15) in [os-js/osjs-cli](https://github.com/os-js/osjs-cli)
+3. 🗣 Commented on [#877](https://github.com/node-formidable/formidable/issues/877) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+4. 💪 Opened PR [#40](https://github.com/os-js/osjs-gui/pull/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+5. ❗️ Opened issue [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
