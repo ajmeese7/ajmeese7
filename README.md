@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#98](https://github.com/meese-enterprises/meeseOS/issues/98) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. ❗️ Closed issue [#8](https://github.com/meese-enterprises/uptime-monitor/issues/8) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-3. 🗣 Commented on [#8](https://github.com/meese-enterprises/uptime-monitor/issues/8) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-4. ❗️ Opened issue [#8](https://github.com/meese-enterprises/uptime-monitor/issues/8) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-5. 💪 Opened PR [#41](https://github.com/os-js/osjs-filemanager-application/pull/41) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+1. 🗣 Commented on [#39](https://github.com/os-js/osjs-filemanager-application/issues/39) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+2. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+3. ❗️ Closed issue [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+4. 🗣 Commented on [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+5. ❗️ Opened issue [#98](https://github.com/meese-enterprises/meeseOS/issues/98) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
