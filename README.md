@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/os-js/osjs-filemanager-application/issues/41) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-2. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
-3. 🗣 Commented on [#39](https://github.com/os-js/osjs-filemanager-application/issues/39) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-4. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
-5. ❗️ Closed issue [#870](https://github.com/node-formidable/formidable/issues/870) in [node-formidable/formidable](https://github.com/node-formidable/formidable)
+1. ❗️ Opened issue [#99](https://github.com/meese-enterprises/meeseOS/issues/99) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+2. 🗣 Commented on [#41](https://github.com/os-js/osjs-filemanager-application/issues/41) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+3. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+4. 🗣 Commented on [#39](https://github.com/os-js/osjs-filemanager-application/issues/39) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+5. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
