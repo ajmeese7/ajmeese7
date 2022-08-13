@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#99](https://github.com/meese-enterprises/meeseOS/issues/99) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. 🗣 Commented on [#41](https://github.com/os-js/osjs-filemanager-application/issues/41) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-3. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
-4. 🗣 Commented on [#39](https://github.com/os-js/osjs-filemanager-application/issues/39) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-5. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+1. 🗣 Commented on [#93](https://github.com/meese-enterprises/meeseOS/issues/93) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+2. ❗️ Closed issue [#93](https://github.com/meese-enterprises/meeseOS/issues/93) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+3. ❗️ Opened issue [#132](https://github.com/codersrank-org/libraries/issues/132) in [codersrank-org/libraries](https://github.com/codersrank-org/libraries)
+4. ❗️ Opened issue [#99](https://github.com/meese-enterprises/meeseOS/issues/99) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. 🗣 Commented on [#41](https://github.com/os-js/osjs-filemanager-application/issues/41) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
