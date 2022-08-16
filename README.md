@@ -48,10 +48,10 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#67](https://github.com/os-js/osjs-server/issues/67) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-2. 💪 Opened PR [#67](https://github.com/os-js/osjs-server/pull/67) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-3. ❗️ Closed issue [#132](https://github.com/codersrank-org/libraries/issues/132) in [codersrank-org/libraries](https://github.com/codersrank-org/libraries)
-4. 🗣 Commented on [#132](https://github.com/codersrank-org/libraries/issues/132) in [codersrank-org/libraries](https://github.com/codersrank-org/libraries)
-5. 🗣 Commented on [#39](https://github.com/os-js/osjs-filemanager-application/issues/39) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+2. ❗️ Opened issue [#104](https://github.com/meese-enterprises/meeseOS/issues/104) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+3. 💪 Opened PR [#190](https://github.com/os-js/osjs-client/pull/190) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+4. 🗣 Commented on [#67](https://github.com/os-js/osjs-server/issues/67) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+5. 💪 Opened PR [#67](https://github.com/os-js/osjs-server/pull/67) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
