@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/os-js/osjs-server/issues/67) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-2. ❗️ Opened issue [#104](https://github.com/meese-enterprises/meeseOS/issues/104) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-3. 💪 Opened PR [#190](https://github.com/os-js/osjs-client/pull/190) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-4. 🗣 Commented on [#67](https://github.com/os-js/osjs-server/issues/67) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-5. 💪 Opened PR [#67](https://github.com/os-js/osjs-server/pull/67) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+1. ❗️ Closed issue [#1](https://github.com/ajmeese7/spongerobert.com/issues/1) in [ajmeese7/spongerobert.com](https://github.com/ajmeese7/spongerobert.com)
+2. 🗣 Commented on [#1](https://github.com/ajmeese7/spongerobert.com/issues/1) in [ajmeese7/spongerobert.com](https://github.com/ajmeese7/spongerobert.com)
+3. 🗣 Commented on [#67](https://github.com/os-js/osjs-server/issues/67) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+4. ❗️ Opened issue [#104](https://github.com/meese-enterprises/meeseOS/issues/104) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. 💪 Opened PR [#190](https://github.com/os-js/osjs-client/pull/190) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
