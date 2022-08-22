@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+1. 🎉 Merged PR [#104](https://github.com/dwyl/phoenix-chat-example/pull/104) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
 2. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-3. 💪 Opened PR [#68](https://github.com/os-js/osjs-server/pull/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-4. ❗️ Closed issue [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
-5. 🗣 Commented on [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
+3. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+4. 💪 Opened PR [#68](https://github.com/os-js/osjs-server/pull/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+5. ❗️ Closed issue [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
