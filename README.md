@@ -48,9 +48,9 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-2. 💪 Opened PR [#68](https://github.com/os-js/osjs-server/pull/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-3. ❗️ Closed issue [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
-4. 🗣 Commented on [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
+2. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+3. 💪 Opened PR [#68](https://github.com/os-js/osjs-server/pull/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+4. ❗️ Closed issue [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
 5. 🗣 Commented on [#1](https://github.com/ChrisVilches/Wobbly-Matrix/issues/1) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
 <!--END_SECTION:activity-->
 
