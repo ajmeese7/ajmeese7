@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#142](https://github.com/thejoshwolfe/yauzl/issues/142) in [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl)
-2. ❗️ Opened issue [#11](https://github.com/ChrisVilches/Wobbly-Matrix/issues/11) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
-3. 🗣 Commented on [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
-4. 🎉 Merged PR [#104](https://github.com/dwyl/phoenix-chat-example/pull/104) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-5. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+1. ❗️ Opened issue [#9](https://github.com/meese-enterprises/uptime-monitor/issues/9) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+2. ❗️ Opened issue [#142](https://github.com/thejoshwolfe/yauzl/issues/142) in [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl)
+3. ❗️ Opened issue [#11](https://github.com/ChrisVilches/Wobbly-Matrix/issues/11) in [ChrisVilches/Wobbly-Matrix](https://github.com/ChrisVilches/Wobbly-Matrix)
+4. 🗣 Commented on [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
+5. 🎉 Merged PR [#104](https://github.com/dwyl/phoenix-chat-example/pull/104) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
