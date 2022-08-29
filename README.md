@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#190](https://github.com/DustinBrett/daedalOS/issues/190) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-2. 💪 Opened PR [#3](https://github.com/Lunar-Celestral/Win93/pull/3) in [Lunar-Celestral/Win93](https://github.com/Lunar-Celestral/Win93)
-3. ❗️ Closed issue [#9](https://github.com/meese-enterprises/uptime-monitor/issues/9) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-4. 🗣 Commented on [#9](https://github.com/meese-enterprises/uptime-monitor/issues/9) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-5. ❗️ Opened issue [#9](https://github.com/meese-enterprises/uptime-monitor/issues/9) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+1. ❗️ Opened issue [#192](https://github.com/DustinBrett/daedalOS/issues/192) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+2. 🗣 Commented on [#190](https://github.com/DustinBrett/daedalOS/issues/190) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+3. ❗️ Opened issue [#191](https://github.com/DustinBrett/daedalOS/issues/191) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+4. ❗️ Opened issue [#190](https://github.com/DustinBrett/daedalOS/issues/190) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+5. 💪 Opened PR [#3](https://github.com/Lunar-Celestral/Win93/pull/3) in [Lunar-Celestral/Win93](https://github.com/Lunar-Celestral/Win93)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
