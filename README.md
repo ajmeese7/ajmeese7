@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#192](https://github.com/DustinBrett/daedalOS/issues/192) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-2. 🗣 Commented on [#190](https://github.com/DustinBrett/daedalOS/issues/190) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-3. ❗️ Opened issue [#191](https://github.com/DustinBrett/daedalOS/issues/191) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-4. ❗️ Opened issue [#190](https://github.com/DustinBrett/daedalOS/issues/190) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-5. 💪 Opened PR [#3](https://github.com/Lunar-Celestral/Win93/pull/3) in [Lunar-Celestral/Win93](https://github.com/Lunar-Celestral/Win93)
+1. ❗️ Opened issue [#42](https://github.com/os-js/osjs-filemanager-application/issues/42) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+2. 💪 Opened PR [#16](https://github.com/os-js/osjs-cli/pull/16) in [os-js/osjs-cli](https://github.com/os-js/osjs-cli)
+3. ❗️ Opened issue [#192](https://github.com/DustinBrett/daedalOS/issues/192) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+4. 🗣 Commented on [#190](https://github.com/DustinBrett/daedalOS/issues/190) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+5. ❗️ Opened issue [#191](https://github.com/DustinBrett/daedalOS/issues/191) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
