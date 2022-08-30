@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1845](https://github.com/HabitRPG/habitica-android/issues/1845) in [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android)
-2. ❗️ Opened issue [#106](https://github.com/meese-enterprises/meeseOS/issues/106) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-3. ❗️ Opened issue [#43](https://github.com/os-js/osjs-filemanager-application/issues/43) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
-4. ❗️ Opened issue [#193](https://github.com/DustinBrett/daedalOS/issues/193) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-5. ❗️ Opened issue [#42](https://github.com/os-js/osjs-filemanager-application/issues/42) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
+1. 🗣 Commented on [#193](https://github.com/DustinBrett/daedalOS/issues/193) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+2. ❗️ Opened issue [#1](https://github.com/ajmeese7/medium-highlight-export/issues/1) in [ajmeese7/medium-highlight-export](https://github.com/ajmeese7/medium-highlight-export)
+3. ❗️ Opened issue [#1845](https://github.com/HabitRPG/habitica-android/issues/1845) in [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android)
+4. ❗️ Opened issue [#106](https://github.com/meese-enterprises/meeseOS/issues/106) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. ❗️ Opened issue [#43](https://github.com/os-js/osjs-filemanager-application/issues/43) in [os-js/osjs-filemanager-application](https://github.com/os-js/osjs-filemanager-application)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
