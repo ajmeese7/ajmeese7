@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-3. 🗣 Commented on [#193](https://github.com/DustinBrett/daedalOS/issues/193) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-4. ❗️ Opened issue [#1](https://github.com/ajmeese7/medium-highlight-export/issues/1) in [ajmeese7/medium-highlight-export](https://github.com/ajmeese7/medium-highlight-export)
-5. ❗️ Opened issue [#1845](https://github.com/HabitRPG/habitica-android/issues/1845) in [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android)
+1. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+2. 🗣 Commented on [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+3. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+4. 🗣 Commented on [#193](https://github.com/DustinBrett/daedalOS/issues/193) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+5. ❗️ Opened issue [#1](https://github.com/ajmeese7/medium-highlight-export/issues/1) in [ajmeese7/medium-highlight-export](https://github.com/ajmeese7/medium-highlight-export)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
