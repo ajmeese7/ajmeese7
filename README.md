@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/meese-enterprises/meeseOS/issues/63) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. ❗️ Closed issue [#63](https://github.com/meese-enterprises/meeseOS/issues/63) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-3. ❗️ Opened issue [#108](https://github.com/meese-enterprises/meeseOS/issues/108) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-4. ❗️ Closed issue [#14](https://github.com/meese-enterprises/meeseOS/issues/14) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-5. ❗️ Opened issue [#107](https://github.com/meese-enterprises/meeseOS/issues/107) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+1. 💪 Opened PR [#194](https://github.com/DustinBrett/daedalOS/pull/194) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+2. 🗣 Commented on [#63](https://github.com/meese-enterprises/meeseOS/issues/63) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+3. ❗️ Closed issue [#63](https://github.com/meese-enterprises/meeseOS/issues/63) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+4. ❗️ Opened issue [#108](https://github.com/meese-enterprises/meeseOS/issues/108) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. ❗️ Closed issue [#14](https://github.com/meese-enterprises/meeseOS/issues/14) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
