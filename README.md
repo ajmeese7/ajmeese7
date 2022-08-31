@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#107](https://github.com/meese-enterprises/meeseOS/issues/107) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
-3. 🗣 Commented on [#1845](https://github.com/HabitRPG/habitica-android/issues/1845) in [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android)
-4. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
-5. 🗣 Commented on [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+1. ❗️ Closed issue [#14](https://github.com/meese-enterprises/meeseOS/issues/14) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+2. ❗️ Opened issue [#107](https://github.com/meese-enterprises/meeseOS/issues/107) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+3. 🗣 Commented on [#40](https://github.com/os-js/osjs-gui/issues/40) in [os-js/osjs-gui](https://github.com/os-js/osjs-gui)
+4. 🗣 Commented on [#1845](https://github.com/HabitRPG/habitica-android/issues/1845) in [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android)
+5. 🗣 Commented on [#68](https://github.com/os-js/osjs-server/issues/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
