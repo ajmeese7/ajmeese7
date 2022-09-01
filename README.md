@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/meeseOS/hexells/issues/2) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
-2. ❗️ Opened issue [#1](https://github.com/meeseOS/hexells/issues/1) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
-3. 💪 Opened PR [#194](https://github.com/DustinBrett/daedalOS/pull/194) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
-4. 🗣 Commented on [#63](https://github.com/meese-enterprises/meeseOS/issues/63) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-5. ❗️ Closed issue [#63](https://github.com/meese-enterprises/meeseOS/issues/63) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+1. ❌ Closed PR [#68](https://github.com/os-js/osjs-server/pull/68) in [os-js/osjs-server](https://github.com/os-js/osjs-server)
+2. ❗️ Opened issue [#2](https://github.com/meeseOS/hexells/issues/2) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
+3. ❗️ Opened issue [#1](https://github.com/meeseOS/hexells/issues/1) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
+4. 💪 Opened PR [#194](https://github.com/DustinBrett/daedalOS/pull/194) in [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+5. 🗣 Commented on [#63](https://github.com/meese-enterprises/meeseOS/issues/63) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
