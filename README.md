@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/niutech/x-frame-bypass/issues/36) in [niutech/x-frame-bypass](https://github.com/niutech/x-frame-bypass)
-2. ❗️ Opened issue [#22](https://github.com/jolav/codetabs/issues/22) in [jolav/codetabs](https://github.com/jolav/codetabs)
-3. ❗️ Closed issue [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-4. 🎉 Merged PR [#109](https://github.com/meese-enterprises/meeseOS/pull/109) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-5. 💪 Opened PR [#109](https://github.com/meese-enterprises/meeseOS/pull/109) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+1. 🗣 Commented on [#150](https://github.com/os-js/osjs-client/issues/150) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+2. 🗣 Commented on [#36](https://github.com/niutech/x-frame-bypass/issues/36) in [niutech/x-frame-bypass](https://github.com/niutech/x-frame-bypass)
+3. ❗️ Opened issue [#22](https://github.com/jolav/codetabs/issues/22) in [jolav/codetabs](https://github.com/jolav/codetabs)
+4. ❗️ Closed issue [#97](https://github.com/meese-enterprises/meeseOS/issues/97) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+5. 🎉 Merged PR [#109](https://github.com/meese-enterprises/meeseOS/pull/109) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
