@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/meeseOS/hexells/issues/3) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
+1. ❗️ Closed issue [#3](https://github.com/meeseOS/hexells/issues/3) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
 2. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-3. 💪 Opened PR [#191](https://github.com/os-js/osjs-client/pull/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-4. 🗣 Commented on [#150](https://github.com/os-js/osjs-client/issues/150) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-5. 🗣 Commented on [#36](https://github.com/niutech/x-frame-bypass/issues/36) in [niutech/x-frame-bypass](https://github.com/niutech/x-frame-bypass)
+3. ❗️ Opened issue [#3](https://github.com/meeseOS/hexells/issues/3) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
+4. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+5. 💪 Opened PR [#191](https://github.com/os-js/osjs-client/pull/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
