@@ -48,10 +48,10 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-2. ❗️ Closed issue [#3](https://github.com/meeseOS/hexells/issues/3) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
-3. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-4. ❗️ Opened issue [#3](https://github.com/meeseOS/hexells/issues/3) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
-5. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+2. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+3. ❗️ Closed issue [#3](https://github.com/meeseOS/hexells/issues/3) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
+4. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+5. ❗️ Opened issue [#3](https://github.com/meeseOS/hexells/issues/3) in [meeseOS/hexells](https://github.com/meeseOS/hexells)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
