@@ -47,8 +47,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/os-js/osjs-dev-meta/pull/27) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
-2. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 🗣 Commented on [#27](https://github.com/os-js/osjs-dev-meta/issues/27) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
+2. 💪 Opened PR [#27](https://github.com/os-js/osjs-dev-meta/pull/27) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
 3. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 4. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 5. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
