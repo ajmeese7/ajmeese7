@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#110](https://github.com/meese-enterprises/meeseOS/issues/110) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
-2. ❗️ Opened issue [#14](https://github.com/ajmeese7/snapchat-share/issues/14) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-3. 🎉 Merged PR [#9](https://github.com/ajmeese7/snapchat-share/pull/9) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-4. 🎉 Merged PR [#11](https://github.com/ajmeese7/snapchat-share/pull/11) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
-5. 🗣 Commented on [#191](https://github.com/os-js/osjs-client/issues/191) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 🗣 Commented on [#27](https://github.com/os-js/osjs-dev-meta/issues/27) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
+2. ❗️ Opened issue [#110](https://github.com/meese-enterprises/meeseOS/issues/110) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+3. ❗️ Opened issue [#14](https://github.com/ajmeese7/snapchat-share/issues/14) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+4. 🎉 Merged PR [#9](https://github.com/ajmeese7/snapchat-share/pull/9) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
+5. 🎉 Merged PR [#11](https://github.com/ajmeese7/snapchat-share/pull/11) in [ajmeese7/snapchat-share](https://github.com/ajmeese7/snapchat-share)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
