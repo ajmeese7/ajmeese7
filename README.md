@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/meeseOS/meeseOS/pull/111) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-2. ❗️ Opened issue [#192](https://github.com/os-js/osjs-client/issues/192) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-3. ❗️ Closed issue [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
-4. 🗣 Commented on [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
-5. 🗣 Commented on [#6](https://github.com/os-js/store.os-js.org/issues/6) in [os-js/store.os-js.org](https://github.com/os-js/store.os-js.org)
+1. 🎉 Merged PR [#112](https://github.com/meeseOS/meeseOS/pull/112) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+2. 💪 Opened PR [#112](https://github.com/meeseOS/meeseOS/pull/112) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+3. 🎉 Merged PR [#111](https://github.com/meeseOS/meeseOS/pull/111) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+4. ❗️ Opened issue [#192](https://github.com/os-js/osjs-client/issues/192) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+5. ❗️ Closed issue [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
