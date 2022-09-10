@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
-2. 🗣 Commented on [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
-3. 🗣 Commented on [#6](https://github.com/os-js/store.os-js.org/issues/6) in [os-js/store.os-js.org](https://github.com/os-js/store.os-js.org)
-4. 🗣 Commented on [#27](https://github.com/os-js/osjs-dev-meta/issues/27) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
-5. ❗️ Opened issue [#110](https://github.com/meese-enterprises/meeseOS/issues/110) in [meese-enterprises/meeseOS](https://github.com/meese-enterprises/meeseOS)
+1. ❗️ Opened issue [#192](https://github.com/os-js/osjs-client/issues/192) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+2. ❗️ Closed issue [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
+3. 🗣 Commented on [#43](https://github.com/dexplo/dataframe_image/issues/43) in [dexplo/dataframe_image](https://github.com/dexplo/dataframe_image)
+4. 🗣 Commented on [#6](https://github.com/os-js/store.os-js.org/issues/6) in [os-js/store.os-js.org](https://github.com/os-js/store.os-js.org)
+5. 🗣 Commented on [#27](https://github.com/os-js/osjs-dev-meta/issues/27) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
