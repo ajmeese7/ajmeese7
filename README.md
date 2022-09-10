@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#103](https://github.com/meeseOS/meeseOS/issues/103) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-2. 🎉 Merged PR [#112](https://github.com/meeseOS/meeseOS/pull/112) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-3. 💪 Opened PR [#112](https://github.com/meeseOS/meeseOS/pull/112) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-4. 🎉 Merged PR [#111](https://github.com/meeseOS/meeseOS/pull/111) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-5. ❗️ Opened issue [#192](https://github.com/os-js/osjs-client/issues/192) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+1. 💪 Opened PR [#113](https://github.com/meeseOS/meeseOS/pull/113) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+2. ❗️ Closed issue [#103](https://github.com/meeseOS/meeseOS/issues/103) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+3. 🎉 Merged PR [#112](https://github.com/meeseOS/meeseOS/pull/112) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+4. 💪 Opened PR [#112](https://github.com/meeseOS/meeseOS/pull/112) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+5. 🎉 Merged PR [#111](https://github.com/meeseOS/meeseOS/pull/111) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
