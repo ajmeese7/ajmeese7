@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#193](https://github.com/os-js/osjs-client/pull/193) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-2. ❗️ Closed issue [#107](https://github.com/meeseOS/meeseOS/issues/107) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-3. 💪 Opened PR [#113](https://github.com/meeseOS/meeseOS/pull/113) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-4. ❗️ Closed issue [#103](https://github.com/meeseOS/meeseOS/issues/103) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-5. 🎉 Merged PR [#112](https://github.com/meeseOS/meeseOS/pull/112) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+1. ❗️ Opened issue [#12](https://github.com/meese-enterprises/uptime-monitor/issues/12) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+2. ❗️ Opened issue [#11](https://github.com/meese-enterprises/uptime-monitor/issues/11) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+3. 💪 Opened PR [#193](https://github.com/os-js/osjs-client/pull/193) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
+4. ❗️ Closed issue [#107](https://github.com/meeseOS/meeseOS/issues/107) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+5. 💪 Opened PR [#113](https://github.com/meeseOS/meeseOS/pull/113) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
