@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/meese-enterprises/karameese.com/pull/72) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
-2. ❗️ Closed issue [#14](https://github.com/meese-enterprises/uptime-monitor/issues/14) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-3. 🗣 Commented on [#14](https://github.com/meese-enterprises/uptime-monitor/issues/14) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-4. ❗️ Opened issue [#14](https://github.com/meese-enterprises/uptime-monitor/issues/14) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-5. 🗣 Commented on [#13](https://github.com/meese-enterprises/uptime-monitor/issues/13) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+1. ❗️ Opened issue [#115](https://github.com/meeseOS/meeseOS/issues/115) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+2. 🎉 Merged PR [#72](https://github.com/meese-enterprises/karameese.com/pull/72) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
+3. ❗️ Closed issue [#14](https://github.com/meese-enterprises/uptime-monitor/issues/14) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+4. 🗣 Commented on [#14](https://github.com/meese-enterprises/uptime-monitor/issues/14) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+5. ❗️ Opened issue [#14](https://github.com/meese-enterprises/uptime-monitor/issues/14) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
