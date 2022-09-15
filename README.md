@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/meese-enterprises/uptime-monitor/issues/13) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-2. ❗️ Closed issue [#13](https://github.com/meese-enterprises/uptime-monitor/issues/13) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
-3. ❗️ Opened issue [#114](https://github.com/meeseOS/meeseOS/issues/114) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-4. 💪 Opened PR [#194](https://github.com/os-js/osjs-client/pull/194) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
-5. ❗️ Opened issue [#13](https://github.com/meese-enterprises/uptime-monitor/issues/13) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+1. ❗️ Opened issue [#14](https://github.com/meese-enterprises/uptime-monitor/issues/14) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+2. 🗣 Commented on [#13](https://github.com/meese-enterprises/uptime-monitor/issues/13) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+3. ❗️ Closed issue [#13](https://github.com/meese-enterprises/uptime-monitor/issues/13) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+4. ❗️ Opened issue [#114](https://github.com/meeseOS/meeseOS/issues/114) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+5. 💪 Opened PR [#194](https://github.com/os-js/osjs-client/pull/194) in [os-js/osjs-client](https://github.com/os-js/osjs-client)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
