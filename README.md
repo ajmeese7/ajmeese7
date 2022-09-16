@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/ajmeese7/finance-dashboard/pull/14) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
-2. 💪 Opened PR [#29](https://github.com/os-js/osjs-dev-meta/pull/29) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
-3. ❗️ Opened issue [#115](https://github.com/meeseOS/meeseOS/issues/115) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-4. 🎉 Merged PR [#72](https://github.com/meese-enterprises/karameese.com/pull/72) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
-5. ❗️ Closed issue [#14](https://github.com/meese-enterprises/uptime-monitor/issues/14) in [meese-enterprises/uptime-monitor](https://github.com/meese-enterprises/uptime-monitor)
+1. 🗣 Commented on [#1](https://github.com/os-js/osjs-example-icons/issues/1) in [os-js/osjs-example-icons](https://github.com/os-js/osjs-example-icons)
+2. 🎉 Merged PR [#14](https://github.com/ajmeese7/finance-dashboard/pull/14) in [ajmeese7/finance-dashboard](https://github.com/ajmeese7/finance-dashboard)
+3. 💪 Opened PR [#29](https://github.com/os-js/osjs-dev-meta/pull/29) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
+4. ❗️ Opened issue [#115](https://github.com/meeseOS/meeseOS/issues/115) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+5. 🎉 Merged PR [#72](https://github.com/meese-enterprises/karameese.com/pull/72) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
