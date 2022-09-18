@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1420](https://github.com/gchq/CyberChef/issues/1420) in [gchq/CyberChef](https://github.com/gchq/CyberChef)
-2. ❗️ Opened issue [#117](https://github.com/meeseOS/meeseOS/issues/117) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-3. ❗️ Opened issue [#116](https://github.com/meeseOS/meeseOS/issues/116) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-4. 💪 Opened PR [#34](https://github.com/os-js/osjs-dev-meta/pull/34) in [os-js/osjs-dev-meta](https://github.com/os-js/osjs-dev-meta)
-5. 🗣 Commented on [#1](https://github.com/os-js/osjs-example-icons/issues/1) in [os-js/osjs-example-icons](https://github.com/os-js/osjs-example-icons)
+1. 🎉 Merged PR [#120](https://github.com/meeseOS/meeseOS/pull/120) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+2. 🎉 Merged PR [#119](https://github.com/meeseOS/meeseOS/pull/119) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+3. 💪 Opened PR [#118](https://github.com/meeseOS/meeseOS/pull/118) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+4. ❗️ Opened issue [#1420](https://github.com/gchq/CyberChef/issues/1420) in [gchq/CyberChef](https://github.com/gchq/CyberChef)
+5. ❗️ Opened issue [#117](https://github.com/meeseOS/meeseOS/issues/117) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
