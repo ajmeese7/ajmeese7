@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25192](https://github.com/keybase/client/issues/25192) in [keybase/client](https://github.com/keybase/client)
-2. 🗣 Commented on [#3773](https://github.com/keybase/client/issues/3773) in [keybase/client](https://github.com/keybase/client)
-3. 🗣 Commented on [#24988](https://github.com/keybase/client/issues/24988) in [keybase/client](https://github.com/keybase/client)
-4. 🗣 Commented on [#121](https://github.com/meeseOS/meeseOS/issues/121) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-5. 🎉 Merged PR [#120](https://github.com/meeseOS/meeseOS/pull/120) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+1. ❗️ Opened issue [#559](https://github.com/googlesamples/google-services/issues/559) in [googlesamples/google-services](https://github.com/googlesamples/google-services)
+2. ❗️ Opened issue [#25192](https://github.com/keybase/client/issues/25192) in [keybase/client](https://github.com/keybase/client)
+3. 🗣 Commented on [#3773](https://github.com/keybase/client/issues/3773) in [keybase/client](https://github.com/keybase/client)
+4. 🗣 Commented on [#24988](https://github.com/keybase/client/issues/24988) in [keybase/client](https://github.com/keybase/client)
+5. 🗣 Commented on [#121](https://github.com/meeseOS/meeseOS/issues/121) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
