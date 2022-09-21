@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/dwyl/phoenix-chat-example/pull/107) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
-2. ❗️ Opened issue [#2](https://github.com/ajmeese7/keybase-export/issues/2) in [ajmeese7/keybase-export](https://github.com/ajmeese7/keybase-export)
-3. 🎉 Merged PR [#121](https://github.com/meeseOS/meeseOS/pull/121) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-4. ❗️ Opened issue [#75](https://github.com/meese-enterprises/karameese.com/issues/75) in [meese-enterprises/karameese.com](https://github.com/meese-enterprises/karameese.com)
-5. 💪 Opened PR [#123](https://github.com/meeseOS/meeseOS/pull/123) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+1. ❗️ Closed issue [#2](https://github.com/ajmeese7/keybase-export/issues/2) in [ajmeese7/keybase-export](https://github.com/ajmeese7/keybase-export)
+2. 🎉 Merged PR [#3](https://github.com/ajmeese7/keybase-export/pull/3) in [ajmeese7/keybase-export](https://github.com/ajmeese7/keybase-export)
+3. ❗️ Opened issue [#124](https://github.com/meeseOS/meeseOS/issues/124) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+4. 💪 Opened PR [#3](https://github.com/ajmeese7/keybase-export/pull/3) in [ajmeese7/keybase-export](https://github.com/ajmeese7/keybase-export)
+5. 🎉 Merged PR [#107](https://github.com/dwyl/phoenix-chat-example/pull/107) in [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
