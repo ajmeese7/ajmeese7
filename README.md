@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#127](https://github.com/meeseOS/meeseOS/issues/127) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-2. ❗️ Opened issue [#126](https://github.com/meeseOS/meeseOS/issues/126) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-3. ❗️ Opened issue [#125](https://github.com/meeseOS/meeseOS/issues/125) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-4. ❗️ Closed issue [#2](https://github.com/ajmeese7/keybase-export/issues/2) in [ajmeese7/keybase-export](https://github.com/ajmeese7/keybase-export)
-5. 🎉 Merged PR [#3](https://github.com/ajmeese7/keybase-export/pull/3) in [ajmeese7/keybase-export](https://github.com/ajmeese7/keybase-export)
+1. ❗️ Closed issue [#98](https://github.com/meeseOS/meeseOS/issues/98) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+2. ❗️ Opened issue [#127](https://github.com/meeseOS/meeseOS/issues/127) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+3. ❗️ Opened issue [#126](https://github.com/meeseOS/meeseOS/issues/126) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+4. ❗️ Opened issue [#125](https://github.com/meeseOS/meeseOS/issues/125) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+5. ❗️ Closed issue [#2](https://github.com/ajmeese7/keybase-export/issues/2) in [ajmeese7/keybase-export](https://github.com/ajmeese7/keybase-export)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
