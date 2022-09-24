@@ -47,11 +47,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/meeseOS/meeseOS/issues/123) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-2. ❗️ Reopened issue [#114](https://github.com/meeseOS/meeseOS/issues/114) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-3. 🗣 Commented on [#114](https://github.com/meeseOS/meeseOS/issues/114) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-4. ❗️ Closed issue [#114](https://github.com/meeseOS/meeseOS/issues/114) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-5. 🎉 Merged PR [#123](https://github.com/meeseOS/meeseOS/pull/123) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+1. ❗️ Closed issue [#122](https://github.com/meeseOS/meeseOS/issues/122) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+2. 🎉 Merged PR [#128](https://github.com/meeseOS/meeseOS/pull/128) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+3. 💪 Opened PR [#128](https://github.com/meeseOS/meeseOS/pull/128) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+4. 🗣 Commented on [#123](https://github.com/meeseOS/meeseOS/issues/123) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
+5. ❗️ Reopened issue [#114](https://github.com/meeseOS/meeseOS/issues/114) in [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
 <!--END_SECTION:activity-->
 
 ### 🧐 Waka Stats
