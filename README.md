@@ -33,27 +33,7 @@
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
-<br />
-<br />
-<details>
-<summary>Click here for detailed stats!</summary>
-
-### 🧐 Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C298%20hrs%204%20mins-blue)
-
-**🐱 My GitHub Data**
-
-> 🏆 1,244 Contributions in the Year 2022
- >
-> 📦 199.9 kB Used in GitHub's Storage
- >
-> 💼 Opted to Hire
- >
-> 📜 84 Public Repositories
- >
-> 🔑 30 Private Repositories
- >
 **I'm an Early 🐤**
 
 ```text
@@ -98,19 +78,6 @@ vault                    31 mins             ░░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               32 repos            ████████████░░░░░░░░░░░░░   47.76%
-HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43%
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96%
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.48%
-
-```
-
-
 
  Last Updated on 24/09/2022 08:04:17 UTC
 <!--END_SECTION:waka-->
-</details>
