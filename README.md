@@ -79,5 +79,5 @@ CVE-2022-21664           1 hr 25 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/10/2022 08:03:35 UTC
+ Last Updated on 26/10/2022 16:03:20 UTC
 <!--END_SECTION:waka-->
