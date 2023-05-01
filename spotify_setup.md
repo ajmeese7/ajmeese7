@@ -43,36 +43,6 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 * Deploy!
 
-## Deploy to Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fnovatorem%2Fnovatorem)
-- Create a Heroku application via the Heroku CLI or via the Heroku Dashboard. Connect the app with your GitHub repository and enable automatic builds <br>
-    `PS. automatic build means that everytime you push changes to remote, heroku will rebuild and redeploy the app.`
-    - To start the Flask server execute `heroku ps:scale web=1` once the build is completed.
-- Or click the `Deploy to Heroku` button above to automatically start the deployment process.
-
-## Run locally with Docker
-
-* You need to have [Docker](https://docs.docker.com/get-docker/) installed.
-
-* Add Environment Variables:
-    * `SPOTIFY_REFRESH_TOKEN`
-    * `SPOTIFY_CLIENT_ID`
-    * `SPOTIFY_SECRET_ID`
-
-* To run the service, open a terminal in the root folder of the repo: <br>
-    Execute:
-    ```
-    docker compose up
-    ```
-* When finished, navigate to [http://localhost:5000/](http://localhost:5000/)
-
-* To stop the service, open a terminal in the root folder of the repo: <br>
-    Execute:
-    ```
-    docker compose down
-    ```
-
 # Readme
 
 You can now use the following in your readme:
