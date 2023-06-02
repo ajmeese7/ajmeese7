@@ -10,7 +10,7 @@
   </td>
   <td width="50%">
     <p align="center">
-    Software Developer working on hobbyist projects, NSA cybersecurity, and custom software for clients.
+    Software Developer working on hobbyist projects, cutting-edge cybersecurity, and custom software for clients.
     </p>
     <p align="center">
       <a href="https://wakatime.com/@f726891d-3b02-46cd-9b60-e8c59f9e2b14">
