@@ -76,5 +76,5 @@ yara-rules               12 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/12/2023 16:15:50 UTC
+ Last Updated on 04/12/2023 00:19:04 UTC
 <!--END_SECTION:waka-->
