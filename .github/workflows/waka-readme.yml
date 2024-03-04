@@ -2,8 +2,8 @@ name: WakaStats README
 
 on:
   schedule:
-    # Runs every eight hours
-    - cron: '0 */8 * * *'
+    # Runs every 24 hours
+    - cron: '0 */24 * * *'
   workflow_dispatch:
 
 jobs:
