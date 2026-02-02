@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Aaron Meese</title>
+  <desc id="desc">Security, product, and systems that scale.</desc>
+  <style>
+    .bg { fill: #0b0b0b; }
+    .name {
+      font: 700 64px/1.1 "Space Grotesk", "IBM Plex Sans", "Segoe UI", sans-serif;
+      letter-spacing: 1px;
+      fill: #f5f5f5;
+    }
+    .tag {
+      font: 400 28px/1.2 "IBM Plex Mono", "Space Grotesk", "Segoe UI", monospace;
+      fill: #c9c9c9;
+    }
+    .line { stroke: #2a2a2a; stroke-width: 2; }
+  </style>
+  <rect class="bg" width="1200" height="260" rx="18" />
+  <text class="name" x="60" y="110">Aaron Meese</text>
+  <line class="line" x1="60" y1="152" x2="1140" y2="152" />
+  <text class="tag" x="60" y="200">Security, product, and systems that scale.</text>
+</svg>

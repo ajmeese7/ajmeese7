@@ -1,4 +1,4 @@
-#MacOS
+# MacOS
 .DS_Store
 
 # Environment variables
@@ -6,3 +6,8 @@
 
 # Pycache
 __pycache__
+
+# AI
+.claude
+.cursor
+.codex
