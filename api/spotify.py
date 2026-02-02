@@ -81,8 +81,8 @@ def is_spotify_configured():
     return bool(SPOTIFY_CLIENT_ID and SPOTIFY_SECRET_ID and SPOTIFY_REFRESH_TOKEN)
 
 
-def render_placeholder_svg(background_color, border_color, status, song, artist):
-    contentBar, barCSS = build_bars()
+def render_placeholder_svg(background_color, border_color, status, song, artist, speed):
+    contentBar, barCSS = build_bars(speed)
     dataDict = {
         "artistName": html.escape(artist),
         "songName": html.escape(song),
@@ -214,8 +214,8 @@ def pick_clean_recent(recent_data):
     return None
 
 
-def makeSVG(data, background_color, border_color):
-    contentBar, barCSS = build_bars()
+def makeSVG(data, background_color, border_color, speed):
+    contentBar, barCSS = build_bars(speed)
     item = None
     currentStatus = "Now playing"
 
@@ -280,6 +280,7 @@ def catch_all(path):
     border_color = validate_hex_color(
         request.args.get("border_color"), DEFAULT_BORDER_COLOR
     )
+    speed = clamp_float(request.args.get("speed"), 1.0, 0.4, 2.5)
 
     if not is_spotify_configured():
         svg = render_placeholder_svg(
@@ -288,6 +289,7 @@ def catch_all(path):
             "Spotify offline",
             "Credentials not configured",
             "Set SPOTIFY_* env vars",
+            speed,
         )
         resp = Response(svg, mimetype="image/svg+xml")
         resp.headers["Cache-Control"] = "s-maxage=300"
@@ -302,7 +304,7 @@ def catch_all(path):
             data = None
 
     try:
-        svg = makeSVG(data, background_color, border_color)
+        svg = makeSVG(data, background_color, border_color, speed)
     except Exception:
         svg = render_placeholder_svg(
             background_color,
@@ -310,6 +312,7 @@ def catch_all(path):
             "Spotify unavailable",
             "Playback data unavailable",
             "Try again later",
+            speed,
         )
 
     resp = Response(svg, mimetype="image/svg+xml")
@@ -324,29 +327,38 @@ def validate_hex_color(color, default):
     return default
 
 
-def barGen(barCount):
+def barGen(barCount, speed):
     barCSS = ""
     left = 1
+    gradient_duration = 15.0 / speed if speed > 0 else 15.0
     for i in range(1, barCount + 1):
-        anim = random.randint(500, 1000)
+        anim = max(120, int(random.randint(500, 1000) / speed)) if speed > 0 else random.randint(500, 1000)
         x1 = random.random()
         y1 = random.random() * 2
         x2 = random.random()
         y2 = random.random() * 2
         barCSS += (
-            ".bar:nth-child({})  {{ left: {}px; animation-duration: 15s, {}ms; animation-timing-function: ease, cubic-bezier({},{},{},{}); }}".format(
-                i, left, anim, x1, y1, x2, y2
+            ".bar:nth-child({})  {{ left: {}px; animation-duration: {:.2f}s, {}ms; animation-timing-function: ease, cubic-bezier({},{},{},{}); }}".format(
+                i, left, gradient_duration, anim, x1, y1, x2, y2
             )
         )
         left += 4
     return barCSS
 
 
-def build_bars():
+def build_bars(speed):
     barCount = 84
     contentBar = "".join(["<div class='bar'></div>" for _ in range(barCount)])
-    barCSS = barGen(barCount)
+    barCSS = barGen(barCount, speed)
     return contentBar, barCSS
+
+
+def clamp_float(value, default, minimum, maximum):
+    try:
+        parsed = float(value)
+    except (TypeError, ValueError):
+        return default
+    return max(minimum, min(parsed, maximum))
 
 
 if __name__ == "__main__":

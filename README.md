@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/ajmeese">
-    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/spotify?background_color=0b0b0b&border_color=2a2a2a" alt="Spotify Now Playing" width="600" />
+    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/spotify?background_color=0b0b0b&border_color=2a2a2a&speed=0.7" alt="Spotify Now Playing" width="600" />
   </a>
 </p>
 
