@@ -11,3 +11,7 @@ __pycache__
 .claude
 .cursor
 .codex
+
+# Development
+PR_DESCRIPTION.md
+COMMIT_MSG.txt

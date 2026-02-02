@@ -26,7 +26,7 @@
 Building security-forward platforms and tooling that remove operational friction.
 
 **Stack**<br>
-Docker · Kubernetes · Go · Rust · Python · Node.js · MongoDB · QuestDB · Parse Server · React · JavaScript
+Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
