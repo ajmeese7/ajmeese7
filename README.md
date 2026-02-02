@@ -14,12 +14,16 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/ajmeese">
-    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/spotify?background_color=0b0b0b&border_color=2a2a2a&speed=0.7&grad=0.2" alt="Spotify Now Playing" width="600" />
+    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/spotify?background_color=0b0b0b&border_color=2a2a2a&speed=0.7&grad=0.1" alt="Spotify Now Playing" width="600" />
   </a>
 </p>
 
 **Now** Building security-forward platforms and tooling that remove operational friction.
 
-**Tools** Docker · Kubernetes · Go · Rust · Python · Node.js
+**Stack** Docker · Kubernetes · Go · Rust · Python · Node.js · MongoDB · QuestDB · Parse Server · React · JavaScript
 
-**Other** MongoDB · QuestDB · Parse Server · React · JavaScript
+**Reading**
+<!-- READING-LOG:START -->
+- _Fetching latest reading log..._
+<!-- READING-LOG:END -->
+<a href="https://read.aaronmeese.com">More →</a>
