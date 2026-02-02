@@ -32,4 +32,4 @@ Docker · Kubernetes · Go · Rust · Python · Node.js · MongoDB · QuestDB ·
 - [Bypassing Windows Administrator Protection](https://projectzero.google/2026/26/windows-administrator-protection.html)
 - [Securely indexing large codebases](https://cursor.com/blog/secure-codebase-indexing)
 <!-- READING-LOG:END -->
-<a href="https://read.aaronmeese.com">More →</a>
+<a href="https://read.aaronmeese.com/reading/rss">More →</a>
