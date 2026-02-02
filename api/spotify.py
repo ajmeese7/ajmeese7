@@ -326,7 +326,7 @@ def validate_hex_color(color, default):
 
 def barGen(barCount):
     barCSS = ""
-    left = 0
+    left = 1
     for i in range(1, barCount + 1):
         anim = random.randint(500, 1000)
         x1 = random.random()
@@ -343,7 +343,7 @@ def barGen(barCount):
 
 
 def build_bars():
-    barCount = 48
+    barCount = 84
     contentBar = "".join(["<div class='bar'></div>" for _ in range(barCount)])
     barCSS = barGen(barCount)
     return contentBar, barCSS
