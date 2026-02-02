@@ -2,6 +2,7 @@ import html
 import json
 import os
 import re
+import random
 import threading
 import requests
 
@@ -81,6 +82,7 @@ def is_spotify_configured():
 
 
 def render_placeholder_svg(background_color, border_color, status, song, artist):
+    contentBar, barCSS = build_bars()
     dataDict = {
         "artistName": html.escape(artist),
         "songName": html.escape(song),
@@ -88,6 +90,8 @@ def render_placeholder_svg(background_color, border_color, status, song, artist)
         "artistURI": "https://open.spotify.com",
         "image": PLACEHOLDER_IMAGE,
         "status": status,
+        "contentBar": contentBar,
+        "barCSS": barCSS,
         "background_color": background_color,
         "border_color": border_color,
     }
@@ -211,6 +215,7 @@ def pick_clean_recent(recent_data):
 
 
 def makeSVG(data, background_color, border_color):
+    contentBar, barCSS = build_bars()
     item = None
     currentStatus = "Now playing"
 
@@ -256,6 +261,8 @@ def makeSVG(data, background_color, border_color):
         "artistURI": artistURI,
         "image": image,
         "status": currentStatus,
+        "contentBar": contentBar,
+        "barCSS": barCSS,
         "background_color": background_color,
         "border_color": border_color
     }
@@ -315,6 +322,31 @@ def validate_hex_color(color, default):
     if color and HEX_COLOR_PATTERN.match(color):
         return color.lower()
     return default
+
+
+def barGen(barCount):
+    barCSS = ""
+    left = 0
+    for i in range(1, barCount + 1):
+        anim = random.randint(500, 1000)
+        x1 = random.random()
+        y1 = random.random() * 2
+        x2 = random.random()
+        y2 = random.random() * 2
+        barCSS += (
+            ".bar:nth-child({})  {{ left: {}px; animation-duration: 15s, {}ms; animation-timing-function: ease, cubic-bezier({},{},{},{}); }}".format(
+                i, left, anim, x1, y1, x2, y2
+            )
+        )
+        left += 4
+    return barCSS
+
+
+def build_bars():
+    barCount = 48
+    contentBar = "".join(["<div class='bar'></div>" for _ in range(barCount)])
+    barCSS = barGen(barCount)
+    return contentBar, barCSS
 
 
 if __name__ == "__main__":
