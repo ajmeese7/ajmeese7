@@ -18,11 +18,13 @@
   </a>
 </p>
 
-**Now** Building security-forward platforms and tooling that remove operational friction.
+**Now**<br>
+Building security-forward platforms and tooling that remove operational friction.
 
-**Stack** Docker · Kubernetes · Go · Rust · Python · Node.js · MongoDB · QuestDB · Parse Server · React · JavaScript
+**Stack**<br>
+Docker · Kubernetes · Go · Rust · Python · Node.js · MongoDB · QuestDB · Parse Server · React · JavaScript
 
-**Reading**
+**Reading**<br>
 <!-- READING-LOG:START -->
 - _Fetching latest reading log..._
 <!-- READING-LOG:END -->

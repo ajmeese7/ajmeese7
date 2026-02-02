@@ -21,13 +21,11 @@ jobs:
         with:
           python-version: "3.11"
       - name: Update README
-        if: ${{ secrets.READING_LOG_MARKDOWN_URL != '' }}
         env:
           READING_LOG_MARKDOWN_URL: ${{ secrets.READING_LOG_MARKDOWN_URL }}
         run: |
           python scripts/update-reading-log.py
       - name: Commit changes
-        if: ${{ secrets.READING_LOG_MARKDOWN_URL != '' }}
         run: |
           if git diff --quiet; then
             echo "No changes to commit."

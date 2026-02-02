@@ -30,8 +30,8 @@ def replace_block(content: str, replacement: str) -> str:
 def main() -> int:
     url = os.getenv("READING_LOG_MARKDOWN_URL")
     if not url:
-        print("READING_LOG_MARKDOWN_URL is not set.")
-        return 1
+        print("READING_LOG_MARKDOWN_URL is not set. Skipping update.")
+        return 0
 
     markdown = fetch_markdown(url)
     if not markdown:
