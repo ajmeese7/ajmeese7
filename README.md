@@ -6,7 +6,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/divider?stroke=2a2a2a&accent=f5f5f5&duration=6" alt="Animated divider" width="100%" />
+    <img src="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/divider?stroke=2a2a2a&accent=f5f5f5&duration=6" alt="Animated divider" width="100%" />
   </picture>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/ajmeese">
-    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/spotify?background_color=0b0b0b&border_color=2a2a2a&speed=0.7&grad=0.1" alt="Spotify Now Playing" width="600" />
+    <img src="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/spotify?background_color=0b0b0b&border_color=2a2a2a&speed=0.7&grad=0.1" alt="Spotify Now Playing" width="600" />
   </a>
 </p>
 
