@@ -1,6 +1,9 @@
-import os
+import html
 import json
+import os
+import re
 import random
+import threading
 import requests
 
 from base64 import b64encode
@@ -16,7 +19,47 @@ PLACEHOLDER_IMAGE = "iVBORw0KGgoAAAANSUhEUgAAA4QAAAOEBAMAAAALYOIIAAAAFVBMVEXm5ub
 SPOTIFY_CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
 SPOTIFY_SECRET_ID = os.getenv("SPOTIFY_SECRET_ID")
 SPOTIFY_REFRESH_TOKEN = os.getenv("SPOTIFY_REFRESH_TOKEN")
-SPOTIFY_TOKEN = ""
+
+DEFAULT_PROFANITY_WORDS = [
+    "ass",
+    "bastard",
+    "bitch",
+    "bullshit",
+    "crap",
+    "cunt",
+    "damn",
+    "dick",
+    "fuck",
+    "motherfucker",
+    "nigger",
+    "nigga",
+    "piss",
+    "shit",
+    "slut",
+    "twat",
+    "whore",
+]
+
+PROFANITY_WORDS = os.getenv("SPOTIFY_PROFANITY_WORDS")
+PROFANITY_REGEX = os.getenv("SPOTIFY_PROFANITY_REGEX")
+if PROFANITY_WORDS:
+    PROFANITY_WORDS = [word.strip() for word in PROFANITY_WORDS.split(",") if word.strip()]
+else:
+    PROFANITY_WORDS = DEFAULT_PROFANITY_WORDS
+
+PROFANITY_WORD_PATTERN = (
+    re.compile(r"\b(?:{})\b".format("|".join(re.escape(word) for word in PROFANITY_WORDS)), re.IGNORECASE)
+    if PROFANITY_WORDS
+    else None
+)
+if PROFANITY_REGEX:
+    try:
+        PROFANITY_REGEX_PATTERN = re.compile(PROFANITY_REGEX, re.IGNORECASE)
+    except re.error as exc:
+        print(f"Invalid SPOTIFY_PROFANITY_REGEX: {exc}")
+        PROFANITY_REGEX_PATTERN = None
+else:
+    PROFANITY_REGEX_PATTERN = None
 
 FALLBACK_THEME = "spotify.html.j2"
 
@@ -25,6 +68,10 @@ NOW_PLAYING_URL = "https://api.spotify.com/v1/me/player/currently-playing"
 RECENTLY_PLAYING_URL = (
     "https://api.spotify.com/v1/me/player/recently-played?limit=10"
 )
+DEFAULT_BACKGROUND_COLOR = "0b0b0b"
+DEFAULT_BORDER_COLOR = "2a2a2a"
+
+HEX_COLOR_PATTERN = re.compile(r"^[0-9a-fA-F]{6}$")
 
 app = Flask(__name__)
 
@@ -35,113 +82,209 @@ def getAuth():
     )
 
 
-def refreshToken():
-    data = {
-        "grant_type": "refresh_token",
-        "refresh_token": SPOTIFY_REFRESH_TOKEN,
+def is_spotify_configured():
+    return bool(SPOTIFY_CLIENT_ID and SPOTIFY_SECRET_ID and SPOTIFY_REFRESH_TOKEN)
+
+
+def render_placeholder_svg(background_color, border_color, status, song, artist, speed, gradient_speed):
+    contentBar, barCSS = build_bars(speed, gradient_speed)
+    dataDict = {
+        "artistName": html.escape(artist),
+        "songName": html.escape(song),
+        "songURI": "https://open.spotify.com",
+        "artistURI": "https://open.spotify.com",
+        "image": PLACEHOLDER_IMAGE,
+        "status": status,
+        "contentBar": contentBar,
+        "barCSS": barCSS,
+        "background_color": background_color,
+        "border_color": border_color,
     }
-
-    headers = {"Authorization": "Basic {}".format(getAuth())}
-    response = requests.post(
-        REFRESH_TOKEN_URL, data=data, headers=headers).json()
-
-    try:
-        return response["access_token"]
-    except KeyError:
-        print(json.dumps(response))
-        print("\n---\n")
-        raise KeyError(str(response))
+    return render_template(getTemplate(), **dataDict)
 
 
-def get(url):
-    global SPOTIFY_TOKEN
+class SpotifyTokenManager:
+    def __init__(self) -> None:
+        self._token = None
+        self._lock = threading.Lock()
 
-    if (SPOTIFY_TOKEN == ""):
-        SPOTIFY_TOKEN = refreshToken()
+    def _refresh_token(self) -> str:
+        data = {
+            "grant_type": "refresh_token",
+            "refresh_token": SPOTIFY_REFRESH_TOKEN,
+        }
 
-    response = requests.get(
-        url, headers={"Authorization": f"Bearer {SPOTIFY_TOKEN}"})
-
-    if response.status_code == 401:
-        SPOTIFY_TOKEN = refreshToken()
-        response = requests.get(
-            url, headers={"Authorization": f"Bearer {SPOTIFY_TOKEN}"}).json()
-        return response
-    elif response.status_code == 204:
-        raise Exception(f"{url} returned no data.")
-    else:
-        return response.json()
-
-
-def barGen(barCount):
-    barCSS = ""
-    left = 1
-    for i in range(1, barCount + 1):
-        anim = random.randint(500, 1000)
-        # below code generates random cubic-bezier values
-        x1 = random.random()
-        y1 = random.random()*2
-        x2 = random.random()
-        y2 = random.random()*2
-        barCSS += (
-            ".bar:nth-child({})  {{ left: {}px; animation-duration: 15s, {}ms; animation-timing-function: ease, cubic-bezier({},{},{},{}); }}".format(
-                i, left, anim, x1, y1, x2, y2
+        headers = {"Authorization": f"Basic {getAuth()}"}
+        try:
+            response = requests.post(
+                REFRESH_TOKEN_URL, data=data, headers=headers, timeout=10
             )
+            response.raise_for_status()
+        except requests.RequestException as exc:
+            raise RuntimeError(f"Spotify token refresh failed: {exc}") from exc
+
+        payload = response.json()
+        if "access_token" not in payload:
+            print(json.dumps(payload))
+            print("\n---\n")
+            raise KeyError(str(payload))
+        return payload["access_token"]
+
+    def get_token(self, force_refresh: bool = False) -> str:
+        with self._lock:
+            if self._token is None or force_refresh:
+                self._token = self._refresh_token()
+            return self._token
+
+    def invalidate(self) -> None:
+        with self._lock:
+            self._token = None
+
+
+_token_manager = SpotifyTokenManager()
+
+
+def get(url, retry_on_auth_error=True):
+    token = _token_manager.get_token()
+    try:
+        response = requests.get(
+            url, headers={"Authorization": f"Bearer {token}"}, timeout=10
         )
-        left += 4
-    return barCSS
+    except requests.RequestException as exc:
+        raise Exception(f"{url} request failed: {exc}") from exc
+
+    if response.status_code == 401 and retry_on_auth_error:
+        _token_manager.invalidate()
+        return get(url, retry_on_auth_error=False)
+
+    if response.status_code == 204:
+        raise Exception(f"{url} returned no data.")
+
+    if not response.ok:
+        raise Exception(f"{url} returned {response.status_code}: {response.text}")
+
+    return response.json()
+
+
+_TEMPLATES_CACHE = None
+
+
+def load_templates():
+    global _TEMPLATES_CACHE
+    if _TEMPLATES_CACHE is not None:
+        return _TEMPLATES_CACHE
+    try:
+        with open("api/templates.json", "r", encoding="utf-8") as file:
+            _TEMPLATES_CACHE = json.loads(file.read())
+        return _TEMPLATES_CACHE
+    except Exception as e:
+        print(f"Failed to load templates.\r\n```{e}```")
+        return None
 
 
 def getTemplate():
+    templates = load_templates()
+    if not templates:
+        return FALLBACK_THEME
     try:
-        file = open("api/templates.json", "r")
-        templates = json.loads(file.read())
         return templates["templates"][templates["current-theme"]]
     except Exception as e:
-        print(f"Failed to load templates.\r\n```{e}```")
+        print(f"Failed to resolve template.\r\n```{e}```")
         return FALLBACK_THEME
 
 
 def loadImageB64(url):
-    response = requests.get(url)
-    return b64encode(response.content).decode("ascii")
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        return b64encode(response.content).decode("ascii")
+    except requests.RequestException:
+        return PLACEHOLDER_IMAGE
 
 
-def makeSVG(data, background_color, border_color):
-    barCount = 84
-    contentBar = "".join(["<div class='bar'></div>" for _ in range(barCount)])
-    barCSS = barGen(barCount)
+def normalize_text(text):
+    return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
 
-    if not "is_playing" in data:
-        # contentBar = "" #Shows/Hides the EQ bar if no song is currently playing
-        currentStatus = "Was playing:"
-        recentPlays = get(RECENTLY_PLAYING_URL)
-        recentPlaysLength = len(recentPlays["items"])
-        itemIndex = random.randint(0, recentPlaysLength - 1)
-        item = recentPlays["items"][itemIndex]["track"]
+
+def is_profane(text):
+    if not text:
+        return False
+
+    if PROFANITY_REGEX_PATTERN and PROFANITY_REGEX_PATTERN.search(text):
+        return True
+
+    if not PROFANITY_WORD_PATTERN:
+        return False
+
+    return bool(PROFANITY_WORD_PATTERN.search(normalize_text(text)))
+
+
+def is_track_clean(track):
+    if not track:
+        return False
+    album = track.get("album") or {}
+    artist_names = [artist.get("name", "") for artist in track.get("artists", [])]
+    fields = [track.get("name", ""), album.get("name", "")] + artist_names
+    return not any(is_profane(field) for field in fields)
+
+
+def pick_clean_recent(recent_data):
+    for entry in recent_data.get("items", []):
+        track = entry.get("track") or entry
+        if is_track_clean(track):
+            return track
+    return None
+
+
+def makeSVG(data, background_color, border_color, speed, gradient_speed):
+    contentBar, barCSS = build_bars(speed, gradient_speed)
+    item = None
+    currentStatus = "Now playing"
+
+    if "item" in data:
+        candidate = data["item"]
+        if is_track_clean(candidate):
+            item = candidate
+        else:
+            recentPlays = get(RECENTLY_PLAYING_URL)
+            item = pick_clean_recent(recentPlays)
+            currentStatus = "Recently played"
+    elif "items" in data:
+        item = pick_clean_recent(data)
+        currentStatus = "Recently played"
+
+    if not item:
+        if "item" in data:
+            item = data["item"]
+        elif "items" in data and data["items"]:
+            item = data["items"][0].get("track") or data["items"][0]
+            currentStatus = "Recently played"
+        else:
+            raise Exception("No track data available.")
+
+    images = item.get("album", {}).get("images", [])
+    if images:
+        image_url = images[1]["url"] if len(images) > 1 else images[0]["url"]
+        image = loadImageB64(image_url)
     else:
-        item = data["item"]
-        currentStatus = "Vibing to:"
-
-    if item["album"]["images"] == []:
         image = PLACEHOLDER_IMAGE
-    else:
-        image = loadImageB64(item["album"]["images"][1]["url"])
 
-    artistName = item["artists"][0]["name"].replace("&", "&amp;")
-    songName = item["name"].replace("&", "&amp;")
-    songURI = item["external_urls"]["spotify"]
-    artistURI = item["artists"][0]["external_urls"]["spotify"]
+    artists = item.get("artists", [{}])
+    artist = artists[0] if artists else {}
+    artistName = html.escape(artist.get("name", "Unknown Artist"))
+    songName = html.escape(item.get("name", "Unknown Track"))
+    songURI = item.get("external_urls", {}).get("spotify", "")
+    artistURI = artist.get("external_urls", {}).get("spotify", "")
 
     dataDict = {
-        "contentBar": contentBar,
-        "barCSS": barCSS,
         "artistName": artistName,
         "songName": songName,
         "songURI": songURI,
         "artistURI": artistURI,
         "image": image,
         "status": currentStatus,
+        "contentBar": contentBar,
+        "barCSS": barCSS,
         "background_color": background_color,
         "border_color": border_color
     }
@@ -153,20 +296,102 @@ def makeSVG(data, background_color, border_color):
 @app.route("/<path:path>")
 @app.route('/with_parameters')
 def catch_all(path):
-    background_color = request.args.get('background_color') or "181414"
-    border_color = request.args.get('border_color') or "181414"
+    background_color = validate_hex_color(
+        request.args.get("background_color"), DEFAULT_BACKGROUND_COLOR
+    )
+    border_color = validate_hex_color(
+        request.args.get("border_color"), DEFAULT_BORDER_COLOR
+    )
+    speed = clamp_float(request.args.get("speed"), 1.0, 0.4, 2.5)
+    gradient_speed = clamp_float(request.args.get("grad"), 1.0, 0.0, 2.5)
+
+    if not is_spotify_configured():
+        svg = render_placeholder_svg(
+            background_color,
+            border_color,
+            "Spotify offline",
+            "Credentials not configured",
+            "Set SPOTIFY_* env vars",
+            speed,
+            gradient_speed,
+        )
+        resp = Response(svg, mimetype="image/svg+xml")
+        resp.headers["Cache-Control"] = "s-maxage=300"
+        return resp
 
     try:
         data = get(NOW_PLAYING_URL)
     except Exception:
-        data = get(RECENTLY_PLAYING_URL)
+        try:
+            data = get(RECENTLY_PLAYING_URL)
+        except Exception:
+            data = None
 
-    svg = makeSVG(data, background_color, border_color)
+    try:
+        svg = makeSVG(data, background_color, border_color, speed, gradient_speed)
+    except Exception:
+        svg = render_placeholder_svg(
+            background_color,
+            border_color,
+            "Spotify unavailable",
+            "Playback data unavailable",
+            "Try again later",
+            speed,
+            gradient_speed,
+        )
 
     resp = Response(svg, mimetype="image/svg+xml")
     resp.headers["Cache-Control"] = "s-maxage=1"
 
     return resp
+
+
+def validate_hex_color(color, default):
+    if color and HEX_COLOR_PATTERN.match(color):
+        return color.lower()
+    return default
+
+
+def barGen(barCount, speed, gradient_speed):
+    barCSS = ""
+    left = 1
+    gradient_enabled = gradient_speed > 0
+    gradient_duration = 15.0 / gradient_speed if gradient_speed > 0 else 0.0
+    for i in range(1, barCount + 1):
+        anim = max(120, int(random.randint(500, 1000) / speed)) if speed > 0 else random.randint(500, 1000)
+        x1 = random.random()
+        y1 = random.random() * 2
+        x2 = random.random()
+        y2 = random.random() * 2
+        if gradient_enabled:
+            barCSS += (
+                ".bar:nth-child({})  {{ left: {}px; animation: gradient {:.2f}s ease infinite, sound {}ms -800ms cubic-bezier({},{},{},{}) infinite alternate; }}".format(
+                    i, left, gradient_duration, anim, x1, y1, x2, y2
+                )
+            )
+        else:
+            barCSS += (
+                ".bar:nth-child({})  {{ left: {}px; animation: sound {}ms -800ms cubic-bezier({},{},{},{}) infinite alternate; }}".format(
+                    i, left, anim, x1, y1, x2, y2
+                )
+            )
+        left += 4
+    return barCSS
+
+
+def build_bars(speed, gradient_speed):
+    barCount = 84
+    contentBar = "".join(["<div class='bar'></div>" for _ in range(barCount)])
+    barCSS = barGen(barCount, speed, gradient_speed)
+    return contentBar, barCSS
+
+
+def clamp_float(value, default, minimum, maximum):
+    try:
+        parsed = float(value)
+    except (TypeError, ValueError):
+        return default
+    return max(minimum, min(parsed, maximum))
 
 
 if __name__ == "__main__":

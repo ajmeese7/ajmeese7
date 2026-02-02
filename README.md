@@ -1,35 +1,39 @@
-[![Aaron Meese!](https://user-images.githubusercontent.com/17814535/88975338-a2aabf00-d27f-11ea-963f-8a19608716b4.png)](https://github.com/ajmeese7/readme-ascii "README ASCII")
+<p align="center">
+  <picture>
+    <img src="assets/hero.svg" alt="Aaron Meese" width="100%" />
+  </picture>
+</p>
 
-<!-- Modified from project here: https://github.com/novatorem/novatorem -->
-<table width="100%">
-  <tr>
-  <td width="50%">
+<p align="center">
+  <picture>
+    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/divider?stroke=2a2a2a&accent=f5f5f5&duration=6" alt="Animated divider" width="100%" />
+  </picture>
+</p>
 
-&nbsp; <br> [![Spotify](https://ajmeese7.vercel.app/api/spotify)](https://open.spotify.com/user/ajmeese)
+<p align="center">
+  <a href="https://link.aaronmeese.com/linkedin">LinkedIn</a> ·
+  <a href="https://link.aaronmeese.com/medium">Blog</a> ·
+  <a href="mailto:aaron@meese.dev">Email</a>
+</p>
 
-  </td>
-  <td width="50%">
-    <p align="center">
-      Product Owner, US Cyber Games athlete,<br />
-      and cyber threat analyst.
-    </p>
-    <p align="center">
-      <a href="https://wakatime.com/@f726891d-3b02-46cd-9b60-e8c59f9e2b14">
-        <img src="https://wakatime.com/badge/user/f726891d-3b02-46cd-9b60-e8c59f9e2b14.svg" alt="Total time coded since Aug 4 2020" title="WakaTime" />
-      </a>
-      <a href="http://link.aaronmeese.com/discord">
-        <img src="https://img.shields.io/badge/discord-ajmeese7-369?style=flat-square&logo=discord&logoColor=white&color=purple" alt="Discord" title="Discord">
-      </a>
-      <br />
-      <a href="https://link.aaronmeese.com/medium">
-        <img src="https://img.shields.io/badge/medium-ajmeese7-1DB954?style=flat-square&logo=medium&logoColor=white" alt="Medium" title="Medium">
-      </a>
-      <a href="https://link.aaronmeese.com/linkedin">
-        <img src="https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
-      </a>
-    </p>
-  </td>
+<p align="center">
+  <a href="https://open.spotify.com/user/ajmeese">
+    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/spotify?background_color=0b0b0b&border_color=2a2a2a&speed=0.7&grad=0.1" alt="Spotify Now Playing" width="600" />
+  </a>
+</p>
 
-</table>
+**Now**<br>
+Building security-forward platforms and tooling that remove operational friction.
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+**Stack**<br>
+Docker · Kubernetes · Node.js · Python · Go · Rust
+
+**Reading**<br>
+<!-- READING-LOG:START -->
+- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
+- [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
+- [A compass is not a map](https://longform.asmartbear.com/compass/)
+- [Bypassing Windows Administrator Protection](https://projectzero.google/2026/26/windows-administrator-protection.html)
+- [Securely indexing large codebases](https://cursor.com/blog/secure-codebase-indexing)
+<!-- READING-LOG:END -->
+<a href="https://reading.aaronmeese.com" target="_blank">More →</a>

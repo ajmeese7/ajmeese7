@@ -82,8 +82,16 @@ You can customize the appearance of your `Card` however you wish with URL params
 - `background_color` - Card's background color _(hex color)_ without `#`
 - `border_color` - Card border color _(hex color)_ without `#`
 
+### Animation Options:
+
+- `speed` - EQ bar speed. Higher = faster. Default: `1.0` (min `0.4`, max `2.5`).
+- `grad` - Gradient sweep speed. Higher = faster. Default: `1.0` (normal speed). Use `0` to freeze.
+
 Use `/?background_color=8b0000&border_color=ffffff` parameter like so:
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
+
+Example with animation controls:
+&nbsp; <br> `https://YOUR_DOMAIN.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&speed=0.7&grad=0`
 
 ## Spotify Logo
 
