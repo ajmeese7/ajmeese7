@@ -52,9 +52,14 @@ PROFANITY_WORD_PATTERN = (
     if PROFANITY_WORDS
     else None
 )
-PROFANITY_REGEX_PATTERN = (
-    re.compile(PROFANITY_REGEX, re.IGNORECASE) if PROFANITY_REGEX else None
-)
+if PROFANITY_REGEX:
+    try:
+        PROFANITY_REGEX_PATTERN = re.compile(PROFANITY_REGEX, re.IGNORECASE)
+    except re.error as exc:
+        print(f"Invalid SPOTIFY_PROFANITY_REGEX: {exc}")
+        PROFANITY_REGEX_PATTERN = None
+else:
+    PROFANITY_REGEX_PATTERN = None
 
 FALLBACK_THEME = "spotify.html.j2"
 
@@ -161,13 +166,30 @@ def get(url, retry_on_auth_error=True):
     return response.json()
 
 
-def getTemplate():
+_TEMPLATES_CACHE = None
+
+
+def load_templates():
+    global _TEMPLATES_CACHE
+    if _TEMPLATES_CACHE is not None:
+        return _TEMPLATES_CACHE
     try:
-        file = open("api/templates.json", "r")
-        templates = json.loads(file.read())
-        return templates["templates"][templates["current-theme"]]
+        with open("api/templates.json", "r", encoding="utf-8") as file:
+            _TEMPLATES_CACHE = json.loads(file.read())
+        return _TEMPLATES_CACHE
     except Exception as e:
         print(f"Failed to load templates.\r\n```{e}```")
+        return None
+
+
+def getTemplate():
+    templates = load_templates()
+    if not templates:
+        return FALLBACK_THEME
+    try:
+        return templates["templates"][templates["current-theme"]]
+    except Exception as e:
+        print(f"Failed to resolve template.\r\n```{e}```")
         return FALLBACK_THEME
 
 

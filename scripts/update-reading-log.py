@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import os
-import sys
 from urllib.request import Request, urlopen
 
 README_PATH = "README.md"
@@ -33,7 +32,11 @@ def main() -> int:
         print("READING_LOG_MARKDOWN_URL is not set. Skipping update.")
         return 0
 
-    markdown = fetch_markdown(url)
+    try:
+        markdown = fetch_markdown(url)
+    except Exception as exc:
+        print(f"Failed to fetch reading log: {exc}")
+        return 0
     if not markdown:
         markdown = "- _No items yet._"
 
