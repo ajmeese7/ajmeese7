@@ -26,6 +26,10 @@ Docker · Kubernetes · Go · Rust · Python · Node.js · MongoDB · QuestDB ·
 
 **Reading**<br>
 <!-- READING-LOG:START -->
-- _Fetching latest reading log..._
+- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
+- [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
+- [A compass is not a map](https://longform.asmartbear.com/compass/)
+- [Bypassing Windows Administrator Protection](https://projectzero.google/2026/26/windows-administrator-protection.html)
+- [Securely indexing large codebases](https://cursor.com/blog/secure-codebase-indexing)
 <!-- READING-LOG:END -->
 <a href="https://read.aaronmeese.com">More →</a>
