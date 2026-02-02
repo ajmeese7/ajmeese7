@@ -22,3 +22,10 @@ It runs daily and on manual trigger. When the secret is set, it:
 export READING_LOG_MARKDOWN_URL="https://YOUR_WORKER_URL/reading/markdown?limit=5"
 python scripts/update-reading-log.py
 ```
+
+Example:
+
+```bash
+export READING_LOG_MARKDOWN_URL="https://reading.aaronmeese.com/reading/markdown?limit=5"
+python scripts/update-reading-log.py
+```

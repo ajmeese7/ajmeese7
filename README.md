@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-  <img src="assets/hero.svg" alt="Aaron Meese" width="100%" />
+    <img src="assets/hero.svg" alt="Aaron Meese" width="100%" />
   </picture>
 </p>
 
@@ -36,4 +36,4 @@ Docker · Kubernetes · Go · Rust · Python · Node.js · MongoDB · QuestDB ·
 - [Bypassing Windows Administrator Protection](https://projectzero.google/2026/26/windows-administrator-protection.html)
 - [Securely indexing large codebases](https://cursor.com/blog/secure-codebase-indexing)
 <!-- READING-LOG:END -->
-<a href="https://read.aaronmeese.com/reading/rss">More →</a>
+<a href="https://reading.aaronmeese.com">More →</a>
