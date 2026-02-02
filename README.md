@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://link.aaronmeese.com/linkedin">LinkedIn</a> ·
   <a href="https://link.aaronmeese.com/medium">Blog</a> ·
-  <a href="https://open.spotify.com/user/ajmeese">Spotify</a>
+  <a href="mailto:aaron@meese.dev">Email</a>
 </p>
 
 <p align="center">

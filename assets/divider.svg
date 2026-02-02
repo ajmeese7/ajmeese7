@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-labelledby="title desc">
+  <title id="title">Divider</title>
+  <desc id="desc">Animated divider line</desc>
+  <style>
+    .line { stroke: #2a2a2a; stroke-width: 2; stroke-linecap: round; }
+    .pulse {
+      stroke-dasharray: 40 1160;
+      animation: sweep 6s ease-in-out infinite;
+    }
+    @keyframes sweep {
+      0% { stroke-dashoffset: 0; opacity: 0.35; }
+      50% { stroke-dashoffset: -600; opacity: 0.8; }
+      100% { stroke-dashoffset: -1200; opacity: 0.35; }
+    }
+  </style>
+  <line class="line" x1="20" y1="18" x2="1180" y2="18" />
+  <line class="line pulse" x1="20" y1="18" x2="1180" y2="18" />
+</svg>
