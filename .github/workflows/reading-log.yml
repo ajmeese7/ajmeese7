@@ -2,6 +2,9 @@ name: Update Reading Log
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - modernization
   schedule:
     - cron: "0 10 * * *"
 
