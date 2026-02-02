@@ -1,4 +1,9 @@
- {
+{
+  "functions": {
+    "api/*.py": {
+      "runtime": "python3.11"
+    }
+  },
   "redirects": [
     {
       "source": "/",
