@@ -1,9 +1,13 @@
 <p align="center">
+  <picture>
   <img src="assets/hero.svg" alt="Aaron Meese" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/divider?stroke=2a2a2a&accent=f5f5f5&duration=6" alt="Animated divider" width="100%" />
+  <picture>
+    <img src="https://ajmeese7-git-modernization-aaron-meeses-projects.vercel.app/api/divider?stroke=2a2a2a&accent=f5f5f5&duration=6" alt="Animated divider" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
