@@ -76,6 +76,24 @@ def getAuth():
     )
 
 
+def is_spotify_configured():
+    return bool(SPOTIFY_CLIENT_ID and SPOTIFY_SECRET_ID and SPOTIFY_REFRESH_TOKEN)
+
+
+def render_placeholder_svg(background_color, border_color, status, song, artist):
+    dataDict = {
+        "artistName": html.escape(artist),
+        "songName": html.escape(song),
+        "songURI": "https://open.spotify.com",
+        "artistURI": "https://open.spotify.com",
+        "image": PLACEHOLDER_IMAGE,
+        "status": status,
+        "background_color": background_color,
+        "border_color": border_color,
+    }
+    return render_template(getTemplate(), **dataDict)
+
+
 class SpotifyTokenManager:
     def __init__(self) -> None:
         self._token = None
@@ -256,12 +274,36 @@ def catch_all(path):
         request.args.get("border_color"), DEFAULT_BORDER_COLOR
     )
 
+    if not is_spotify_configured():
+        svg = render_placeholder_svg(
+            background_color,
+            border_color,
+            "Spotify offline",
+            "Credentials not configured",
+            "Set SPOTIFY_* env vars",
+        )
+        resp = Response(svg, mimetype="image/svg+xml")
+        resp.headers["Cache-Control"] = "s-maxage=300"
+        return resp
+
     try:
         data = get(NOW_PLAYING_URL)
     except Exception:
-        data = get(RECENTLY_PLAYING_URL)
+        try:
+            data = get(RECENTLY_PLAYING_URL)
+        except Exception:
+            data = None
 
-    svg = makeSVG(data, background_color, border_color)
+    try:
+        svg = makeSVG(data, background_color, border_color)
+    except Exception:
+        svg = render_placeholder_svg(
+            background_color,
+            border_color,
+            "Spotify unavailable",
+            "Playback data unavailable",
+            "Try again later",
+        )
 
     resp = Response(svg, mimetype="image/svg+xml")
     resp.headers["Cache-Control"] = "s-maxage=1"
