@@ -81,8 +81,8 @@ def is_spotify_configured():
     return bool(SPOTIFY_CLIENT_ID and SPOTIFY_SECRET_ID and SPOTIFY_REFRESH_TOKEN)
 
 
-def render_placeholder_svg(background_color, border_color, status, song, artist, speed):
-    contentBar, barCSS = build_bars(speed)
+def render_placeholder_svg(background_color, border_color, status, song, artist, speed, gradient_speed):
+    contentBar, barCSS = build_bars(speed, gradient_speed)
     dataDict = {
         "artistName": html.escape(artist),
         "songName": html.escape(song),
@@ -214,8 +214,8 @@ def pick_clean_recent(recent_data):
     return None
 
 
-def makeSVG(data, background_color, border_color, speed):
-    contentBar, barCSS = build_bars(speed)
+def makeSVG(data, background_color, border_color, speed, gradient_speed):
+    contentBar, barCSS = build_bars(speed, gradient_speed)
     item = None
     currentStatus = "Now playing"
 
@@ -281,6 +281,7 @@ def catch_all(path):
         request.args.get("border_color"), DEFAULT_BORDER_COLOR
     )
     speed = clamp_float(request.args.get("speed"), 1.0, 0.4, 2.5)
+    gradient_speed = clamp_float(request.args.get("grad"), 1.0, 0.0, 2.5)
 
     if not is_spotify_configured():
         svg = render_placeholder_svg(
@@ -290,6 +291,7 @@ def catch_all(path):
             "Credentials not configured",
             "Set SPOTIFY_* env vars",
             speed,
+            gradient_speed,
         )
         resp = Response(svg, mimetype="image/svg+xml")
         resp.headers["Cache-Control"] = "s-maxage=300"
@@ -304,7 +306,7 @@ def catch_all(path):
             data = None
 
     try:
-        svg = makeSVG(data, background_color, border_color, speed)
+        svg = makeSVG(data, background_color, border_color, speed, gradient_speed)
     except Exception:
         svg = render_placeholder_svg(
             background_color,
@@ -313,6 +315,7 @@ def catch_all(path):
             "Playback data unavailable",
             "Try again later",
             speed,
+            gradient_speed,
         )
 
     resp = Response(svg, mimetype="image/svg+xml")
@@ -327,29 +330,37 @@ def validate_hex_color(color, default):
     return default
 
 
-def barGen(barCount, speed):
+def barGen(barCount, speed, gradient_speed):
     barCSS = ""
     left = 1
-    gradient_duration = 15.0 / speed if speed > 0 else 15.0
+    gradient_enabled = gradient_speed > 0
+    gradient_duration = 15.0 / gradient_speed if gradient_speed > 0 else 0.0
     for i in range(1, barCount + 1):
         anim = max(120, int(random.randint(500, 1000) / speed)) if speed > 0 else random.randint(500, 1000)
         x1 = random.random()
         y1 = random.random() * 2
         x2 = random.random()
         y2 = random.random() * 2
-        barCSS += (
-            ".bar:nth-child({})  {{ left: {}px; animation-duration: {:.2f}s, {}ms; animation-timing-function: ease, cubic-bezier({},{},{},{}); }}".format(
-                i, left, gradient_duration, anim, x1, y1, x2, y2
+        if gradient_enabled:
+            barCSS += (
+                ".bar:nth-child({})  {{ left: {}px; animation: gradient {:.2f}s ease infinite, sound {}ms -800ms cubic-bezier({},{},{},{}) infinite alternate; }}".format(
+                    i, left, gradient_duration, anim, x1, y1, x2, y2
+                )
             )
-        )
+        else:
+            barCSS += (
+                ".bar:nth-child({})  {{ left: {}px; animation: sound {}ms -800ms cubic-bezier({},{},{},{}) infinite alternate; }}".format(
+                    i, left, anim, x1, y1, x2, y2
+                )
+            )
         left += 4
     return barCSS
 
 
-def build_bars(speed):
+def build_bars(speed, gradient_speed):
     barCount = 84
     contentBar = "".join(["<div class='bar'></div>" for _ in range(barCount)])
-    barCSS = barGen(barCount, speed)
+    barCSS = barGen(barCount, speed, gradient_speed)
     return contentBar, barCSS
 
 
