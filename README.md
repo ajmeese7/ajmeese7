@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
+- [How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/)
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
 - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
 - [A compass is not a map](https://longform.asmartbear.com/compass/)
-- [Bypassing Windows Administrator Protection](https://projectzero.google/2026/26/windows-administrator-protection.html)
-- [Securely indexing large codebases](https://cursor.com/blog/secure-codebase-indexing)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
