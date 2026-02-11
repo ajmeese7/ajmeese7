@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [\[APT Threat Landscape in APAC 2025: Industrialization of Intrusions](https://teamt5.org/en/posts/apt-threat-landscape-in-apac-2025-industrialization-of-intrusions/)
+- [The Anthropic Hive Mind](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b)
 - [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/)
 - [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
 - [What the OpenClaw moment means for enterprises: 5 big takeaways](https://venturebeat.com/technology/what-the-openclaw-moment-means-for-enterprises-5-big-takeaways)
-- [Welcome to the Room](https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/)
-- [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
