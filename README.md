@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [OpenClaw, OpenAI and the future](https://steipete.me/posts/2026/openclaw)
+- [A Random Walk](https://writing.nikunjk.com/p/a-random-walk)
 - [\[APT Threat Landscape in APAC 2025: Industrialization of Intrusions](https://teamt5.org/en/posts/apt-threat-landscape-in-apac-2025-industrialization-of-intrusions/)
 - [The Anthropic Hive Mind](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b)
 - [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/)
-- [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
-- [What the OpenClaw moment means for enterprises: 5 big takeaways](https://venturebeat.com/technology/what-the-openclaw-moment-means-for-enterprises-5-big-takeaways)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
