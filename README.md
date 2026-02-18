@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Minions: Stripe's one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
+- [tiny corp's product – a training box](https://geohot.github.io//blog/jekyll/update/2026/02/15/tiny-corp-product.html)
+- [Introducing Upright: An Open Source Synthetic Monitoring System](https://dev.37signals.com/introducing-upright/)
 - [A Guide to Claude Code 2.0 and getting better at using coding agents](https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/)
 - [OpenClaw, OpenAI and the future](https://steipete.me/posts/2026/openclaw)
-- [A Random Walk](https://writing.nikunjk.com/p/a-random-walk)
-- [\[APT Threat Landscape in APAC 2025: Industrialization of Intrusions](https://teamt5.org/en/posts/apt-threat-landscape-in-apac-2025-industrialization-of-intrusions/)
-- [The Anthropic Hive Mind](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
