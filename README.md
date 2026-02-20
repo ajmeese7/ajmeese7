@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Agents need Authorization, not just Authentication](https://workos.com/blog/agents-need-authorization-not-just-authentication)
 - [Worlds: A Simulation Engine for Agentic Pentesting](https://dreadnode.io/blog/worlds-a-simulation-engine-for-agentic-pentesting)
 - [We are in the "gentleman scientist" era of AI research](https://www.seangoedecke.com/ai-and-informal-science/)
 - [Minions: Stripe's one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
 - [tiny corp's product – a training box](https://geohot.github.io//blog/jekyll/update/2026/02/15/tiny-corp-product.html)
-- [Introducing Upright: An Open Source Synthetic Monitoring System](https://dev.37signals.com/introducing-upright/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
