@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
+- [To Curb Microplastics, Consumers and Companies Seek More Durable Solutions](https://www.wsj.com/articles/to-curb-microplastics-consumers-and-companies-seek-more-durable-solutions-7192fa7d)
+- [Selling AI Software Isn't as Easy as It Used to Be](https://www.wsj.com/articles/selling-ai-software-isnt-as-easy-as-it-used-to-be-4933e401)
 - [Agents need Authorization, not just Authentication](https://workos.com/blog/agents-need-authorization-not-just-authentication)
 - [Worlds: A Simulation Engine for Agentic Pentesting](https://dreadnode.io/blog/worlds-a-simulation-engine-for-agentic-pentesting)
-- [We are in the "gentleman scientist" era of AI research](https://www.seangoedecke.com/ai-and-informal-science/)
-- [Minions: Stripe's one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
-- [tiny corp's product – a training box](https://geohot.github.io//blog/jekyll/update/2026/02/15/tiny-corp-product.html)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
