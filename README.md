@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype)
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 - [The Self-Improving AI System That Built Itself](https://x.com/agent_wrapper/status/2025986105485733945)
 - [I Built a Spy Satellite Simulator in a Browser. Here's What I Learned.](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)
 - [The 2028 Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic)
-- [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
-- [To Curb Microplastics, Consumers and Companies Seek More Durable Solutions](https://www.wsj.com/articles/to-curb-microplastics-consumers-and-companies-seek-more-durable-solutions-7192fa7d)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
