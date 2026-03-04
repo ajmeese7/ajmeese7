@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [The 2-Minute Claude Code Upgrade You're Probably Missing: LSP](https://karanbansal.in/blog/claude-code-lsp/)
+- [The Abundance Boom: A Memo from 2030](https://danieljeffries.substack.com/p/the-abundance-boom-a-memo-from-2030)
 - [Caught in the Hook: RCE and API Token Exfiltration Through Claude Code Project Files](https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/)
 - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 - [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype)
-- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/)
-- [The Self-Improving AI System That Built Itself](https://x.com/agent_wrapper/status/2025986105485733945)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
