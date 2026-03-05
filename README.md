@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/)
+- [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
+- [Code Metal Raises $125 Million to Rewrite the Defense Industry's Code With AI](https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/)
+- [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/)
 - [The 2-Minute Claude Code Upgrade You're Probably Missing: LSP](https://karanbansal.in/blog/claude-code-lsp/)
-- [The Abundance Boom: A Memo from 2030](https://danieljeffries.substack.com/p/the-abundance-boom-a-memo-from-2030)
-- [Caught in the Hook: RCE and API Token Exfiltration Through Claude Code Project Files](https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/)
-- [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
-- [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
