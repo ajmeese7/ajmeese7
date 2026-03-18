@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [How Uber uses AI for development: inside look](https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development)
 - [Software development now costs less than the wage of a minimum wage worker](https://ghuntley.com/real/)
 - [Details That Make Interfaces Feel Better](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
 - [Willingness-to-pay: Creating permanent competitive advantage for the right reasons](https://longform.asmartbear.com/willingness-to-pay/)
 - [Your LLM Doesn't Write Correct Code. It Writes Plausible Code.](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
-- [How to Kill the Code Review](https://www.latent.space/p/reviews-dead)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
