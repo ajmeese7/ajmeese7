@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- ["I started to lose my ability to code": Developers grapple with the real cost of…](https://thenewstack.io/ai-coding-tools-reckoning/)
 - [Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351)
 - [Post-Commit Reviews](https://copyconstruct.medium.com/post-commit-reviews-b4cc2163ac7a)
 - [The Shorthand Guide to Everything Agentic Security](https://x.com/affaanmustafa/status/2033263813387223421)
 - [Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
-- [Latency: A Primer](https://igor.io/latency/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
