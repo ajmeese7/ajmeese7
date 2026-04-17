@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Compressing Earth Embeddings, pt. 3 – DeltaBit](https://geospatialml.com/posts/change-detection/)
+- [AI Is Bound to Subvert Communism](https://www.wsj.com/opinion/ai-is-bound-to-subvert-communism-c4b5ba3c)
 - [CEOs Should Tell It Like It Is](https://a16z.com/ceos-should-tell-it-like-it-is/)
 - [Do you have to love what you do?](https://signalvnoise.com/posts/3843-do-you-have-to-love-what-you-do)
 - [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)
-- ["I started to lose my ability to code": Developers grapple with the real cost of…](https://thenewstack.io/ai-coding-tools-reckoning/)
-- [Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
