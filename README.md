@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [This Frankenstein AI Merges Claude Opus, GLM and Qwen—And Outperforms Top Models](https://decrypt.co/365033/frankenstein-ai-claude-opus-glm-qwen-free)
 - [Compressing Earth Embeddings, pt. 3 – DeltaBit](https://geospatialml.com/posts/change-detection/)
 - [AI Is Bound to Subvert Communism](https://www.wsj.com/opinion/ai-is-bound-to-subvert-communism-c4b5ba3c)
 - [CEOs Should Tell It Like It Is](https://a16z.com/ceos-should-tell-it-like-it-is/)
 - [Do you have to love what you do?](https://signalvnoise.com/posts/3843-do-you-have-to-love-what-you-do)
-- [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
