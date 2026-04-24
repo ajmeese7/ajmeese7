@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+- [Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/)
 - [This Frankenstein AI Merges Claude Opus, GLM and Qwen—And Outperforms Top Models](https://decrypt.co/365033/frankenstein-ai-claude-opus-glm-qwen-free)
 - [Compressing Earth Embeddings, pt. 3 – DeltaBit](https://geospatialml.com/posts/change-detection/)
 - [AI Is Bound to Subvert Communism](https://www.wsj.com/opinion/ai-is-bound-to-subvert-communism-c4b5ba3c)
-- [CEOs Should Tell It Like It Is](https://a16z.com/ceos-should-tell-it-like-it-is/)
-- [Do you have to love what you do?](https://signalvnoise.com/posts/3843-do-you-have-to-love-what-you-do)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
