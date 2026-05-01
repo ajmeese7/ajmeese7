@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Inside Palantir's Maven Smart System](https://www.spatialintelligence.ai/p/inside-palantirs-maven-smart-system)
 - [Toward More Efficient and Useful LLM Agents](https://kangwooklee.com/talks/2026_03_BLISS/bliss_seminar.html)
 - [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
 - [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
 - [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
-- [Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
