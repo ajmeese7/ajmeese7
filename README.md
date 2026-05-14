@@ -30,10 +30,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Despite the War, Energy Stocks Are Cheap](https://www.wsj.com/finance/stocks/despite-the-war-energy-stocks-are-cheap-20477bc2)
+- [Data Centers in Space: A Pipe Dream, or AI’s Next Big Thing?](https://www.wsj.com/tech/ai/data-centers-in-space-a-pipe-dream-or-ais-next-big-thing-c13bb184)
 - [Inside Palantir's Maven Smart System](https://www.spatialintelligence.ai/p/inside-palantirs-maven-smart-system)
 - [Toward More Efficient and Useful LLM Agents](https://kangwooklee.com/talks/2026_03_BLISS/bliss_seminar.html)
 - [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
-- [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
-- [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
