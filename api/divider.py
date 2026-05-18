@@ -5,10 +5,14 @@ from flask import Flask, Response, request
 
 DEFAULT_WIDTH = 1200
 DEFAULT_HEIGHT = 36
-DEFAULT_STROKE = "2a2a2a"
-DEFAULT_ACCENT = "f5f5f5"
 DEFAULT_DURATION = 6.0
 DEFAULT_THICKNESS = 2
+
+THEMES = {
+    "dark": {"stroke": "2a2a2a", "accent": "f5f5f5"},
+    "light": {"stroke": "d0d0d0", "accent": "0b0b0b"},
+}
+DEFAULT_THEME = "dark"
 
 HEX_COLOR_PATTERN = re.compile(r"^[0-9a-fA-F]{6}$")
 
@@ -68,11 +72,12 @@ def build_divider_svg(width, height, stroke_color, accent_color, duration, thick
 @app.route("/", defaults={"path": ""})
 @app.route("/<path:path>")
 def catch_all(path):
+    theme = THEMES.get(request.args.get("theme", "").lower(), THEMES[DEFAULT_THEME])
     width = clamp_int(request.args.get("width"), DEFAULT_WIDTH, 400, 2000)
     height = clamp_int(request.args.get("height"), DEFAULT_HEIGHT, 16, 120)
     thickness = clamp_int(request.args.get("thickness"), DEFAULT_THICKNESS, 1, 6)
-    stroke_color = validate_hex_color(request.args.get("stroke"), DEFAULT_STROKE)
-    accent_color = validate_hex_color(request.args.get("accent"), DEFAULT_ACCENT)
+    stroke_color = validate_hex_color(request.args.get("stroke"), theme["stroke"])
+    accent_color = validate_hex_color(request.args.get("accent"), theme["accent"])
     duration = clamp_float(request.args.get("duration"), DEFAULT_DURATION, 2.0, 12.0)
 
     svg = build_divider_svg(width, height, stroke_color, accent_color, duration, thickness)

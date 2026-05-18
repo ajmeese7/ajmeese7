@@ -61,15 +61,35 @@ if PROFANITY_REGEX:
 else:
     PROFANITY_REGEX_PATTERN = None
 
-FALLBACK_THEME = "spotify.html.j2"
+SPOTIFY_TEMPLATE = "spotify.html.j2"
 
 REFRESH_TOKEN_URL = "https://accounts.spotify.com/api/token"
 NOW_PLAYING_URL = "https://api.spotify.com/v1/me/player/currently-playing"
 RECENTLY_PLAYING_URL = (
     "https://api.spotify.com/v1/me/player/recently-played?limit=10"
 )
-DEFAULT_BACKGROUND_COLOR = "0b0b0b"
-DEFAULT_BORDER_COLOR = "2a2a2a"
+
+THEMES = {
+    "dark": {
+        "background_color": "0b0b0b",
+        "border_color": "2a2a2a",
+        "text_primary": "f5f5f5",
+        "text_secondary": "c9c9c9",
+        "status_color": "9aa0a6",
+        "bar_low": "2a2a2a",
+        "bar_high": "f5f5f5",
+    },
+    "light": {
+        "background_color": "ffffff",
+        "border_color": "d0d0d0",
+        "text_primary": "0b0b0b",
+        "text_secondary": "404040",
+        "status_color": "6a737d",
+        "bar_low": "d0d0d0",
+        "bar_high": "0b0b0b",
+    },
+}
+DEFAULT_THEME = "dark"
 
 HEX_COLOR_PATTERN = re.compile(r"^[0-9a-fA-F]{6}$")
 
@@ -86,7 +106,7 @@ def is_spotify_configured():
     return bool(SPOTIFY_CLIENT_ID and SPOTIFY_SECRET_ID and SPOTIFY_REFRESH_TOKEN)
 
 
-def render_placeholder_svg(background_color, border_color, status, song, artist, speed, gradient_speed):
+def render_placeholder_svg(colors, status, song, artist, speed, gradient_speed):
     contentBar, barCSS = build_bars(speed, gradient_speed)
     dataDict = {
         "artistName": html.escape(artist),
@@ -97,10 +117,9 @@ def render_placeholder_svg(background_color, border_color, status, song, artist,
         "status": status,
         "contentBar": contentBar,
         "barCSS": barCSS,
-        "background_color": background_color,
-        "border_color": border_color,
+        **colors,
     }
-    return render_template(getTemplate(), **dataDict)
+    return render_template(SPOTIFY_TEMPLATE, **dataDict)
 
 
 class SpotifyTokenManager:
@@ -166,33 +185,6 @@ def get(url, retry_on_auth_error=True):
     return response.json()
 
 
-_TEMPLATES_CACHE = None
-
-
-def load_templates():
-    global _TEMPLATES_CACHE
-    if _TEMPLATES_CACHE is not None:
-        return _TEMPLATES_CACHE
-    try:
-        with open("api/templates.json", "r", encoding="utf-8") as file:
-            _TEMPLATES_CACHE = json.loads(file.read())
-        return _TEMPLATES_CACHE
-    except Exception as e:
-        print(f"Failed to load templates.\r\n```{e}```")
-        return None
-
-
-def getTemplate():
-    templates = load_templates()
-    if not templates:
-        return FALLBACK_THEME
-    try:
-        return templates["templates"][templates["current-theme"]]
-    except Exception as e:
-        print(f"Failed to resolve template.\r\n```{e}```")
-        return FALLBACK_THEME
-
-
 def loadImageB64(url):
     try:
         response = requests.get(url, timeout=10)
@@ -236,7 +228,7 @@ def pick_clean_recent(recent_data):
     return None
 
 
-def makeSVG(data, background_color, border_color, speed, gradient_speed):
+def makeSVG(data, colors, speed, gradient_speed):
     contentBar, barCSS = build_bars(speed, gradient_speed)
     item = None
     currentStatus = "Now playing"
@@ -285,30 +277,27 @@ def makeSVG(data, background_color, border_color, speed, gradient_speed):
         "status": currentStatus,
         "contentBar": contentBar,
         "barCSS": barCSS,
-        "background_color": background_color,
-        "border_color": border_color
+        **colors,
     }
 
-    return render_template(getTemplate(), **dataDict)
+    return render_template(SPOTIFY_TEMPLATE, **dataDict)
 
 
 @app.route("/", defaults={"path": ""})
 @app.route("/<path:path>")
 @app.route('/with_parameters')
 def catch_all(path):
-    background_color = validate_hex_color(
-        request.args.get("background_color"), DEFAULT_BACKGROUND_COLOR
-    )
-    border_color = validate_hex_color(
-        request.args.get("border_color"), DEFAULT_BORDER_COLOR
-    )
+    theme = THEMES.get(request.args.get("theme", "").lower(), THEMES[DEFAULT_THEME])
+    colors = {
+        key: validate_hex_color(request.args.get(key), default)
+        for key, default in theme.items()
+    }
     speed = clamp_float(request.args.get("speed"), 1.0, 0.4, 2.5)
     gradient_speed = clamp_float(request.args.get("grad"), 1.0, 0.0, 2.5)
 
     if not is_spotify_configured():
         svg = render_placeholder_svg(
-            background_color,
-            border_color,
+            colors,
             "Spotify offline",
             "Credentials not configured",
             "Set SPOTIFY_* env vars",
@@ -328,11 +317,10 @@ def catch_all(path):
             data = None
 
     try:
-        svg = makeSVG(data, background_color, border_color, speed, gradient_speed)
+        svg = makeSVG(data, colors, speed, gradient_speed)
     except Exception:
         svg = render_placeholder_svg(
-            background_color,
-            border_color,
+            colors,
             "Spotify unavailable",
             "Playback data unavailable",
             "Try again later",
