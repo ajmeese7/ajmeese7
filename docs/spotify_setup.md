@@ -63,35 +63,42 @@ Have a string saying either "Vibing to:" or "Last seen playing:".
 * Uncomment [**.main**'s `margin-top`](https://github.com/novatorem/novatorem/blob/5194a689253ee4c89a9d365260d6050923d93dd5/api/templates/spotify.html.j2#L10)
 * Uncomment [currentStatus](https://github.com/novatorem/novatorem/blob/5194a689253ee4c89a9d365260d6050923d93dd5/api/templates/spotify.html.j2#L93)
 
-## Theme Templates
+## Theme
 
-If you want to change the widget theme, you can do so by the changing the `current-theme` property in the `templates.json` file.
+Pick a preset bundle of colors via the `theme` param (default: `dark`):
 
-Themes:
-* `light`
-* `dark`
+- `?theme=dark`
+- `?theme=light`
 
-If you wish to customize farther, you can add your own customized `spotify.html.j2` file to the templates folder, and add the theme and file name to the `templates` dictionary in the `templates.json` file.
+Individual color params override the preset, so `?theme=light&background_color=000000` gives the light preset with a black background.
 
 ## Color
 
-You can customize the appearance of your `Card` however you wish with URL params.
+You can customize the appearance of your `Card` however you wish with URL params. All take a hex color _(no `#`)_.
 
-### Common Options:
+### Card:
 
-- `background_color` - Card's background color _(hex color)_ without `#`
-- `border_color` - Card border color _(hex color)_ without `#`
+- `background_color` - Card background
+- `border_color` - Card border
 
-### Animation Options:
+### Text:
+
+- `text_primary` - Song title
+- `text_secondary` - Artist name
+- `status_color` - "Now playing" / "Recently played" label
+
+### EQ Bars:
+
+- `bar_low` - Gradient end-stops (the muted edges of each bar)
+- `bar_high` - Gradient midpoint (the bright pulse)
+
+### Animation:
 
 - `speed` - EQ bar speed. Higher = faster. Default: `1.0` (min `0.4`, max `2.5`).
-- `grad` - Gradient sweep speed. Higher = faster. Default: `1.0` (normal speed). Use `0` to freeze.
+- `grad` - Gradient sweep speed. Higher = faster. Default: `1.0`. Use `0` to freeze.
 
-Use `/?background_color=8b0000&border_color=ffffff` parameter like so:
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
-
-Example with animation controls:
-&nbsp; <br> `https://YOUR_DOMAIN.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&speed=0.7&grad=0`
+Example:
+&nbsp; <br> `https://YOUR_DOMAIN.vercel.app/api/spotify?theme=light&speed=0.7&grad=0.1`
 
 ## Spotify Logo
 

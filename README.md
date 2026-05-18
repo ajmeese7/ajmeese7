@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/divider?stroke=2a2a2a&accent=f5f5f5&duration=6" />
-    <img src="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/divider?stroke=d0d0d0&accent=0b0b0b&duration=6" alt="Animated divider" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/divider?theme=dark&duration=6" />
+    <img src="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/divider?theme=light&duration=6" alt="Animated divider" width="100%" />
   </picture>
 </p>
 
@@ -21,8 +21,8 @@
 <p align="center">
   <a href="https://open.spotify.com/user/ajmeese">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/spotify?background_color=0b0b0b&border_color=2a2a2a&speed=0.7&grad=0.1" />
-      <img src="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/spotify?background_color=ffffff&border_color=d0d0d0&text_primary=0b0b0b&text_secondary=404040&status_color=6a737d&bar_low=d0d0d0&bar_high=0b0b0b&speed=0.7&grad=0.1" alt="Spotify Now Playing" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/spotify?theme=dark&speed=0.7&grad=0.1" />
+      <img src="https://ajmeese7-git-master-aaron-meeses-projects.vercel.app/api/spotify?theme=light&speed=0.7&grad=0.1" alt="Spotify Now Playing" width="600" />
     </picture>
   </a>
 </p>
