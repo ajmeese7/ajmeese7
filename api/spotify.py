@@ -70,6 +70,11 @@ RECENTLY_PLAYING_URL = (
 )
 DEFAULT_BACKGROUND_COLOR = "0b0b0b"
 DEFAULT_BORDER_COLOR = "2a2a2a"
+DEFAULT_TEXT_PRIMARY = "f5f5f5"
+DEFAULT_TEXT_SECONDARY = "c9c9c9"
+DEFAULT_STATUS_COLOR = "9aa0a6"
+DEFAULT_BAR_LOW = "2a2a2a"
+DEFAULT_BAR_HIGH = "f5f5f5"
 
 HEX_COLOR_PATTERN = re.compile(r"^[0-9a-fA-F]{6}$")
 
@@ -86,7 +91,7 @@ def is_spotify_configured():
     return bool(SPOTIFY_CLIENT_ID and SPOTIFY_SECRET_ID and SPOTIFY_REFRESH_TOKEN)
 
 
-def render_placeholder_svg(background_color, border_color, status, song, artist, speed, gradient_speed):
+def render_placeholder_svg(colors, status, song, artist, speed, gradient_speed):
     contentBar, barCSS = build_bars(speed, gradient_speed)
     dataDict = {
         "artistName": html.escape(artist),
@@ -97,8 +102,7 @@ def render_placeholder_svg(background_color, border_color, status, song, artist,
         "status": status,
         "contentBar": contentBar,
         "barCSS": barCSS,
-        "background_color": background_color,
-        "border_color": border_color,
+        **colors,
     }
     return render_template(getTemplate(), **dataDict)
 
@@ -236,7 +240,7 @@ def pick_clean_recent(recent_data):
     return None
 
 
-def makeSVG(data, background_color, border_color, speed, gradient_speed):
+def makeSVG(data, colors, speed, gradient_speed):
     contentBar, barCSS = build_bars(speed, gradient_speed)
     item = None
     currentStatus = "Now playing"
@@ -285,8 +289,7 @@ def makeSVG(data, background_color, border_color, speed, gradient_speed):
         "status": currentStatus,
         "contentBar": contentBar,
         "barCSS": barCSS,
-        "background_color": background_color,
-        "border_color": border_color
+        **colors,
     }
 
     return render_template(getTemplate(), **dataDict)
@@ -296,19 +299,31 @@ def makeSVG(data, background_color, border_color, speed, gradient_speed):
 @app.route("/<path:path>")
 @app.route('/with_parameters')
 def catch_all(path):
-    background_color = validate_hex_color(
-        request.args.get("background_color"), DEFAULT_BACKGROUND_COLOR
-    )
-    border_color = validate_hex_color(
-        request.args.get("border_color"), DEFAULT_BORDER_COLOR
-    )
+    colors = {
+        "background_color": validate_hex_color(
+            request.args.get("background_color"), DEFAULT_BACKGROUND_COLOR
+        ),
+        "border_color": validate_hex_color(
+            request.args.get("border_color"), DEFAULT_BORDER_COLOR
+        ),
+        "text_primary": validate_hex_color(
+            request.args.get("text_primary"), DEFAULT_TEXT_PRIMARY
+        ),
+        "text_secondary": validate_hex_color(
+            request.args.get("text_secondary"), DEFAULT_TEXT_SECONDARY
+        ),
+        "status_color": validate_hex_color(
+            request.args.get("status_color"), DEFAULT_STATUS_COLOR
+        ),
+        "bar_low": validate_hex_color(request.args.get("bar_low"), DEFAULT_BAR_LOW),
+        "bar_high": validate_hex_color(request.args.get("bar_high"), DEFAULT_BAR_HIGH),
+    }
     speed = clamp_float(request.args.get("speed"), 1.0, 0.4, 2.5)
     gradient_speed = clamp_float(request.args.get("grad"), 1.0, 0.0, 2.5)
 
     if not is_spotify_configured():
         svg = render_placeholder_svg(
-            background_color,
-            border_color,
+            colors,
             "Spotify offline",
             "Credentials not configured",
             "Set SPOTIFY_* env vars",
@@ -328,11 +343,10 @@ def catch_all(path):
             data = None
 
     try:
-        svg = makeSVG(data, background_color, border_color, speed, gradient_speed)
+        svg = makeSVG(data, colors, speed, gradient_speed)
     except Exception:
         svg = render_placeholder_svg(
-            background_color,
-            border_color,
+            colors,
             "Spotify unavailable",
             "Playback data unavailable",
             "Try again later",
