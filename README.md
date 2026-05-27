@@ -35,10 +35,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [TurboQuant: Is the Compression and Performance Worth the Hype?](https://www.kdnuggets.com/turboquant-is-the-compression-and-performance-worth-the-hype)
+- [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
+- [Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)
 - [How Claude Code works in large codebases: Best practices and where to start | Claude](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
 - [How to Buy Cheap Claude Tokens in China](https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in)
-- [Xi’s Industrial Policy of Everything](https://www.wsj.com/world/china/beijings-industrial-policy-of-everything-leaves-rest-of-the-world-in-the-dust-8b94a046)
-- [The Messy Courtroom Drama Behind AI’s Next Chapter](https://www.wsj.com/tech/the-messy-courtroom-drama-over-ais-biggest-breakup-6a35ee7d)
-- [Trump and Xi Want to Stabilize U.S.-China Ties. Now Comes the Hard Part.](https://www.wsj.com/world/china/tightly-choreographed-visit-masks-big-differences-between-u-s-and-china-afa01180)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
