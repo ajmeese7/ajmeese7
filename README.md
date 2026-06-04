@@ -35,10 +35,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [The world's largest private laser just fired up in race to make fusion power real](https://www.techspot.com/news/112641-world-largest-private-laser-fired-up-race-make.html)
+- [New 3D silicon chip breakthrough could extend Moore’s Law for years](https://www.sciencedaily.com/releases/2026/05/260530053412.htm)
 - [Trump executive order on AI gives central role to NSA](https://breakingdefense.com/2026/06/trump-executive-order-on-ai-gives-central-role-to-nsa/)
 - [Profitable on day one!](https://longform.asmartbear.com/ramen-profitable/)
 - [How Online Sleuthing Helped Catch the Google Polymarket Trader](https://www.wsj.com/finance/currencies/how-online-sleuthing-helped-catch-the-google-polymarket-trader-b6ccebb0)
-- [TurboQuant: Is the Compression and Performance Worth the Hype?](https://www.kdnuggets.com/turboquant-is-the-compression-and-performance-worth-the-hype)
-- [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
