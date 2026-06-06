@@ -35,10 +35,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [How TeamPCP's Python Toolkit Survives a C2 Takedown: FIRESCALE, GitHub, and the…](https://hunt.io/blog/teampcp-python-toolkit-firescale-github-c2-takedown)
 - [Microsoft upgrades controversial quantum chip — researchers are still sceptical](https://www.nature.com/articles/d41586-026-01788-y)
 - [The world's largest private laser just fired up in race to make fusion power real](https://www.techspot.com/news/112641-world-largest-private-laser-fired-up-race-make.html)
 - [New 3D silicon chip breakthrough could extend Moore’s Law for years](https://www.sciencedaily.com/releases/2026/05/260530053412.htm)
 - [Trump executive order on AI gives central role to NSA](https://breakingdefense.com/2026/06/trump-executive-order-on-ai-gives-central-role-to-nsa/)
-- [Profitable on day one!](https://longform.asmartbear.com/ramen-profitable/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
