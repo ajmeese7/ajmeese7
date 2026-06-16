@@ -33,6 +33,12 @@ Building security-forward platforms and tooling that remove operational friction
 **Stack**<br>
 Docker · Kubernetes · Node.js · Python · Go · Rust
 
+**Latest posts**<br>
+<!-- BLOG-POSTS:START -->
+- [How much wind does it take to blow an ant off a wall?](https://meese.rs/posts/wind-to-move-an-ant/)
+<!-- BLOG-POSTS:END -->
+<a href="https://meese.rs" target="_blank">More →</a>
+
 **Reading**<br>
 <!-- READING-LOG:START -->
 - [How SpaceX Became Embedded in America’s War Machine](https://thecurrency.news/articles/229517/how-spacex-became-embedded-in-americas-war-machine/)
