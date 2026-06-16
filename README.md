@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://link.aaronmeese.com/linkedin">LinkedIn</a> ·
-  <a href="https://link.aaronmeese.com/medium">Blog</a> ·
+  <a href="https://link.aaronmeese.com/linkedin" target="_blank">LinkedIn</a> ·
+  <a href="https://link.aaronmeese.com/medium" target="_blank">Medium</a> ·
+  <a href="https://meese.rs" target="_blank">Blog</a> ·
   <a href="mailto:aaron@meese.dev">Email</a>
 </p>
 
@@ -42,3 +43,9 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 - [How Anthropic enables self-service data analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
+
+**Latest posts**<br>
+<!-- BLOG-POSTS:START -->
+- [How much wind does it take to blow an ant off a wall?](https://meese.rs/posts/wind-to-move-an-ant/)
+<!-- BLOG-POSTS:END -->
+<a href="https://meese.rs" target="_blank">More →</a>

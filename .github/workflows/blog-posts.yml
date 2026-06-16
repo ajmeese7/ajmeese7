@@ -1,4 +1,4 @@
-name: Update Reading Log
+name: Update Blog Posts
 
 on:
   workflow_dispatch:
@@ -21,19 +21,17 @@ jobs:
         with:
           python-version: "3.13"
       - name: Update README
-        env:
-          READING_LOG_MARKDOWN_URL: ${{ secrets.READING_LOG_MARKDOWN_URL }}
         run: |
-          python scripts/update-reading-log.py
+          python scripts/update-blog-posts.py
       - name: Commit changes
         run: |
           if git diff --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git config user.name "reading-log-bot"
-          git config user.email "reading-log-bot@users.noreply.github.com"
+          git config user.name "blog-posts-bot"
+          git config user.email "blog-posts-bot@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: update reading log"
+          git commit -m "docs: update blog posts"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
