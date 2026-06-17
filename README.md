@@ -36,11 +36,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai/)
+- [never waste a token](https://sunilpai.dev/posts/never-waste-a-token/)
 - [How SpaceX Became Embedded in America’s War Machine](https://thecurrency.news/articles/229517/how-spacex-became-embedded-in-americas-war-machine/)
 - [Using LLMs to secure source code](https://claude.com/blog/using-llms-to-secure-source-code)
 - [When you have nothing: How to find potential customers to interview](https://longform.asmartbear.com/find-customers-to-interview/)
-- [The Iterative-Hypothesis customer development method](https://longform.asmartbear.com/customer-development/)
-- [How Anthropic enables self-service data analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
