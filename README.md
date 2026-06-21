@@ -46,6 +46,7 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Latest posts**<br>
 <!-- BLOG-POSTS:START -->
+- [An ant is too small to have one drag coefficient](https://meese.rs/posts/an-ant-is-too-small-for-one-drag-coefficient/)
 - [How much wind does it take to blow an ant off a wall?](https://meese.rs/posts/wind-to-move-an-ant/)
 <!-- BLOG-POSTS:END -->
 <a href="https://meese.rs" target="_blank">More →</a>
