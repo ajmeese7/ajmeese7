@@ -36,11 +36,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [ADD / XOR / ROL: RL economics, morally charged terms, and "distillation"](https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html)
 - [Using the Needs Stack for competitive strategy](https://longform.asmartbear.com/needs-stack)
 - [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai/)
 - [never waste a token](https://sunilpai.dev/posts/never-waste-a-token/)
 - [How SpaceX Became Embedded in America’s War Machine](https://thecurrency.news/articles/229517/how-spacex-became-embedded-in-americas-war-machine/)
-- [Using LLMs to secure source code](https://claude.com/blog/using-llms-to-secure-source-code)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
