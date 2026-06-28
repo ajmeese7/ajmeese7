@@ -36,11 +36,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [GPS Jamming Can Be Solved With Existing Satcom Signals](https://maritime-executive.com/editorials/gps-jamming-can-be-solved-with-existing-satcom-and-cell-tower-signals)
+- [img2bez: Raster-to-Vector Autotracing for Type Design | Eli Heuer](https://elih.net/blog/img2bez/)
 - [ADD / XOR / ROL: RL economics, morally charged terms, and "distillation"](https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html)
 - [Using the Needs Stack for competitive strategy](https://longform.asmartbear.com/needs-stack)
 - [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai/)
-- [never waste a token](https://sunilpai.dev/posts/never-waste-a-token/)
-- [How SpaceX Became Embedded in America’s War Machine](https://thecurrency.news/articles/229517/how-spacex-became-embedded-in-americas-war-machine/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
