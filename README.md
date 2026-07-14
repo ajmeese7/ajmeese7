@@ -36,11 +36,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Anthropic is removing its covert code for catching Chinese competitors](https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366)
 - [GPS Jamming Can Be Solved With Existing Satcom Signals](https://maritime-executive.com/editorials/gps-jamming-can-be-solved-with-existing-satcom-and-cell-tower-signals)
 - [img2bez: Raster-to-Vector Autotracing for Type Design | Eli Heuer](https://elih.net/blog/img2bez/)
 - [ADD / XOR / ROL: RL economics, morally charged terms, and "distillation"](https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html)
 - [Using the Needs Stack for competitive strategy](https://longform.asmartbear.com/needs-stack)
-- [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
