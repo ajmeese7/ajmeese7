@@ -47,6 +47,7 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 **Latest posts**<br>
 <!-- BLOG-POSTS:START -->
 - [Feed your AI agent your Medium writing](https://meese.rs/posts/medium-rss-for-agent-context/)
+- [Ponytail](https://meese.rs/posts/review-ponytail/)
 - [An ant is too small to have one drag coefficient](https://meese.rs/posts/an-ant-is-too-small-for-one-drag-coefficient/)
 - [How much wind does it take to blow an ant off a wall?](https://meese.rs/posts/wind-to-move-an-ant/)
 <!-- BLOG-POSTS:END -->
