@@ -46,6 +46,7 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Latest posts**<br>
 <!-- BLOG-POSTS:START -->
+- [Two days to make the model write my resume, seven weeks to make it stop](https://meese.rs/posts/stopping-the-model-from-writing/)
 - [Feed your AI agent your Medium writing](https://meese.rs/posts/medium-rss-for-agent-context/)
 - [Ponytail](https://meese.rs/posts/review-ponytail/)
 - [An ant is too small to have one drag coefficient](https://meese.rs/posts/an-ant-is-too-small-for-one-drag-coefficient/)
