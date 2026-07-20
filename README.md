@@ -36,11 +36,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Agentic AI Threat Modeling Framework: MAESTRO](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
+- [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching)
 - [An Analysis of China's First Military LLM](https://chinatechnosphere.substack.com/p/an-analysis-of-chinas-first-military)
 - [Anthropic is removing its covert code for catching Chinese competitors](https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366)
 - [GPS Jamming Can Be Solved With Existing Satcom Signals](https://maritime-executive.com/editorials/gps-jamming-can-be-solved-with-existing-satcom-and-cell-tower-signals)
-- [img2bez: Raster-to-Vector Autotracing for Type Design | Eli Heuer](https://elih.net/blog/img2bez/)
-- [ADD / XOR / ROL: RL economics, morally charged terms, and "distillation"](https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
