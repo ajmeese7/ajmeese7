@@ -46,10 +46,10 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Latest posts**<br>
 <!-- BLOG-POSTS:START -->
+- [Trying to automate data-broker removals with Hermes](https://meese.rs/posts/automating-data-broker-removals-with-unbroker/)
 - [Two days to make the model write my resume, seven weeks to make it stop](https://meese.rs/posts/stopping-the-model-from-writing/)
 - [Feed your AI agent your Medium writing](https://meese.rs/posts/medium-rss-for-agent-context/)
 - [Ponytail](https://meese.rs/posts/review-ponytail/)
 - [An ant is too small to have one drag coefficient](https://meese.rs/posts/an-ant-is-too-small-for-one-drag-coefficient/)
-- [How much wind does it take to blow an ant off a wall?](https://meese.rs/posts/wind-to-move-an-ant/)
 <!-- BLOG-POSTS:END -->
 <a href="https://meese.rs" target="_blank">More →</a>
