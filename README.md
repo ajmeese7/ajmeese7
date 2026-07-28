@@ -19,6 +19,7 @@
   <a href="mailto:aaron@meese.dev">Email</a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://open.spotify.com/user/ajmeese">
     <picture>
@@ -27,6 +28,7 @@
     </picture>
   </a>
 </p>
+-->
 
 **Now**<br>
 Building security-forward platforms and tooling that remove operational friction.
