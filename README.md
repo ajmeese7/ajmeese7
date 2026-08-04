@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://link.aaronmeese.com/linkedin" target="_blank">LinkedIn</a> ·
-  <a href="https://link.aaronmeese.com/medium" target="_blank">Medium</a> ·
+  <!-- <a href="https://link.aaronmeese.com/medium" target="_blank">Medium</a> · -->
   <a href="https://meese.rs" target="_blank">Blog</a> ·
   <a href="mailto:aaron@meese.dev">Email</a>
 </p>
@@ -31,7 +31,7 @@
 -->
 
 **Now**<br>
-Building security-forward platforms and tooling that remove operational friction.
+Improving agentic observability and implementing deterministic safeguards.
 
 **Stack**<br>
 Docker · Kubernetes · Node.js · Python · Go · Rust
