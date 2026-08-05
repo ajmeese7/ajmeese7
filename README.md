@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Orchestrating AI Code Review at scale](https://blog.cloudflare.com/ai-code-review/)
+- [Group Chat: The Best Way to Totally Stress Out Your Team](https://37signals.com/group-chat-problems)
+- [Announcing Cloudflare Wallets: The programmable wallet for the agentic Internet](https://blog.cloudflare.com/wallets/)
 - [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/)
 - [Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
-- [The 2026-07-28 MCP Specification Release Candidate](https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/)
-- [Think through hard problems in voice mode](https://claude.com/blog/think-through-hard-problems-in-voice-mode)
-- [Stripe in Talks to Buy Buzzy AI-Model Marketplace OpenRouter](https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
