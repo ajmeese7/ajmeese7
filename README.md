@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
-- [Orchestrating AI Code Review at scale](https://blog.cloudflare.com/ai-code-review/)
-- [Group Chat: The Best Way to Totally Stress Out Your Team](https://37signals.com/group-chat-problems)
-- [Announcing Cloudflare Wallets: The programmable wallet for the agentic Internet](https://blog.cloudflare.com/wallets/)
-- [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/)
-- [Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
+- [Powerful AIs might escape containment by releasing themselves as open-weight models](https://www.seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/)
+- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
+- [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
+- [Programming (with AI agents) as theory building](https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/)
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
