@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudf…](https://blog.cloudflare.com/kitesurf/)
+- [Why You Should Almost Never Use AI to Write Anything Substantive](https://www.erichgrunewald.com/posts/why-i-think-you-should-almost-never-use-ai-to-write-anything-substantive/)
 - [Powerful AIs might escape containment by releasing themselves as open-weight models](https://www.seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/)
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 - [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
-- [Programming (with AI agents) as theory building](https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/)
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
