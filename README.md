@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [How to keep thinking](https://www.seangoedecke.com/how-to-keep-thinking/)
+- [China's Push to Export Military AI](https://chinatechnosphere.substack.com/p/chinas-push-to-export-military-ai)
+- [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
+- [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
 - [Introducing SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
-- [The GitHub Copilot Harness in Copilot Studio, Explained](https://www.aguidetocloud.com/blog/copilot-studio-github-copilot-harness-explained/)
-- [Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudf…](https://blog.cloudflare.com/kitesurf/)
-- [Why You Should Almost Never Use AI to Write Anything Substantive](https://www.erichgrunewald.com/posts/why-i-think-you-should-almost-never-use-ai-to-write-anything-substantive/)
-- [Powerful AIs might escape containment by releasing themselves as open-weight models](https://www.seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
