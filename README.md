@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
 - [How to keep thinking](https://www.seangoedecke.com/how-to-keep-thinking/)
 - [China's Push to Export Military AI](https://chinatechnosphere.substack.com/p/chinas-push-to-export-military-ai)
 - [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
 - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
-- [Introducing SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
