@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Water Groups Push Washington for Cyber Rules After Hacking Spree](https://www.wsj.com/pro/cybersecurity/water-groups-push-washington-for-cyber-rules-after-hacking-spree-39a48952?mod=article_inline)
+- [Your Agents Are Not Time-Aware](https://www.lesswrong.com/posts/eAbuPXbjakop5rSJx/your-agents-are-not-time-aware)
+- [NRO to expand use of HawkEye 360’s satellite intelligence](https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/)
+- [How I Stay Engaged in AI Agentic Development](https://spin.atomicobject.com/engaged-ai-agentic-development/)
 - [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
-- [How to keep thinking](https://www.seangoedecke.com/how-to-keep-thinking/)
-- [China's Push to Export Military AI](https://chinatechnosphere.substack.com/p/chinas-push-to-export-military-ai)
-- [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
-- [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
