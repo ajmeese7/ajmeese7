@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [I Am Morally Opposed to Updating My CLAUDE.md | Alex Jacobs](https://alex-jacobs.com/posts/claudemd/)
+- [Analyze agents using Agent Review Tool in Copilot Agent Kit - Microsoft Copilot…](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-agent-review-tool)
+- [AI Red Teaming Agent - Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/concepts/ai-red-teaming-agent)
+- [Microsoft Copilot Studio vs. Microsoft Foundry: Building AI Agents and Apps | Mi…](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160)
 - [Water Groups Push Washington for Cyber Rules After Hacking Spree](https://www.wsj.com/pro/cybersecurity/water-groups-push-washington-for-cyber-rules-after-hacking-spree-39a48952?mod=article_inline)
-- [Your Agents Are Not Time-Aware](https://www.lesswrong.com/posts/eAbuPXbjakop5rSJx/your-agents-are-not-time-aware)
-- [NRO to expand use of HawkEye 360’s satellite intelligence](https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/)
-- [How I Stay Engaged in AI Agentic Development](https://spin.atomicobject.com/engaged-ai-agentic-development/)
-- [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
