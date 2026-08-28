@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Junior staff ‘losing interpersonal skills’ by working from home](https://www.thetimes.com/business/companies-markets/article/ey-pushes-staff-back-to-office-wfh-develop-interpersonal-skills-6s7hbh9zb)
 - [I Am Morally Opposed to Updating My CLAUDE.md | Alex Jacobs](https://alex-jacobs.com/posts/claudemd/)
 - [Analyze agents using Agent Review Tool in Copilot Agent Kit - Microsoft Copilot…](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-agent-review-tool)
 - [AI Red Teaming Agent - Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/concepts/ai-red-teaming-agent)
 - [Microsoft Copilot Studio vs. Microsoft Foundry: Building AI Agents and Apps | Mi…](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160)
-- [Water Groups Push Washington for Cyber Rules After Hacking Spree](https://www.wsj.com/pro/cybersecurity/water-groups-push-washington-for-cyber-rules-after-hacking-spree-39a48952?mod=article_inline)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
