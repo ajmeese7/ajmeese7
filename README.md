@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
-- [Junior staff ‘losing interpersonal skills’ by working from home](https://www.thetimes.com/business/companies-markets/article/ey-pushes-staff-back-to-office-wfh-develop-interpersonal-skills-6s7hbh9zb)
-- [I Am Morally Opposed to Updating My CLAUDE.md | Alex Jacobs](https://alex-jacobs.com/posts/claudemd/)
-- [Analyze agents using Agent Review Tool in Copilot Agent Kit - Microsoft Copilot…](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-agent-review-tool)
-- [AI Red Teaming Agent - Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/concepts/ai-red-teaming-agent)
-- [Microsoft Copilot Studio vs. Microsoft Foundry: Building AI Agents and Apps | Mi…](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160)
+- [Why I Stopped Arguing With People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
+- [TraceLabs CTF MVO - Vincent](https://vincent-hollander.tech/MVO-Writeup.html)
+- [When you want to quit because it’s just not worth it](https://longform.asmartbear.com/startups-emotionally-draining/)
+- [Cisco Gave All 90,000 Employees Their Own AI Agent](https://www.wsj.com/cio-journal/cisco-gave-all-90-000-employees-their-own-ai-agent-1a4ad8bc)
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
