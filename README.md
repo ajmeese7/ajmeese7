@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [More Money Than They Ever Imagined—and No Clue How to Spend It](https://www.wsj.com/tech/ai/ai-tech-anthropic-openai-ipo-0a9da59e)
 - [How to protect yourself from workslop](https://www.seangoedecke.com/how-to-protect-yourself-from-workslop/)
 - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 - [Why I Stopped Arguing With People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
 - [TraceLabs CTF MVO - Vincent](https://vincent-hollander.tech/MVO-Writeup.html)
-- [When you want to quit because it’s just not worth it](https://longform.asmartbear.com/startups-emotionally-draining/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
