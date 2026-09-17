@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/)
+- [I Came, I Prompted, I Left Part 2: Building a GPU Driver From Scratch in One Mon…](https://codyho.dev/blog/gpu-driver/)
 - [The 8 habits of great conversationalists](https://www.fastcompany.com/91604120/the-8-habits-of-great-conversationalists)
 - [More Money Than They Ever Imagined—and No Clue How to Spend It](https://www.wsj.com/tech/ai/ai-tech-anthropic-openai-ipo-0a9da59e)
 - [How to protect yourself from workslop](https://www.seangoedecke.com/how-to-protect-yourself-from-workslop/)
-- [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
-- [Why I Stopped Arguing With People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
