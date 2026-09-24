@@ -38,11 +38,11 @@ Docker · Kubernetes · Node.js · Python · Go · Rust
 
 **Reading**<br>
 <!-- READING-LOG:START -->
+- [CVE-2026-87902: A Working PoC for WordPress's Critical Path Traversal](https://hadrian.io/vulnerability-alerts/cve-2026-87902-working-poc-wordpress-critical-path-traversal)
 - [Introducing GPT‑6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
 - [‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
 - [Hill investigates after F-35 parts diverted to Hong Kong](https://www.politico.com/news/2026/09/18/congress-f-35-china-investigation-01083647)
 - [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
-- [Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/)
 <!-- READING-LOG:END -->
 <a href="https://reading.aaronmeese.com" target="_blank">More →</a>
 
